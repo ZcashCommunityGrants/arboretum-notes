@@ -1,7 +1,7 @@
 
 # Arborist Call  #30 Notes
 
-Meeting Date/Time: June 16, 2022, 13:30 UTC
+Meeting Date/Time: June 16, 2022, 15:30 UTC
 
 Meeting Duration: 18 minutes
 
