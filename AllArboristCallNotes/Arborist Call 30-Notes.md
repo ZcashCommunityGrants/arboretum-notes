@@ -94,7 +94,7 @@ ______
 
  "Coinmetrics is fully functional, Block explorers are fully functional we have an update to [get] and [decode][raw transaction] which is a couple of RPC's in Zcashd which adds an ability to see details in raw transactions, obviously not the sender/receiver or amount but number of actions for example. Our plan is to include that in our next release of Zcashd which is 5.1.0 which is roughly 6 weeks after 5.0.0 which is the cadence we like to follow if we're not a hot fix or bumping up against a halt which in this case we are not."
 
- "Congratulations to everyone from ECC the fundation and all our ecosystem partners to make NU5 possible"
+ "Congratulations to everyone from ECC the foundation and all our ecosystem partners to make NU5 possible"
 
 
 ___
