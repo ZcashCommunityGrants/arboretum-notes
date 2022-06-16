@@ -17,4 +17,4 @@ Steven Smith from ECC facilitates and records the meetings.
 
  №  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
-1 | Thursday 16 Jun 2022, 21:30 UTC| [agenda] | no notes | not recorded | 
+1 | Thursday 16 Jun 2022, 15:30 UTC| [agenda] | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2030-Notes.md) | not recorded | 
