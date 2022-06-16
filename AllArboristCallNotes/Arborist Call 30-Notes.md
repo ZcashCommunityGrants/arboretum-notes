@@ -31,7 +31,7 @@ ___
 
 ### Zebrad Updates - 1. DNS Seeder
 
-Conrado 03:51 -  "So lately we were working on making Zebra work as a lightwalletd backend, its mostly done. There is one issue that we are investigating some test failure that only happens in CI which is annoying, but we investigate it hopefully its not a bug its just a CI issue but other than that we test it with some wallets like nighthawk and zecwallet so that's good, we're glad that we have finished that chunk of work."
+Conrado 03:51 -  "So lately we were working on making Zebra work as a lightwalletd backend, it's mostly done. There is one issue that we are investigating some test failure that only happens in CI which is annoying, but we investigate it hopefully it's not a bug its just a CI issue but other than that we test it with some wallets like Nighthawk and Zecwallet so that's good, we're glad that we have finished that chunk of work."
 
 
 04:39 "Something else which happened I mentioned on the last Arborist Call, I was testing our DNS seeder and it was behaving weirdly, it was seeming to be offline. It was a bunch of issues which together had presented this problem. The first issue that was happening, there were a bunch of Flux nodes, that is a fork of Zcash and the number increased a lot recently, I think to 8000 nodes and our DNS seeder was not enforcing a minimum protocol version" 
@@ -63,11 +63,11 @@ ______
 ### 3. Zcashd Updates
 
 
-  Steven 10:30 - "Over the last couple of weeks we've had some folks on PTO, we did some work on cxx.rs which we're using to replace handwired FFI between Rust and c++ with something that should be more safe. If I understand correctly it generates a bit of the FFI stubs perhaps, str4d was working on that prior to going on PTO."
+  Steven 10:30 - "Over the last couple of weeks we've had some folks on PTO, we did some work on cxx.rs which we're using to replace handwired FFI between Rust and C++ with something that should be more safe. If I understand correctly it generates a bit of the FFI stubs perhaps, Str4d was working on that prior to going on PTO."
 
-  11:05 - "We've updated the Zcash address to allow for parser errors to be exposed which is pretty handy for people looking to parse addresses. We intergrated something called cargo-vet which if i understand correctly is a way to establish your dependencies are correct."
+  11:05 - "We've updated the Zcash address to allow for parser errors to be exposed which is pretty handy for people looking to parse addresses. We integrated something called cargo-vet which if i understand correctly is a way to establish your dependencies are correct."
 
-  "We have been working on the recursion related API's in Halo and for some time we paused work on it because we didn't want our CI to been in any state of Flux around the NU5 activation. We have been working on really substantial update to our CI system to improve reliability and build/test times."
+  "We have been working on the recursion related API's in Halo and for some time we paused work on it because we didn't want our CI to been in any state of flux around the NU5 activation. We have been working on really substantial update to our CI system to improve reliability and build/test times."
 
 
   "That's getting really close, should have it deployed any day now and we are looking forward to that, there will be some incremental improvements. This is a long term project that we are about to deploy so it should make everyone really happy that builds & runs Zcashd and submits PR's."
@@ -94,7 +94,7 @@ ______
 
  "Coinmetrics is fully functional, Block explorers are fully functional we have an update to [get] and [decode][raw transaction] which is a couple of RPC's in Zcashd which adds an ability to see details in raw transactions, obviously not the sender/receiver or amount but number of actions for example. Our plan is to include that in our next release of Zcashd which is 5.1.0 which is roughly 6 weeks after 5.0.0 which is the cadence we like to follow if we're not a hot fix or bumping up against a halt which in this case we are not."
 
- "Congratulations to everyone from ECC the Foundation and all our Ecosystem partners to make NU5 possible"
+ "Congratulations to everyone from ECC the fundation and all our ecosystem partners to make NU5 possible"
 
 
 ___
