@@ -19,7 +19,7 @@ Moderator: Steven Smith
 ___
 ## Decisions & Action Items
 
-i. Analyse tests of Tokio tool
+i. Analyze tests of Tokio tool
 
 ii. Cleaning up CI documentation 
 
@@ -77,24 +77,24 @@ ______
 
 
 
-### 4. NU5 Ecosystem updates - 1. Coinbase
+### 4. NU5 Integration updates - 1. Coinbase
 
 
  Steven 12:57 - "At the last Arborist call we had one exchange that was working through a few issues. We had worked with Coinbase for a few months in the lead up to NU5 activation. The team we were working with was not aware there was an older, deprecated way of interacting with Zcash that was used on the retail side. 
 
- "They had the institutional working well and tested weeks in advance of NU5 activating and found the retails side used a different codebase, we worked with then for over a week and a half after NU5 activated to get squared away." 
+ "They had the institutional working well and tested weeks in advance of NU5 activating and found the retail's side used a different codebase, we worked with then for over a week and a half after NU5 activated to get squared away." 
 
  "Coinbase had a new team that wasnt too familiar with that part of the code and had not worked with a bitcoin based type coin before. They're a great group of people, we enjoy working with them and Str4d did an excellent job."
 
- 14:10 - "They have come back after the fact and asked if there is a way to not have do the transaction parsing themselves. We are looking to implement UNIFFI which essentially generates language bindings for a number of languages for Rust. That may be a way for them to rely on our Rust crates for the things they do themselves." 
+ 14:10 - "They have come back after the fact and asked if there is a way to not have do the transaction parsing themselves. We are looking to implement UniFFI which essentially generates language bindings for a number of languages for Rust. That may be a way for them to rely on our Rust crates for the things they do themselves." 
 
- ### 4. NU5 Ecosystem updates - 2. Wallets
+ ### 4. NU5 Ecosystem updates - 1. Wallets
 
  Steven 14:45 - "Nighthawk, Unstoppable, Edge, ZecWalletLite all versions are fully functional as far as we know. Ledger is fully functional again, ledger typically upgrades when something stops working although we let them know ahead of time that it was coming."
 
  "Coinmetrics is fully functional, Block explorers are fully functional we have an update to [get] and [decode][raw transaction] which is a couple of RPC's in Zcashd which adds an ability to see details in raw transactions, obviously not the sender/receiver or amount but number of actions for example. Our plan is to include that in our next release of Zcashd which is 5.1.0 which is roughly 6 weeks after 5.0.0 which is the cadence we like to follow if we're not a hot fix or bumping up against a halt which in this case we are not."
 
- "Congratulations to everyone from ECC the foundation and all our ecosystem partners to make NU5 possible"
+ "Congratulations to everyone from ECC the Foundation and all our Ecosystem partners to make NU5 possible"
 
 
 ___
@@ -114,6 +114,8 @@ ___
 + Sean
 
 + Larry 
+
++ AdiZCG
 
 + Marek
 
