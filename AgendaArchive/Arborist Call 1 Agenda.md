@@ -12,7 +12,7 @@ ___
 1. Welcome and Meeting Intro 
 2. Research & Implementation Status Updates
 
-   Deidre Connoly - Zebrad
+   Deirdre Connoly - Zebrad
 
    Steven Smith - Zcashd
 
