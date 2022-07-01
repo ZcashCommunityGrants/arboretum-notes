@@ -15,6 +15,8 @@ Meeting Duration: 38 minutes
 Video of the meeting: [Recorded]
 
 Moderator: Steven Smith
+
+
 Notes: Jason Rogers
 
 ___
