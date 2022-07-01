@@ -111,6 +111,8 @@ I do remember too the last time we had Ziggurat on the call we were looking at t
 
 Gustavo - UTC -4, commonly New York time.
 
+___
+
 ### 3. Open Discussion - 2. Orchard Verification
 
 
@@ -147,6 +149,8 @@ Hopefully when we get batching in we can increase the default limit there. I was
  
 **Marshall** [28:20] - The second question Teor asked about which was the common ground of rules or alerts or monitoring, how we cache the state across the ecosystem. Hand-in-hand with what Dodger was saying bring all the DevSecOps folks in together I was thinking maybe the next step would be to get a common Rule set / Alerting set that we can build off, at least folks could share this in a test suite just to have sanity check references of what they may be seeing compared to others. We are totally open to other ideas and maybe doing something completely different because I know Ziggurats gone into all the cases with each node.
 
+___
+
 ### 3. Open Discussion - 3. Node Metrics
 
 
@@ -156,7 +160,6 @@ Hopefully when we get batching in we can increase the default limit there. I was
 
 
 **Daira** [31:33] - We really should be more organised about this because we might get an attacker who actually knows what they're doing. 
-
 
 
 **Teor**[32:19] - Would you mind if I shared my screen and showed what the Tor metrics looked like? (https://metrics.torproject.org/torperf.html)
