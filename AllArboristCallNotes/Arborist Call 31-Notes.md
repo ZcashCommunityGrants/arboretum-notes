@@ -58,7 +58,7 @@ ______
 
  [09:37] We also made it where 'rescan' will now only kick off once 'reindex' is completed. Previously 'reindex' and 'rescan' were totally seperate functions. 'Reindex' was not a superset that included 'rescan' but we adjusted the logic so essentially it is at this point. 
 
- We improved [z_gettreestate] performance, that's one of the RPCs. Thats honestly not as much of an issue after NU5 as it was before but nonetheless we have that code in there, its merged. As i mentioned before [gettransaction[] & [decoderawtransaction] we did not have the Orchard details in specifically for that. Where that would show up primarily is block explorers trying identify number of Orchard actions in a transaction for example. Definitely not the sender, receiver or amount of course but the little bit of info they needed for block explorer when looking at individual transaction.   
+ We improved [z_gettreestate] performance, that's one of the RPCs. Thats honestly not as much of an issue after NU5 as it was before but nonetheless we have that code in there, its merged. As i mentioned before [gettransaction] & [decoderawtransaction] we did not have the Orchard details in specifically for that. Where that would show up primarily is block explorers trying identify number of Orchard actions in a transaction for example. Definitely not the sender, receiver or amount of course but the little bit of info they needed for block explorer when looking at individual transaction. 
 
  ___
 
@@ -105,11 +105,11 @@ ___
 I do remember too the last time we had Ziggurat on the call we were looking at taking some of their tests and including those in a test suite too. To have that kind of multinode test suite and a network level test suite all in one place if you wanted to run it could be really cool, in addition to people doing other protocol development. Maybe they're not doing a full node for example but they want to know their work would impact a full node so they would have access to that test suite too, excellent idea Dodger. 
 
 
-**Gustavo** [19:57] - Nice to meet you, if you need anything Dodger will put us in contact but there is anything that you'll need to know about the actual implementation just let me know. 
+**Gustavo** [19:57] - Nice to meet you. If you need anything Dodger will put us in contact, but if there is anything that you'll need to know about the actual implementation just let me know. 
 
 **Marshall** - What timezone are you in?
 
-Gustavo - UTC -4, commonly New York time.
+**Gustavo** - UTC -4, commonly New York time.
 
 ___
 
@@ -183,7 +183,7 @@ They had some researchers work on performance graphs adopted into the official m
 
 **Str4d** - The number of nodes would be fine, the ways in which nodes are connected is more the sort of thing I'd want to be careful about. 
 
-**Daira** - Even if it's, in principle public information you don't want to make it too easy for an attacker. 
+**Daira** - Even if it is in principle public information, you don't want to make it too easy for an attacker. 
 
 **Steven** - Good seeing everyone again, thanks for all the comments and input. 
 
