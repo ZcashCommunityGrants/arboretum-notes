@@ -20,7 +20,7 @@ Steven Smith from ECC facilitates and records the meetings.
 
  №  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
-31 | 30 Jun 2022 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2031%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2031-Notes.md) | [recorded] | 
+31 | 30 Jun 2022 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2031%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2031-Notes.md) | [recording](https://www.youtube.com/watch?v=Lqo65dXDC3g) | 
 30 | 16 Jun 2022 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2030%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2030-Notes.md) | [recording](https://www.youtube.com/watch?v=afdVdGDgB9k) | 
 29 | 21 Apr 2022| [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2029%20Agenda.md) |  | [recording](https://youtu.be/WAMZ_FPu2S8) | 
 28 | 24 March 2022| [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2028%20Agenda.md) |  | [recording](https://youtu.be/-r06Dm41DS0) | 
