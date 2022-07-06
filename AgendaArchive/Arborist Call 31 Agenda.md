@@ -4,7 +4,7 @@ Meeting Date: June 30, 2022
 
 Duration: 38 minutes
 
-[Recorded]
+[Recording](https://youtu.be/Lqo65dXDC3g)
 
 [Full Notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/ArboristCall%2031-Notes.md)
 
