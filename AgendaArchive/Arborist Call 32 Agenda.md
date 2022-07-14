@@ -14,9 +14,9 @@ Welcome and Meeting Intro
 
 Research & Implementation Status Updates
 
-Zebrad Status updates
++ Zebrad Status updates
 
-Zcashd Status updates
++ Zcashd Status updates
 
 Open Discussion
 
