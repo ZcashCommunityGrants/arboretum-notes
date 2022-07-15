@@ -24,4 +24,4 @@ Wrap up / Read Out
 
 ___
 
-**Next Meeting scheduled for July 30th 2022, 22:30 UTC**
+**Next Meeting scheduled for July 28th 2022, 22:30 UTC**
