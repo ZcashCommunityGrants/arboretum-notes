@@ -424,7 +424,7 @@ ___
 
 + Dan Thomas 
 
-+ Gustavo Valcerde 
++ Gustavo Valverde 
 
 + Hazel O'hearn 
 
@@ -455,7 +455,7 @@ ___
 
 ___
 
-**Next Meeting Scheduled For: July 30, 2022 22:30 UTC**
+**Next Meeting Scheduled For: July 28, 2022 22:30 UTC**
 
 
 
