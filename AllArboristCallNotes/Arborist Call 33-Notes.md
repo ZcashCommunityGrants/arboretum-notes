@@ -1,7 +1,7 @@
 
 # Arborist Call  #33 Notes
 
-Meeting Date/Time: July 28, 2022, 22:30 UTC
+Meeting Date/Time: July 28, 2022, 21:30 UTC
 
 Meeting Duration: 50 minutes
 
@@ -15,6 +15,8 @@ Meeting Duration: 50 minutes
 Video of the meeting: [Recorded]
 
 Moderator: Nick Takacs
+
+
 Notes: Jason Rogers
 
 ___
