@@ -5,7 +5,7 @@ Duration: 50 minutes
 
 [Full notes](https://github.com/ZcashCommunityGrants/arboretum-notes/tree/main/AllArboristCallNotes)
 
-[Recorded]
+[Video](https://www.youtube.com/watch?v=kzoFcZd4Wo8)
 
 
 ## Agenda
@@ -30,7 +30,7 @@ Research & Implementation Status Updates
 
    Performance related issues w/ wallet
 
-Open Discussion
++ Open Discussion
 
    Fee structure proposals
 
