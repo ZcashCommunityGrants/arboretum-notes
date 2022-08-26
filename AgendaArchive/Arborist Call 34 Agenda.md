@@ -19,24 +19,26 @@ Research & Implementation Status Updates
 
 + Zcashd Status updates
 
-   Increased Network Load
+      Increased Network Load
 
-   Transaction Rates / Blockchain Size 
+      Transaction Rates / Blockchain Size 
 
-   Protocol Updates 
+      Protocol Updates 
 
-   Mobile Updates
+      Mobile Updates
 
-   ECC's Focus 
+      ECC's Focus 
 
 
    
 
-Open Discussion
++ Open Discussion
 
-   Upcoming release for Zcash Client Backend
+      Upcoming release for Zcash Client Backend
 
-   Sync Time Improvement Methods / Fee Mechanisms 
+      Sync Time Improvement  Detection Key Protocol / DAGSync / Block Sizes
+      
+      Fee Mechanism Proposals
    
 
 Wrap up / Read Out
