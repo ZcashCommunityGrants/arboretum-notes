@@ -4,6 +4,7 @@
 Duration: 50 minutes
 
 [Full notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2034-Notes.md)
+
 [Recorded]
 
 
