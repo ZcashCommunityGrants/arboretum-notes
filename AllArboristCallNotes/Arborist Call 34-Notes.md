@@ -1,7 +1,7 @@
 
 # Arborist Call  #34 Notes
 
-Meeting Date/Time: August 25th, 2022, 21:30 UTC
+Meeting Date/Time: August 25th 2022, 21:30 UTC
 
 Meeting Duration: 50 minutes
 
@@ -39,9 +39,11 @@ ___
 ### 1. Zebrad Updates 
 
 [02:44] - **Teor**
+
 We just rotated the Zebra team lead a few weeks ago so thats me now. As you might imagine it has been a slow month for Zebra development because we were all helping run a conference. We've mainly been doing some preparations for a release candidate. Looking at getting our testing all sorted, doing some dependancy updates, some minor performance improvements. Those kinds of things. 
 
 [03:18]
+
 Thats what we've been looking at on the Zebra side. There's a few minor fixes to the network protocol but we are mainly looking towards the next few releases where we are hoping to be ready for a release candidate. The last release which i think Conrado might have spoken about, we made a number of breaking changes to the configuration and a number of performance improvements. 
 
 
