@@ -158,12 +158,6 @@ Correct, moving to unified addresses, what that will do, the unified spending ke
 Little bit of a lesson learned from the protocol there. In hindsight would have been a great way to have ruled out unified addresses first and then like orchard maybe in a subsequent upgrade but thats water under the bridge. Thanks Str4d & Daira for that clarification. 
 
 
-___
-
-
-### 3. Open Discussion - Sync Time Improvements 
-
-
 [22:17](https://youtu.be/br245bMjf0o?t=1337) - **Dodger**
 
 Obviously part of the issues that we've seen recently are due in part to the way lightwallets currently work, just their architecture. I'm curious as to, is the planned ECC wallet going to be built on that same architecture or are you looking at doing something different?
@@ -171,6 +165,12 @@ Obviously part of the issues that we've seen recently are due in part to the way
 [23:00](https://youtu.be/br245bMjf0o?t=1380) - **Steven**
 
 At the moment the plan is to leverage the lightwalletd intermediate server. There have been conversations that occured in the past randomly that would have a different architecture and didn't require a lightwallet server but thats quite honestly over my head to do justice trying to explain what they were thinking. To answer your question, the plan as we have it set right now is to use that same lightwallet architecture. Hopefully with the improved sync we are about to include in our mobile SDK's, projects that were built on those SDK's, the sync times will be acceptable.
+
+___
+
+
+### 3. Open Discussion - Detection Key Style Protocol / DAGSync
+
 
 [23:51](https://youtu.be/br245bMjf0o?t=1431) - **Str4d**
 
@@ -258,7 +258,7 @@ That's a transparent thing because you can't spend shielded change until its bee
 ___
 
 
-### 3. Open Discussion - Sync Time Improvements (ii)
+### 3. Open Discussion - Sync Time Improvements (ii) Fee Change Mechanisms / ZIP 
 
 
 
