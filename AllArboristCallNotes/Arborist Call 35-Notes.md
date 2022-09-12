@@ -24,7 +24,7 @@ ___
 
 i. Roadmap around ZIP 317 & ZSA Fee Changes 
 
-ii. File Issue on Librustzcash regarding UA's w/ Orchard components
+ii. File Issue on Librustzcash regarding UA's w/ Orchard components [#630](https://github.com/zcash/librustzcash/issues/630)
 
 iii. ZSA team discussion around circuit optimisations
 
@@ -279,7 +279,7 @@ I can't remember if thats currently the case, I will go back and check. In any c
 
 [34:17] - **Daira**
 
-What crate should I file an issue on to make sure that we are not outputting UA's with Orchard components yet.
+What crate should I file an issue [#630](https://github.com/zcash/librustzcash/issues/630) on to make sure that we are not outputting UA's with Orchard components yet.
 
 [35:37] - **Str4d**
 
