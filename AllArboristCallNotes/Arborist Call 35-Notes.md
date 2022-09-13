@@ -24,7 +24,7 @@ ___
 
 i. Roadmap around ZIP 317 & ZSA Fee Changes 
 
-ii. File Issue on Librustzcash regarding UA's w/ Orchard components [#630](https://github.com/zcash/librustzcash/issues/630)
+ii. File Issue [#630](https://github.com/zcash/librustzcash/issues/630) on Librustzcash regarding UA's w/ Orchard components 
 
 iii. ZSA team discussion around circuit optimisations
 
@@ -56,7 +56,7 @@ We are currently making sure that the release process for Zebra release candidat
 
 We have a new engineer and they started last week. Arya is joining us and one of their first commits was that instead of doing zebrad start every time you can just run zebrad and it will do zebrad start as default and apparently that was a tricky thing to do based on the library that we used to scaffold all of our commands and config for our command line configs because they don't want you to do it like that by default but welcome to Arya!
 
-[35:59](https://youtu.be/Cpw__dtZLpA?t=2159 - **Adi**
+[35:59](https://youtu.be/Cpw__dtZLpA?t=2159) - **Adi**
 
 Since we are on the wallet discussion, just want to hear from the Zebra team about their progress. What is their timeline on adding the wallet functionality to the Zebra node. 
 
