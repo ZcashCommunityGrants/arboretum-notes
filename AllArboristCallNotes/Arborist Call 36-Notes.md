@@ -114,7 +114,7 @@ One other thing is the proposal is setting these hardcoded parameters and it's r
 
 [15:18] - **Daira**
 
-I just wanted to say that we made a lot of progress on the actual [ZIP](https://github.com/zcash/zips/pull/631). Editorial issues and clarifying the formula in the zip sync on Wednesday so there's a PR to make those updates. That's a [PR to Aditya's branch]((https://github.com/nighthawk24/zips/pull/2)). 
+I just wanted to say that we made a lot of progress on the actual [ZIP](https://github.com/zcash/zips/pull/631). Editorial issues and clarifying the formula in the zip sync on Wednesday so there's a PR to make those updates. That's a [PR to Aditya's branch](https://github.com/nighthawk24/zips/pull/2). 
 
 [15:56] - **Nate**
 
