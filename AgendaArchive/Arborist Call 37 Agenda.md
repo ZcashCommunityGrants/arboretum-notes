@@ -2,7 +2,7 @@
 
 **Meeting Date: October 6th, 2022 15:00 UTC**
 
-Duration: 50 minutes
+Duration: 30 minutes
 
 [Full notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2037-Notes.md)
 
@@ -23,12 +23,12 @@ Research & Implementation Status Updates
 + Zcashd updates
 
         Status Update
-        ZIP 317 Parameter Selection 
-        ZIP 317 Parameter Analysis
-
+       
 
 + Open Discussion
-    
+
+        ZIP 317 Parameter Selection 
+        ZIP 317 Parameter Analysis
         Fee Structure Roadmap 
    
 
