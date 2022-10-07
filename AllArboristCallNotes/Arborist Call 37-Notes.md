@@ -15,7 +15,7 @@ Meeting Duration: 30 minutes
 + Open Discussion
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=UbHvwoJS178)
 
 Moderator: Steven Smith
 
