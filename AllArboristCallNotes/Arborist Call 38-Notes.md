@@ -28,10 +28,10 @@ ___
 
 ## Decisions & Action Items
 
-| Item | Description                                                                                             |
-| ----------- | ------------------------------------------------------------------------------------------------------- |
-| **1** |   Ecosystem Sync  | Wallet devs & Ecosystem participants to discuss impacts of fee changes with ECC 
-| **2** |   Transaction Fee Tool    | Core team to upgrade 'zcash_inspect' tool to add fee calculation
+
+i)   Wallet devs & Ecosystem participants to discuss impacts of fee changes with ECC 
+
+ii)  Core team to upgrade 'zcash_inspect' tool to add fee calculation
 
 
 
