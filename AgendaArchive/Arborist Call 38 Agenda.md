@@ -6,7 +6,7 @@ Duration: 35 minutes
 
 [Full notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2038-Notes.md)
 
-[Recorded]
+[Recording](https://www.youtube.com/watch?v=dhtjVWjnmsU)
 
 
 ## Agenda
@@ -17,12 +17,12 @@ Research & Implementation Status Updates
 
 + Zebrad Status updates 
 
-      Zebra 1.0.0 release candidate 
+      [Zebra 1.0.0 release candidate](https://github.com/ZcashFoundation/zebra/releases/tag/v1.0.0-rc.0) 
        
 
 + Zcashd updates
  
-      Status Updates / 5.3.0 details 
+      Status Updates / [5.3.0 details](https://github.com/zcash/zcash/releases/tag/v5.3.0)
       ZIP 317 Updated Parameter Selection / Analysis
 
 
