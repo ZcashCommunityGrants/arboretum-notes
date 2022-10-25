@@ -17,12 +17,12 @@ Research & Implementation Status Updates
 
 + Zebrad Status updates 
 
-      [Zebra 1.0.0 release candidate](https://github.com/ZcashFoundation/zebra/releases/tag/v1.0.0-rc.0) 
+      Zebra 1.0.0 release candidate 
        
 
 + Zcashd updates
  
-      Status Updates / [5.3.0 details](https://github.com/zcash/zcash/releases/tag/v5.3.0)
+      Status Updates / 5.3.0 details
       ZIP 317 Updated Parameter Selection / Analysis
 
 
