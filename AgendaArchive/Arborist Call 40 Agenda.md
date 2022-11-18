@@ -18,7 +18,7 @@ Welcome and Meeting Intro
 
 + Zebrad Status updates 
 
-     Updates on RPC methods & Integration tests w/ Google Cloud VMs
+      Updates on RPC methods & Integration tests w/ Google Cloud VMs
 
 + Research & Implementation Status Updates
     
@@ -31,11 +31,10 @@ Welcome and Meeting Intro
 
 + Open Discussion
 
-     ZK proof 5th conference
+      ZK proof 5th conference
     
-     Frost Threshold Signatures 
+      Frost Threshold Signatures 
    
-
 
 Wrap up / Read Out
 
