@@ -10,16 +10,17 @@ The main use of this repository is for the Zcash Arborist bi-weekly meeting. It 
 The agendas for the calls are tracked in the Agenda Archive in this repository. To add an item to an agenda, please open an issue in this repository which mentions the topic you want to discuss and links any relevant materials (ZIP's etc.). Then, leave a comment in the agenda where you would like this to be discussed. 
 
 ### Who Can Attend
-Anyone who wants to contribute to Zcash protocol development and to share news on Zcash node projects. [Register here](https://zoom.us/webinar/register/WN_vdjDVeyMRn2BjFW80AjZcA)
+Anyone who wants to contribute to Zcash protocol development and to share news on Zcash node projects. [Register here](https://us06web.zoom.us/j/89742792438?pwd=RjVNWWJCSUNBWWRXZ29pTko2ZkhpUT09)
 
 ### Who Manages the Meetings
-Steven Smith from ECC facilitates and records the meetings.
+ECC facilitates and records the meetings.
 @JJ-Rogers takes the meetings notes. 
 
 ### Previous Meetings
 
  №  | Date                             | Agenda        |Notes           | Recording            |
 --- | -------------------------------- | -------------- |--------------- | -------------------- |
+41 | 01 Dec 2022 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2041%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2041-Notes.md) \| [Twitter] | [recorded] | 
 40 | 17 Nov 2022 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2040%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2040-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1593440266006011906) | [recorded] | 
 39 | 03 Nov 2022 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2039%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2039-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1588250908206694400) | [recorded] | 
 38 | 20 Oct 2022 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2038%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2038-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1583301175121543169) | [video](https://www.youtube.com/watch?v=dhtjVWjnmsU) | 
