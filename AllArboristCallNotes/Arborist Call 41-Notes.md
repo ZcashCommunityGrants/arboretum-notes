@@ -20,7 +20,7 @@ Meeting Duration: 45 minutes
 
 Video of the meeting: [recorded]
 
-**Slides**: [1] [2] 
+**Slides**: [1](https://ipfs.io/ipfs/QmbYEFgridwZrR8Sn8ZyVSTqDfTnQp4btjDRmsFSZe26cM)
 
 Moderator: Sean Bowe
 
