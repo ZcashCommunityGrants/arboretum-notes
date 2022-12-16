@@ -23,7 +23,7 @@ Meeting Duration: 1hr20m
 
 Video of the meeting: [recorded]
 
-**Slides**: [1]() [2]()
+**Slides**: [1](https://gateway.pinata.cloud/ipfs/QmaGbrUrgtN9x657P63EByvhS9qKC8hsfA1dvFbht3NTd6) [2](https://gateway.pinata.cloud/ipfs/QmS37bym2QebekmqVZGQEGRXDY6sRnMM2QYJdeeqwC5nia)
 
 Moderator: Ian Sagstetter
 
