@@ -23,7 +23,7 @@ Meeting Duration: 1 hour
 
 Video of the meeting: [recorded]
 
-**Slides**: [1](https://ipfs.io/ipfs/QmWev2HGtDfJuah1SRQJAJo99gALqRG8ggdtUqrv7NPSD3) [2](https://ipfs.io/ipfs/QmbX2xEndok2qGPi9h2JpgXuqGS8zYTsEvH5qi4WVsnUo3)
+**Slides**:[1](https://ipfs.io/ipfs/QmbX2xEndok2qGPi9h2JpgXuqGS8zYTsEvH5qi4WVsnUo3)
 
 Moderator: Ian Sagstetter
 
@@ -119,7 +119,7 @@ Most of the updates have already been posted on the [Zcash Community Forum](http
 
 [13:57]
 
-The other update we have is on the [note encryption().https://github.com/zcash/librustzcash/pull/746/files This here, for add 32 bytes of an asset identifier as part of the ZSA protocol. We have to add that to the note and that required some changes to 3 crates, zcash note encryption package in librustzcash, the orchard crate itself and the zcash primitives package inside librustzcash. 
+The other update we have is on the [note encryption](https://github.com/zcash/librustzcash/pull/746/files). This here, for add 32 bytes of an asset identifier as part of the ZSA protocol. We have to add that to the note and that required some changes to 3 crates, zcash note encryption package in librustzcash, the orchard crate itself and the zcash primitives package inside librustzcash. 
 
 [14:27]
 
@@ -207,7 +207,8 @@ That then ties into discussions that we had and stuff that we didn't end up putt
 
 If we're going to be changing the memo field formats for this we should also have that discussion as well.
 
-00:25:44.795 - **Daira**
+[25:44] - **Daira**
+
 I think doing the simple thing of extending the ciphertext size in the initial implementation is fine and then we can consider how to integrate that with the other changes. 
 
 [25:58] - **Str4d**
