@@ -347,7 +347,7 @@ In the future what we might have are databased analytics where we've reformed ev
 
 [39:10] - **Str4d**
 
-In this case we can think of it as accessing the data that Zcashd is storing and collecting internally. I'm guessing you'll be using the inside explorer stuff that we merged to help with one of the block explorers. The thing i can think of as a good use case for this is; when i've tried to do data analytics on the chain before usually its writing a python script - it includes a JSON rpc parser into a library and i point at my Zcashd and have it do things that way. 
+In this case we can think of it as accessing the data that Zcashd is storing and collecting internally. I'm guessing you'll be using the insight explorer stuff that we merged to help with one of the block explorers. The thing i can think of as a good use case for this is; when i've tried to do data analytics on the chain before usually its writing a python script - it includes a JSON rpc parser into a library and i point at my Zcashd and have it do things that way. 
 
 [40:00]
 
