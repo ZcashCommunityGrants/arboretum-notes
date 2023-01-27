@@ -38,9 +38,8 @@ ___
 ## Decisions & Action Items
 
 
-i) Zebra team file issue on transaction lock-time 
+i) Sync call with ZSA authors around zip documentation 
 
-ii) Sync call with ZSA authors around zip documentation 
 
 ___
 
@@ -65,15 +64,15 @@ One of the other changes we made in our production code was adding a transaction
 
 [04:39]
 
-We've made some internal changes but they're kind of boring and only really for Zebra developers to notice. Probably the biggest internal changes were moving some duplicated redpalace code so we don't have two copies of that code in the redpalace crate and in Zebra itself. This about it from me. 
+We've made some internal changes but they're kind of boring and only really for Zebra developers to notice. Probably the biggest internal changes were moving some duplicated redpallas code so we don't have two copies of that code in the redpallas crate and in Zebra itself. This about it from me. 
 
 [05:00] - **Str4d**
 
-The duplicated redpalace logic. You're deduplicating with the redpalace crate specifically?
+The duplicated redpallas logic. You're deduplicating with the redpallas crate specifically?
 
 [05:16] - **Teor**
 
-Yes, zebra had a copy of redpalace as a module and the code was almost identical.
+Yes, zebra had a copy of redpallas as a module and the code was almost identical.
 
 [05:30] - **Str4d**
 
@@ -81,7 +80,7 @@ Excellent, because we also have the reddsa crate which we need to reconcile. I w
 
 [05:37] - **Teor**
 
-No, it's just redpalace for the moment. I think reddsa is not a question for me, probably for Deirdre or Conrado. 
+No, it's just redpallas for the moment. I think reddsa is not a question for me, probably for Deirdre or Conrado. 
 
 [05:52] - **Str4d**
 
@@ -93,7 +92,7 @@ We're almost about to remove one, so one down. Definitely agree that we should h
 
 [06:34] - **Conrado**
 
-Just to say we are now using with deduplicated code, we're now using the reddsa crate so i think there isn't a redpalace crate. There is now one less copy of the code. 
+Just to say we are now using with deduplicated code, we're now using the reddsa crate so i think there isn't a redpallas crate. There is now one less copy of the code. 
 
 [06:50] - **Str4d**
 
@@ -109,7 +108,7 @@ Sure, I'll link to our ticket as that's probably our best explanation but i'll f
 
 [07:27] - **Deirdre**
 
-One other motivator besides deduplicating is I think the redpalace implementation had a early implementation of FROST because it was forked off the implementation of redjubjub, that was one of our first implementations and the old implementation of FROST on redjubjub is basically deprecated and its getting cleaned up by Conrado. So the redpalace implementation that we deduped we've got rid of. The redpalace crate will include the updated with the spec implementation of FROST, another reason to remove old duplicated versions of code.
+One other motivator besides deduplicating is I think the redpallas implementation had a early implementation of FROST because it was forked off the implementation of redjubjub, that was one of our first implementations and the old implementation of FROST on redjubjub is basically deprecated and its getting cleaned up by Conrado. So the redpallas implementation that we deduped we've got rid of. The redpallas crate will include the updated with the spec implementation of FROST, another reason to remove old duplicated versions of code.
 
 [08:39] - **Daira**
 
@@ -300,11 +299,11 @@ We've done the construction notebooks & code repositories for other Wolfram Lang
 
 [30:48]
 
-Thats basically what we're up to & why we wanted to introduce ourselves and talk to folks and if you're interested in using it or in what we are doing, getting in contact with us. If there are any questions i am happy to answer them here or via email/linked in: jwoodard@wolfram.com / https://.linkedin.com/in/jonlwoodard
+Thats basically what we're up to & why we wanted to introduce ourselves and talk to folks and if you're interested in using it or in what we are doing, getting in contact with us. If there are any questions i am happy to answer them here or via email/linked in: jwoodard@wolfram.com / https://linkedin.com/in/jonlwoodard
 
 [31:18] - **Adi**
 
-This is just to cool to learn that Wolfram is integrating with Zcash. One of the things I loved from the Wolfram search was the ability to search certain data sets and view them in a graphical way. Maybe in the future if we can find a way to create graphs for Zcash data like how many transactions are going on in the shielded pool, the growth of different transactions etc. Is it something that is possible, to link the search with this data set?
+This is just too cool to learn that Wolfram is integrating with Zcash. One of the things I loved from the Wolfram search was the ability to search certain data sets and view them in a graphical way. Maybe in the future if we can find a way to create graphs for Zcash data like how many transactions are going on in the shielded pool, the growth of different transactions etc. Is it something that is possible, to link the search with this data set?
 
 [32:06] - **Jon Woodard**
 
@@ -411,7 +410,7 @@ There was an ask on an update regarding ZSA's or ZSA zips. Daira you may be able
 
 [50:43] - **Daira**
 
-There's also work that need sot be done on the implementation side, making sure that the circuit fits within 2^11 rows etc.
+There's also work that needs to be done on the implementation side, making sure that the circuit fits within 2^11 rows etc.
 
 ___
 
@@ -455,6 +454,7 @@ ___
 
 ### Attendees
 
++  Jon Woodard (Wolfram Blockchain Labs)
 
 +  Adi Nighthawk
 
