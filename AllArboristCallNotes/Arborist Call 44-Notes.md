@@ -84,7 +84,7 @@ No, it's just redpallas for the moment. I think reddsa is not a question for me,
 
 [05:52] - **Str4d**
 
-I think the original plan for the split was that we would bring them back together but we'll see how things go. Particularly now that FROST has made more progress on implementation we can figure out what we want to do there offline. I think that means we have 4 implementations of redjubjub/palace?
+I think the original plan for the split was that we would bring them back together but we'll see how things go. Particularly now that FROST has made more progress on implementation we can figure out what we want to do there offline. I think that means we have 4 implementations of redjubjub/redpallas?
 
 [06:11] - **Teor**
 
