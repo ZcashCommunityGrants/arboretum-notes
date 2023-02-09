@@ -54,7 +54,7 @@ We've been working with s-nomp because it's open-source but we still had to modi
 Other than that we tagged our 5th release candidate which is [Zebra 1.0.0-rc.4](https://github.com/ZcashFoundation/zebra/releases/tag/v1.0.0-rc.4) and we are looking to tag another one soon. Probably once we've finished implementing the remaining rpc methods and some performance improvements to mining pools, we will release rc.5. So please keep an eye out for that if you want to test out mining. 
 
 
-[18:25[] - **Deirdre**
+[18:25] - **Deirdre**
 
 I'll give a quick FROST update. Frost at it's heart is a signature scheme so we've been doing a lot of dedupulication of various implementations of Frost across our FROST, redjubjub, reddsa & Zebra libraries. In the latest release candidate of Zebra we have removed an implementation of redpallas on FROST because we had just ported redjubjub which had an old implementation of FROST to redpallas and carried the FROST implementation with it. 
 
@@ -192,7 +192,7 @@ ____
 
 ### 2. ECC Core Updates ii) - zero-conf transactions
 
-[25:31.901] - **Daira**
+[25:31] - **Daira**
 
 In the Zcashd updates I forgot to mention the work i'm doing on implementing ZIP-317 for the block construction algorithm, so thats making good progress. 
 
