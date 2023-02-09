@@ -2,7 +2,7 @@
 
 **Meeting Date: February 9th, 2023 15:00 UTC**
 
-Duration:
+Duration: 40 minutes
 
 [Full notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2045-Notes.md)
 
