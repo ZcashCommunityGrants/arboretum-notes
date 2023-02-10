@@ -241,7 +241,7 @@ Daira do you have any comments?
 
 [24:46] - **Daira**
 
-No, I think its pretty straightforward. It's just the main separation of the base point for the signature scheme. 
+No, I think its pretty straightforward. It's just domain separation of the base point for the signature scheme. 
 
 
 ____
@@ -283,7 +283,7 @@ Yeah, thats unrelated to the fact that Zcashd stores these zero conf chains. The
 
 [30:21]
 
-Separately from that there is mempool ommiting. It is described in ZIP 401. Where our limiting is described. Essentially the approach is weighted random discard when the weight as defined in the ZIP goes over a certain threshold. Elements of it are being updated, the ones related to fees are being updated as part of zip 317 and theres potentially some other changes we may look at in terms of the interactions between sapling & orchard and transaction size differences etc. ZIP 401 is the place to look for that. 
+Separately from that there is mempool limiting. It is described in ZIP 401. Where our limiting is described. Essentially the approach is weighted random discard when the weight as defined in the ZIP goes over a certain threshold. Elements of it are being updated, the ones related to fees are being updated as part of zip 317 and theres potentially some other changes we may look at in terms of the interactions between sapling & orchard and transaction size differences etc. ZIP 401 is the place to look for that. 
 
 [31:17] - **Daira**
 
@@ -318,6 +318,7 @@ ___
 
 ### Attendees
 
++  Daira Hopwood
 
 +  Conrado Gouvea
 
