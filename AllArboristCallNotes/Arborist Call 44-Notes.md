@@ -60,7 +60,7 @@ We've been doing a lot of rpc testing and fixing different bugs. eg. fixing the 
 
 [04:13]
 
-One of the other changes we made in our production code was adding a transaction lock time check to the mempool. This was something we missed when we originally did the mempool. It's not specified anywhere. We had to go to the Zcashd source code to find that, credit to [DeckerSU](https://github.com/DeckerSU) for reporting that to us. 
+One of the other changes we made in our production code was adding a [transaction lock time check to the mempool](https://github.com/ZcashFoundation/zebra/pull/6027). This was something we missed when we originally did the mempool. It's not specified anywhere. We had to go to the Zcashd source code to find that, credit to [DeckerSU](https://github.com/DeckerSU) for reporting that to us. 
 
 [04:39]
 
@@ -104,7 +104,7 @@ Can you file an issue on Zcash zips about the documentation of lock-time?
 
 [07:21] - **Teor**
 
-Sure, I'll link to our ticket as that's probably our best explanation but i'll file that issue. 
+Sure, I'll link to our [ticket](https://github.com/zcash/zips/issues/670) as that's probably our best explanation but i'll file that issue. 
 
 [07:27] - **Deirdre**
 
