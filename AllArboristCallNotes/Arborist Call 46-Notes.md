@@ -45,7 +45,7 @@ ___
 
 
 
-### 1. Zebrad Updates i) - Zebra -rc5 status 
+### 1. ZF Updates i) - Zebra -rc5 status 
 
 [00:00] - **Marek**
 
@@ -62,7 +62,7 @@ Then we have a couple of smaller improvements such as the duplication of the red
 ___
 
 
-### 1. Zebrad Updates ii) - FROST updates
+### 1. ZF Updates ii) - FROST updates
 
 
 [05:47] - **Deirdre**
