@@ -199,19 +199,24 @@ ____
 
 ### 4. Open Discussion i) - ZIP 317 timeline 
 
-00:22:48.379 - **Daira**
+[22:48] - **Daira**
+
 On the subject of Zcon4 and particularly covid precautions for Zcon4. Do we have any information about what those will be?
 
-00:22:56.232 - **Jack Gavigan**
+[22:56] - **Jack Gavigan**
+
 No
 
-00:23:26.435 - **Adi**
+[23:26] - **Adi**
+
 ETA on the Zcashd 5.5.0?
 
-00:23:37.933 - **Jack Grigg**
+[23:37] - **Jack Grigg**
+
 That's likely to be 3-4 weeks away I think. If you look on the [developer DAG](https://zcash.github.io/developers/zcash-core-dag) you can find the release 5.5.0 node within the dag. Everything upstream of that is the stuff that we currently aim to get into 5.5.0. You can see the halo 2 32 bit fix that I mentioned and the ZIP 317 stuff going in. 
 
-00:24:28.492
+[24:28]
+
 Essentially, the moment we've done all of that is when we plan that release to go out. Currently we are expecting that to be 3 or 4 weeks from now. 
 
 
