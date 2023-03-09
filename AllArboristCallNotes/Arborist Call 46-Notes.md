@@ -1,6 +1,6 @@
 # Arborist Call #46 Notes
 
-Meeting Date/Time: February 23rd 2022, 22:30 UTC
+Meeting Date/Time: February 23rd 2023, 22:30 UTC
 
 Meeting Duration: 1hr 20mins
 
