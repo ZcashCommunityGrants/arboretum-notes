@@ -22,7 +22,7 @@ Meeting Duration: 1 hour 25 minutes
 
 Video of the meeting: [recorded]
 
-**Slides**: [1]()
+**Slides**: [1](https://gateway.pinata.cloud/ipfs/QmYPjMEUv1EDJ4KjSHEy36HwHT7CzF5FEtnURGhs8q6Bcw)
 
 Moderator: Ian Sagstetter
 
@@ -38,6 +38,7 @@ Notes: Jason Rogers
 ### 1. Zebrad Updates - Zebra Test Mining 
 
 [00:00] - **Pili**
+
 Hi everyone, I am Pili the engineering manager at the Zcash Foundation I am here to give you an update of where we are as of today. We finished basic implementations of mining features in Zebra. A number of the team have been reaching out to mining pools trying to find out who's interested in testing & supporting them if necessary. 
 
 [04:42]
