@@ -11,8 +11,6 @@ Meeting Duration: 1 hour 25 minutes
 
 + Zebra Status 
 
-+ FROST Status 
-
 + ECC Core Update
 
 + Research & Implementation Update
