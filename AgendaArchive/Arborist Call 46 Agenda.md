@@ -6,7 +6,7 @@ Duration: 1hr 20mins
 
 [Full notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2046-Notes.md)
 
-[Recorded]
+[Video](https://www.youtube.com/watch?v=iw5bAyLFpf4)
 
 
 ## Agenda
