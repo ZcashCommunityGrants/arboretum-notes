@@ -20,7 +20,7 @@ Meeting Duration: 1hr 20mins
 + Open Discussion
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=iw5bAyLFpf4)
 
 **Slides**: [1](https://gateway.pinata.cloud/ipfs/QmWVjPRGBywcShgUahpjsdko2jHupfCGyXycDiBSB3vUNb)
 
