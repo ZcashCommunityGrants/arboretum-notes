@@ -8,20 +8,15 @@ Meeting Duration: 1 hour
 
 + Welcome and Meeting Intro 
 
++ Zebra Status - [Zebrad -rc.3 / FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2043-Notes.md#1-zebrad-updates---zebrad--rc3--frost-update)
 
-+ Zebra Status 
-
-
-+ Research & Implementation Update
++ Research & Implementation Update - [ZSA protocol current status](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2043-Notes.md#2-research--implementation-updates-i---zsa-protocol-current-status) / [ZSA note ciphertext / New features](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2043-Notes.md#2-research--implementation-updates-ii---zsa-note-ciphertext--new-features)
     
-
-+ Core Update
-
-
-+ Open Discussion
++ ECC Core Update - [TZE's / DAGSync progress / Deprecated rpc's](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2043-Notes.md#3-core-updates---tzes--dagsync-progress--deprecated-rpcs)
 
 
-Video of the meeting: [recorded]
+
+Video of the meeting: [recording](https://www.youtube.com/watch?v=p5u9EdQSftE)
 
 **Slides**:[1](https://ipfs.io/ipfs/QmbX2xEndok2qGPi9h2JpgXuqGS8zYTsEvH5qi4WVsnUo3)
 
