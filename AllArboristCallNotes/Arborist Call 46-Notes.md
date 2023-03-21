@@ -15,7 +15,7 @@ Meeting Duration: 1hr 20mins
 
 + Research & Implementation Update - [FROST updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2046-Notes.md#1-zf-updates-ii---frost-updates) / [Research based async discussion Forum](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2046-Notes.md#3-research--implementation-updates-i-research-based-async-discussion-forum) / [Feature Specific Testnets](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2046-Notes.md#3-research--implementation-updates-ii-feature-specific-testnets-cont)
     
-+ Open Discussion - [Zcash Minor Grants](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2046-Notes.md#4-open-discussion-i---zcash-minor-grants) / [Network Monitoring / Mining rewards](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2046-Notes.md#4-open-discussion-ii---network-monitoring--mining-rewards)
++ Open Discussion - [Zcash Minor Grants](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2046-Notes.md#4-open-discussion-i---zcash-minor-grants) / [Network Monitoring & Mining rewards](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2046-Notes.md#4-open-discussion-ii---network-monitoring--mining-rewards)
 
 
 Video of the meeting: [recording](https://www.youtube.com/watch?v=iw5bAyLFpf4)
