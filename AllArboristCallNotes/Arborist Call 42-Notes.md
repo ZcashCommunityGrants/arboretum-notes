@@ -6,22 +6,18 @@ Meeting Duration: 1hr20m
 
 **Agenda**: 
 
-+ Welcome and Meeting Intro 
++ Welcome and Meeting Intro - [Arborist Call Hosting](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2042-Notes.md#1-welcome--meeting-intro---arborist-call-hosting)
+
++ Zebra Status - [Zebra rc .2 / FROST status](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2042-Notes.md#2-zebrad-updates---zebra-rc-2--frost-status)
+
++ Research & Implementation Update - [Shielded wallet UX & Payment Scalability](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2042-Notes.md#2-research--implementation-updates---shielded-wallet-ux--payment-scalability) / [Liberated payments, Detection keys & Out of band notification](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2042-Notes.md#2-research--implementation-updates---ii-liberated-payments-detection-keys--out-of-band-notification) / [Halo 2 recursion & Priority timeline](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2042-Notes.md#2-research--implementation-updates---iii-halo-2-recursion--priority-timeline)
+
++ ECC Core Update - [Zcashd status update / DAGSync development](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2042-Notes.md#3-core-updates---zcashd-status-update--dagsync-development)
+
++ Open Discussion - [Learning resources & recommendations for new developers](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2042-Notes.md#4-open-discussion---learning-resources--recommendations-for-new-developers)
 
 
-+ Zebra Status 
-
-
-+ Research & Implementation Update
-    
-
-+ Core Update
-
-
-+ Open Discussion
-
-
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=ioIi-fxgBgI)
 
 **Slides**: [1](https://gateway.pinata.cloud/ipfs/QmaGbrUrgtN9x657P63EByvhS9qKC8hsfA1dvFbht3NTd6) [2](https://gateway.pinata.cloud/ipfs/QmS37bym2QebekmqVZGQEGRXDY6sRnMM2QYJdeeqwC5nia)
 
