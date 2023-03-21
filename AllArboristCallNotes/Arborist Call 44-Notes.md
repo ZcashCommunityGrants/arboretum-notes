@@ -9,20 +9,15 @@ Meeting Duration: 1 hour
 
 + Welcome and Meeting Intro 
 
++ Zebra Status - [Zebra / FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2044-Notes.md#1-zebrad-updates---zebra--frost-update) 
 
-+ Zebra Status 
++ ECC Core Update - [5.4.0 release / Zcash Posterity Fund / DAGSync](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2044-Notes.md#2-ecc-core-updates---540-release--zcash-posterity-fund--dagsync)
 
++ [Wolfram Blockchain Integration API](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2044-Notes.md#3-wolfram-blockchain-integration-api)
 
-+ ECC Core Update
-
-
-+ Wolfram Blockchain Integration API
-
-
-+ Research & Implementation Update
++ Research & Implementation Update - [ZSA ZIPs](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2044-Notes.md#4-research--implementation-update---zsa-zips)
     
-
-+ Open Discussion
++ Open Discussion - [Total coin supply / Tail emissions](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2044-Notes.md#5-open-discussion---total-coin-supply--tail-emissions)
 
 
 Video of the meeting: [recording](https://www.youtube.com/watch?v=KO_TET2oAzc)
