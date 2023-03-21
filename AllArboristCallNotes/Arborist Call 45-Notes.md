@@ -9,16 +9,16 @@ Meeting Duration: 40 minutes
 
 + Welcome and Meeting Intro 
 
-+ Zebra/FROST Status 
++ Zebra + FROST Status - [Zebra -rc.4 / FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2045-Notes.md#1-zebrad-updates---zebra--rc4--frost-update)
 
-+ ECC Core Update
++ ECC Core Update - [5.4.0 release](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2045-Notes.md#2-ecc-core-updates---540-release) / [Zero-Conf Transactions](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2045-Notes.md#2-ecc-core-updates-ii---zero-conf-transactions)
 
-+ Research & Implementation Update
++ Research & Implementation Update - [ZSA Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2045-Notes.md#2-ecc-core-updates-ii---zero-conf-transactions) / [PoS & Cosmos Community call](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2045-Notes.md#3-research--implementation-updates-ii---pos--cosmos-community-call)
     
-+ Open Discussion
++ Open Discussion - [Mempool Chain / zero-conf transactions cont.](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2045-Notes.md#4-open-discussion---mempool-chain--zero-conf-transactions-cont)
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=xcqGXgXoyXo)
 
 **Slides**: [1](https://gateway.pinata.cloud/ipfs/Qme3doLia1C5iKNwvuWVj2a1q6nTAjzZYKpUbB5kRaFS44) 
 
