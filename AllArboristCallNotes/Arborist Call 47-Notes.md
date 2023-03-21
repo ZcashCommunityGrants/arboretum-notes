@@ -13,7 +13,7 @@ Meeting Duration: 1 hour 25 minutes
 
 + ECC Core Update - [Orchard Circuit Layout bug / ZIP-317 support](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2047-Notes.md#2-ecc-core-updates---orchard-circuit-layout-bug--zip-317-support)
 
-+ Research & Implementation Update - [Frost Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2047-Notes.md#3-research--implementation-updates-i-frost-update) / [ZSA Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2047-Notes.md#3-research--implementation-updates-ii-zsa-update)
++ Research & Implementation Update - [Frost Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2047-Notes.md#3-research--implementation-updates-i-frost-update) / [ZSA Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2047-Notes.md#3-research--implementation-updates-ii-update-zip-216--zsa-update)
     
 + Open Discussion - [ZIP 317 timeline](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2047-Notes.md#4-open-discussion-i---zip-317-timeline) / [FROST demo / ECC integration of FROST](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2047-Notes.md#4-open-discussion-ii---frost-demo--ecc-integration-of-frost) / [Halo 2 documentation / PLONKish arithmetization](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2047-Notes.md#4-open-discussion-iv---halo-2-documentation--plonkish-arithmetization)
 
