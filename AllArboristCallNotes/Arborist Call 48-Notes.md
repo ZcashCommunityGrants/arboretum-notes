@@ -55,9 +55,11 @@ Its one of the advantages of having a completely different network stack is that
 We've mainly been working on our Zebra audit for the last few weeks. We've been triaging the issues given to us by the auditors and starting work on some fixes so far things are going really well. We have continued to do a bit of work in the background on our mining feature where mining pools can use zebra to mine blocks. That's about it for the Zebra update. Any questions?
 
 [05:37] - **Dodger**
+
 A similar question from me, have there been any major issues discovered as part of the audit?
 
 [05:58] - **Teor**
+
 No, currently we are looking at issues which are low or informational priority. These are things that take very unusual circumstances in order to be a problem, or things that we just noticed in the code we might want to reconsider. That's where we are at at the moment. The auditors are moving onto more recent features in the code soon so we'll see how we go with those. 
 
 
