@@ -181,11 +181,11 @@ These guys forked, or however they did it used the same network magic as Zcash. 
 
 [24:03] - **Daira**
 
-Yeah, they do in practice have larger numbers and always have done. They're obviously deliberately copying our strings because its not a direct fork but it was deliberately launched at the same time and their marketing exploited confusion between the two networks. Its annoying. 
+Yeah, they do in practice have larger [user agent version] numbers and always have done. They're obviously deliberately copying our strings because its not a direct fork but it was deliberately launched at the same time and their marketing exploited confusion between the two networks. Its annoying. 
 
 [24:50] - **Nate**
 
-This is slightly a tangent from monitoring but would it be feasible introduce a network protocol change that would be backwards incompatible. We would need to do it safely to migrate legitimate Zcash nodes but the goal would be to prevent this issue. Knock off nodes that happen to be similar. I guess there is the easy version, knocking off nodes that aren't trying hard to accidentally connect to the same protocol & maybe the harder version which might be impossible using consensus which is knock of nodes which are malicious. 
+This is slightly a tangent from monitoring but would it be feasible introduce a network protocol change that would be backwards incompatible. We would need to do it safely to migrate legitimate Zcash nodes but the goal would be to prevent this issue. Knock off nodes that happen to be similar. I guess there is the easy version, knocking off nodes that aren't trying hard to accidentally connect to the same protocol & maybe the harder version which might be impossible using consensus which is knock off nodes which are malicious. 
 
 [25:43]
 
@@ -193,7 +193,7 @@ So there's the easy version which might just be change the peer protocol around 
 
 [25:56] - **Daira**
 
-So the question is, is the easy version impossible to do incompatibly without too much disruption, the answer is yes. I kind of think its a bit of a distraction from other things that we need to do but if that was prioritised, if ECC management decides it was important then we could do it. 
+So the question is, is the easy version possible to do incompatibly without too much disruption, the answer is yes. I kind of think it's a bit of a distraction from other things that we need to do but if that was prioritised, if ECC management decides it was important then we could do it. 
 
 [26:45] - **Dodger**
 
@@ -201,7 +201,7 @@ Has ECC done any brainstorming or thinking about what sort of things we would wa
 
 [26:55] - **Nate**
 
-As we were working through this latest incident response, we have our own internal network monitoring and of course we were observing that but i don't know if our teams have had any brainstorming on this one but it does feel really important to me to have better public & shared monitoring. One thing we might do, i haven't shared this at all with our team so im not sure if theres blockers but maybe we can get our infrastructure team to start open sourcing more of the tooling we are using so at least others can set up their own with our open-source.
+As we were working through this latest incident response, we have our own internal network monitoring and of course we were observing that but i don't know if our teams have had any brainstorming on this one but it does feel really important to me to have better public & shared monitoring. One thing we might do, i haven't shared this at all with our team so i'm not sure if there's blockers but maybe we can get our infrastructure team to start open sourcing more of the tooling we are using so at least others can set up their own with our open-source.
 
 [27:47]
 
@@ -209,11 +209,11 @@ That feels like it would be the lowest hanging fruit of a way we could contribut
 
 [28:07] - **Daira**
 
-Apart from the discussion in the retro for the Halborn bug, we have talked about it in the past and we have some scattered notes about it but those need bringing together and comparing with what Ziggurat is implementing, we don't do redundant work. 
+Apart from the discussion in the retro for the Halborn bug, we have talked about it in the past and we have some scattered notes about it but those need bringing together and comparing with what Ziggurat is implementing, so that we don't do redundant work. 
 
 [28:34] - **Dodger**
 
-I think of Ziggurat as amost network analysis. So obviously the testing and network analysis whereas this is actually i feel a slightly different thing. For example if we want to know when a whole bunch of nodes drop off we need to be monitoring and snapshotting it on an ongoing basis & then graphing if there is significant delta. 
+I think of Ziggurat as almost network analysis. So obviously the testing and network analysis whereas this is actually i feel a slightly different thing. For example if we want to know when a whole bunch of nodes drop off we need to be monitoring and snapshotting it on an ongoing basis & then graphing if there is significant delta. 
 
 [29:02] - **Daira**
 
@@ -229,7 +229,7 @@ A fair amount of it can be open source, maybe some teams have some of their own 
 
 [29:58] - **Daira**
 
-Can we show a screenshare of graphana to show people what we're currently monitoring or would we need to decide whether that should be public?
+Can we show a screenshare of grafana to show people what we're currently monitoring or would we need to decide whether that should be public?
 
 [30:18] - **Nate**
 
@@ -341,7 +341,7 @@ Traditionally during discussions on previous Arborist calls, the number that eve
 
 [41:03] - **Daira**
 
-And we also have the end of service halt policy that on other networks they have lots of nodes that are very out of date and we just dont have nodes. 
+And we also have the end of service halt policy that on other networks they have lots of nodes that are very out of date and we just dont have those nodes [that would be out of date]. 
 
 [41:18] - **Dodger**
 
@@ -375,11 +375,11 @@ If its good we are connecting it and making handshake we are adding it to the li
 
 [44:02] - **Daira**
 
-So a Zcashd node by default has a peer connection limit of 125 peers. If its sending you more than that in the address message, its sending you IP addresses that it knows about that have ever connected to it but is not necessarily still connected to. 
+So a Zcashd node by default has a peer connection limit of 125 peers. If its sending you more than that in the address message, it's sending you IP addresses that it knows about or have ever connected to it but is not necessarily still connected to. 
 
 [44:35] - **Teor**
 
-In Zebra we'll send through addresses which we've got through from other nodes that haven't expired yet. So another node has told us "yes we know about this address". We'll send that through before we've connected to it ourselves and the reason we implemented it that way is say for example, a Zebra node that only has an ipv4 connection, we wanted it to be able to gossip ipv6 addresses even if it couldn't connect to it. So it'll gossip those piv6 address for a few hours after it gets them or until its managed to check if it can connect to them and then it'll stop sending them. 
+In Zebra we'll send through addresses which we've got through from other nodes that haven't expired yet. So another node has told us "yes we know about this address". We'll send that through before we've connected to it ourselves and the reason we implemented it that way is say for example, a Zebra node that only has an ipv4 connection, we wanted it to be able to gossip ipv6 addresses even if it couldn't connect to it. So it'll gossip those ipv6 address for a few hours after it gets them or until its managed to check if it can connect to them and then it'll stop sending them. 
 
 [45:27]
 
@@ -411,7 +411,7 @@ One good way of getting an idea what chain nodes are following is to look at the
 
 [48:38] - **Daira**
 
-Only the ones which are at 2026- something are fully synced zcash nodes. I think if you add up all of those you probably get a similar number to the looking at the number of nodes which have magicbean 5.x those look roughy the same order of magnitude. 
+Only the ones which are at 2026- something are fully synced zcash nodes. I think if you add up all of those you probably get a similar number to the looking at the number of nodes which have magicbean 5.x those look roughly the same order of magnitude. 
 
 [49:26] - **Dodger**
 
@@ -423,7 +423,7 @@ A trivial filter would be just to start by filtering out and only report zebra a
 
 [49:53] - **Daira**
 
-We allow nodes to not follow E.O.S halt but we also know that anything before 5.0 is not compatible with NU5. 
+We allow nodes to not follow E.O.S halt but we also know that anything before 5.0 is not compatible with NU5. <-- this applies only to zcashd, not Zebra
 
 [50:09] - **Mark Henderson**
 
@@ -459,7 +459,7 @@ I wonder if some of these what look like very old versions of zcashd are potenti
 
 [53:07] - **Daira**
 
-There used to be consensus compatible zcash nodes that had bitcore in the consensus string, as you can see there those have version numbers that mean they can possibly be a current version of zcashd or forked from one. 
+There used to be consensus compatible zcash nodes that had bitcore in the consensus string, as you can see there those have version numbers that mean they cannot possibly be a current version of zcashd or forked from one [without deliberately changing the number]. 
 
 [53:49] - **Dodger**
 
