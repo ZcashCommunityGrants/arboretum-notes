@@ -9,7 +9,7 @@ Meeting Duration: 1 hour
 
 + Welcome and Meeting Intro 
 
-+ Zebra Status - [Zebra Update]([https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2048-Notes.md](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2048-Notes.md#1-zebrad-updates---zebra-updates)
++ Zebra Status - [Zebra Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2048-Notes.md#1-zebrad-updates---zebra-updates)
 
 + ECC Core Update - [Zcashd Status](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2048-Notes.md#2-ecc-core-updates---zcashd-status)
 
