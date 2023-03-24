@@ -9,13 +9,12 @@ Meeting Duration: 1 hour
 
 + Welcome and Meeting Intro 
 
-+ Zebra Status - Zebra Update 
++ Zebra Status - [Zebra Update]([https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2048-Notes.md](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2048-Notes.md#1-zebrad-updates---zebra-updates))
 
-+ ECC Core Update - Zcashd Status 
++ ECC Core Update - [Zcashd Status](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2048-Notes.md#2-ecc-core-updates---zcashd-status)
 
-+ Research & Implementation Update - Network Monitoring / Node Statistics 
++ Research & Implementation Update - [Network Monitoring](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2048-Notes.md#3-research--implementation-updates-i-network-monitoring) / [Node Statistics](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2048-Notes.md#3-research--implementation-updates-ii-node-statistics)
     
-+ Open Discussion
 
 
 Video of the meeting: [recorded]
