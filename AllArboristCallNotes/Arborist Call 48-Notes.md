@@ -397,7 +397,7 @@ Could we do something perhaps with inventory messages? Getting inventory from th
 
 [46:35] - **Daira**
 
-I think sacha's seeder code uses some heuristics to tell whether it thinks a node is good so we should look at what thats doing and maybe include some of that in Zcashd. I don't know how much more it does than just doing a protocol negotiation. 
+I think Sasha's seeder code uses some heuristics to tell whether it thinks a node is good so we should look at what thats doing and maybe include some of that in Zcashd. I don't know how much more it does than just doing a protocol negotiation. 
 
 [47:09] - **Dodger**
 
