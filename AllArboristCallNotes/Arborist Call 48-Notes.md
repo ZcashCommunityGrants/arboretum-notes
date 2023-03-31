@@ -17,7 +17,7 @@ Meeting Duration: 1 hour
     
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=k9bd3KCUoNs)
 
 
 
