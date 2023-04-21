@@ -14,6 +14,7 @@ Anyone who wants to contribute to Zcash protocol development and to share news o
 
 ### Who Manages the Meetings
 The Zcash Foundation facilitates and records the meetings.
+
 @JJ-Rogers takes the meetings notes. 
 
 ### Previous Meetings
