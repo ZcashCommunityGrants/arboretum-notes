@@ -13,13 +13,14 @@ The agendas for the calls are tracked in the Agenda Archive in this repository. 
 Anyone who wants to contribute to Zcash protocol development and to share news on Zcash node projects. Register here: [15:00 UTC](https://us06web.zoom.us/webinar/register/WN_Vk7WMz9sRkiIr_hqH_x3LA) / [22:30 UTC](https://us06web.zoom.us/webinar/register/WN_z0k1ipsnRkS4-DGqDhULdA)
 
 ### Who Manages the Meetings
-ECC facilitates and records the meetings.
+The Zcash Foundation facilitates and records the meetings.
 @JJ-Rogers takes the meetings notes. 
 
 ### Previous Meetings
 
  №  | Date                             | Agenda        |Notes           | Recording            |
 --- | -------------------------------- | -------------- |--------------- | -------------------- |
+50 | 20 Apr 2023 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2050%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md) \| [Twitter]()| [recording] | 
 49 | 06 Apr 2023 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2049%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2049-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1644115391575105537)| [recording] | 
 48 | 23 Mar 2023 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2048%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2048-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1639157209962541058)| [video](https://www.youtube.com/watch?v=k9bd3KCUoNs) | 
 47 | 09 Mar 2023 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2047%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2047-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1633999586023944199) | [video](https://www.youtube.com/watch?v=_FQlSvlukmU) | 
