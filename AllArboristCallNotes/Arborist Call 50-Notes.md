@@ -9,13 +9,13 @@ Meeting Duration: 1hr 30mins
 
 + Welcome and Meeting Intro 
 
-+ Zebra Status - Status Update
++ Zebra Status - [Status Update]()
 
-+ ECC Core Update - 5.5.0 release / Light Client Working Group
++ ECC Core Update - [5.5.0 release]() / [Light Client Working Group]()
 
-+ Research & Implementation Update - FROST / FROST status / Technical Collaboration Forum / NU5 Retrospective 
++ Research & Implementation Update - [FROST crates & The FROST book]() / [Technical Collaboration Forum]() / [NU5 Retrospective]()
     
-+ Open Discussion - NUP Review 
++ Open Discussion - [NUP Review]()
 
 
 Video of the meeting: [recorded]
