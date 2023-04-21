@@ -9,13 +9,13 @@ Meeting Duration: 1hr 30mins
 
 + Welcome and Meeting Intro 
 
-+ Zebra Status - [Status Update]()
++ Zebra Status - [Status Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#1-zebrad-status---zebrad-updates)
 
-+ ECC Core Update - [5.5.0 release]() / [Light Client Working Group]()
++ ECC Core Update - [5.5.0 release](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#2-ecc-core-updates----zcashd-status) / [Light Client Working Group](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#2-ecc-core-updates----light-client-working-group)
 
-+ Research & Implementation Update - [FROST crates & The FROST book]() / [Technical Collaboration Forum]() / [NU5 Retrospective]()
++ Research & Implementation Update - [FROST crates & The FROST book](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#3-research--implementation-updates-i-frost-crate-releases--the-frost-book) / [Technical Collaboration Forum](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#3-research--implementation-updates-iii-technical-collaboration-forum) / [NU5 Retrospective](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#3-research--implementation-updates-iii-planning-nu5-retrospective)
     
-+ Open Discussion - [NUP Review]()
++ Open Discussion - [NUP Review](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md#3-open-discussion-i-nu6-review)
 
 
 Video of the meeting: [recorded]
@@ -120,7 +120,7 @@ ___
 
 [13:36] - **Deirdre**
 
-We've published [All of our implementations of Frost(https://crates.io/search?q=frost) as rust crates on crates.io, including Frost Core, all the different cipher suites in our RFC Draft, and Frost Re randomized, which is used if you have the flag set in reddsa now to have the zcash flavored variants of Frost Threshold signatures that's for redjubjub and redpallas which are now implemented in the reddsa crate.
+We've published [All of our implementations of Frost](https://crates.io/search?q=frost) as rust crates on crates.io, including Frost Core, all the different cipher suites in our RFC Draft, and Frost Re randomized, which is used if you have the flag set in reddsa now to have the zcash flavored variants of Frost Threshold signatures that's for redjubjub and redpallas which are now implemented in the reddsa crate.
 
 [14:15] 
 
