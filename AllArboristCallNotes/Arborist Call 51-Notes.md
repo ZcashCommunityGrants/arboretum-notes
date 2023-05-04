@@ -9,13 +9,13 @@ Meeting Duration: 50 minutes
 
 + Welcome and Meeting Intro 
 
-+ ECC Core Update - Zcashd 5.5.0 release / 5.6.0 details
++ ECC Core Update - [Zcashd 5.5.0 release / 5.6.0 details](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2051-Notes.md#1-ecc-core-updates----zcashd-550-release)
 
-+ Zebra Status - Audit update
++ Zebra Status - [Audit update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2051-Notes.md#2-zebrad-status---audit-update)
 
-+ Research & Implementation Update - ZSA update / FROST update / Equilibrium Update / Nighthawk Update
++ Research & Implementation Update - [ZSA update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2051-Notes.md#3-research--implementation-updates-i-zsa-update) / [FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2051-Notes.md#3-research--implementation-updates-iii-frost-update) / [Equilibrium Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2051-Notes.md#3-research--implementation-updates-iv-equilibrium-update) / [Nighthawk Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2051-Notes.md#3-research--implementation-updates-v-nighthawk-update)
     
-+ Open Discussion - Zebra timeline / ZSA estimated wallet load
++ Open Discussion - [Zebra timeline / ZSA estimated wallet load](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2051-Notes.md#4-open-discussion-i-zebra-stable-release-timeline--zsa-estimated-wallet-load)
 
 
 Video of the meeting: [recorded]
