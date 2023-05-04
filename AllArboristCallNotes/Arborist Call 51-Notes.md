@@ -21,7 +21,7 @@ Meeting Duration: 50 minutes
 Video of the meeting: [recorded]
 
 
-Moderator: Pili Guevara
+Moderator: Pili Guerra
 
 Notes: Jason Rogers
 
