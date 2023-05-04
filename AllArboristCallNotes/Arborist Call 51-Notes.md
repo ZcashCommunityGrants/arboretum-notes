@@ -83,7 +83,7 @@ We are, however, still seeing those very large, like many action transactions. T
 ___
 
 
-### 2. Zebrad Status - 
+### 2. Zebrad Status - Audit update
 
 
 
@@ -294,7 +294,7 @@ Okay, cool.
 
 ____
 
-### 3. Research & Implementation Updates iv)
+### 3. Research & Implementation Updates iv) Equilibrium update
 
 
 [34:30] - **Karlo Mardesic**
