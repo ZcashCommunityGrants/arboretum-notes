@@ -362,7 +362,7 @@ On the wallet front, the team is working on adopting updated native architecture
 
 ____
 
-### 3. Open Discussion i) Zebra Stable Release Timeline / ZSA estimated wallet load
+### 4. Open Discussion i) Zebra Stable Release Timeline / ZSA estimated wallet load
 
 
 [42:20] - **Adi**
