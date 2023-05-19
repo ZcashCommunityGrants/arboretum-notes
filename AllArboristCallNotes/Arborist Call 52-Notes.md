@@ -46,7 +46,7 @@ They are a call for protocol contributors to discuss upgrade timelines and proce
 
 [01:02] 
 
-Anyone can participate. Anyone can attend these calls live on Zoom by registering at electriccoin.co/events. If you want to present something to the call, then drop us an email at Arborstcall@zfnd.org to request a presentation slot and we will get you on the agenda. Otherwise, get involved. You can apply for a Zcash Community grant if you go to zcashcommunitygrants.org. You can also apply for a grant if your project will benefit both the Filecoin and Zcash ecosystems.
+Anyone can participate. Anyone can attend these calls live on Zoom by registering at electriccoin.co/events. If you want to present something to the call, then drop us an email at Arboristcall@zfnd.org to request a presentation slot and we will get you on the agenda. Otherwise, get involved. You can apply for a Zcash Community grant if you go to zcashcommunitygrants.org. You can also apply for a grant if your project will benefit both the Filecoin and Zcash ecosystems.
 
 
 [01:50] 
