@@ -21,6 +21,7 @@ The Zcash Foundation facilitates and records the meetings.
 
  №  | Date                             | Agenda        |Notes           | Recording            |
 --- | -------------------------------- | -------------- |--------------- | -------------------- |
+52 | 18 May 2023 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2052%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2052-Notes.md) \| [Twitter]()| [recording] | 
 51 | 4 May 2023 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2051%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2051-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1654244656786358277)| [recording] | 
 50 | 20 Apr 2023 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2050%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2050-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1649289397131436035)| [recording] | 
 49 | 06 Apr 2023 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2049%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2049-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1644115391575105537)| [recording] | 
@@ -72,4 +73,3 @@ The Zcash Foundation facilitates and records the meetings.
 3 | 10 Dec 2020| [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%203%20Agenda.md) | | [video](https://youtu.be/c4zl5ttPUsM) | 
 2 | 05 Nov 2020| [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%202%20Agenda.md) |  | [video](https://youtu.be/DypdbyO9eAU) | 
 1 | 30 Oct 2020| [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%201%20Agenda.md) |  | [video](https://youtu.be/czK65XWtlAM) | 
-
