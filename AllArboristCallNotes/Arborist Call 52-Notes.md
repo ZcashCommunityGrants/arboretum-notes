@@ -40,7 +40,7 @@ ___
 
 Welcome to the Arborist call for the 18 May 2023. These are calls that we hold every two weeks in two different time slots and early time slots to cater for people in Europe and east of Europe and this later slot which encompasses people in the United States.
 
-[00:32] *
+[00:32] 
 
 They are a call for protocol contributors to discuss upgrade timelines and processes, R&D efforts, design and implementation of new protocol features, & to discuss whether our blockers and where we can coordinate and whether issues that need to be resolved. The idea is to make core protocol development of Zcash more accessible to a wider set of participants and to provide transparency for the Zcash community.
 
@@ -64,11 +64,11 @@ ___
 
 So the Zebra update is we have been mostly addressing the last of the audit findings. I think there are a couple left, after that we're done. We released[rc.8](https://github.com/ZcashFoundation/zebra/releases/tag/v1.0.0-rc.8) last week, introducing an end of support halt like zcashd. So as of -rc.8 Zebrad will stop running 16 weeks after the last release date.
 
-[03:31] - **Arya**
+[03:31]
 
 Also in rc .8, the ZIP-317 rules for mempool transactions were implemented, security fixes for inbound service overloads and a rare panic when a connection is dropped. A fix for handling randomness generation & invalid random values as errors in cryptographic code, rejecting nodes as using Zclassic ports, adding user agent arguments to Zebra network and automatically using the correct testnet listener port when Zebrad is configured to run with testnet.
 
-[04:00] - **Arya**
+[04:00] 
 
 We have also merged PRs since -rc.8 for omitting IP addresses and potentially sensitive user information from Zebra's logs. Rate limiting and size limiting peer transaction ID messages limiting the size & number of blocks and transactions sent in response to a single request, avoiding panicking on state RPC or block requests with very large heights and to add documentation pages for supported platforms, platform tier policy and versioning to the [Zebra Book's](https://zebra.zfnd.org) Table of Contents.
 
@@ -182,7 +182,7 @@ Yeah, I agree. They're what users need, I hope that it's actually possible to bu
 
 Also worth keeping in mind that doing so would require significant changes to ZSA's. Because right now, at a very minimum, the way in which exchange transactions work is you can spend and receive these coins at whatever ratio you want inside a shielded transaction, and you would instead need to somehow bind that to the stable rate, wherever that happens to be.
 
-[18:54] - **Str4d**
+[18:54]
 
 Otherwise you have essentially private exchange rates in the shielded transactions, which could diverge significantly from the public stable rate. Maybe people who are well versed in stablecoin lore have already solved that problem but it's the first thing that occurs to me when I think of trying to use ZSA's for a stablecoin is how do you ensure that the exchange rate is maintained?
 
@@ -206,15 +206,15 @@ Exactly. The way that centralized stablecoins work is you have a backer who guar
 
 I realized I was just assuming the first uses of stablecoins through ZSAs would rely on bridging, because I guess I'm a big fan of bridging, so I was imagining any issuance mechanism, whether it was centralized or algorithmic, would be happening elsewhere. Then the stablecoins could be bridged to Zcash which is quite different from being issued directly onto Zcash.
 
-[22:30] - **Nate**
+[22:30] 
 
 It still seems like that would be feasible with a centralized issuer because that may require less programmatic functionality. But then generally in terms of exchange rates, the important thing as I understand it, first of all the Issuance and redemption mechanism has to be working well but then any place where there may be bottlenecks in reaching Issuance or redemption can cause tokens like behind that bottleneck to vary in price.
 
-[23:12] - **Nate**
+[23:12] 
 
 For example, if there were an Issuance redemption mechanism on Ethereum that was working just fine & Ethereum network is processing transactions without backlogs and that's working fine. But there's an Ethereum to Zcash bridge which is introducing some kind of delay or has other bottlenecks then it would be possible for a wrapped, shielded, stablecoin that's issued on Ethereum but held on the Zcash network.
 
-[23:49] - **Nate**
+[23:49]
 
 There could be a market where the price could vary from the main peg if there's any sort of bottleneck. I guess as like protocol designers, we would want to focus on making reliable bridges and then as much as possible making them low latency and that's all bridge centric right, so there's this other path of direct Issuance on the Zcash network which I really haven't thought as much about, but that's an exciting path to explore too.
 
@@ -264,7 +264,7 @@ A particular kind of stablecoin that they don't like.
 
 [26:21] - **Dodger**
 
-Yeah, well, there's no way to stop it the moment ZSA's go live. There is nothing to stop Ziff on Beeblebrox from announcing to the world pseudonymously that they are going to issue a stablecoin on the Zcash network and assuming that the swap will exist, beginning to issue tokens that they declare are worth one dollar and if you exchange one ZEC, you'll get 33-34 of these coins. Then later on, if you want to sell them back, you'll get the corresponding amount of ZEC back.
+Yeah, well, there's no way to stop it the moment ZSA's go live. There is nothing to stop Zaphod Beeblebrox from announcing to the world pseudonymously that they are going to issue a stablecoin on the Zcash network and assuming that the swap will exist, beginning to issue tokens that they declare are worth one dollar and if you exchange one ZEC, you'll get 33-34 of these coins. Then later on, if you want to sell them back, you'll get the corresponding amount of ZEC back.
 
 [27:19] - **Daira**
 
@@ -337,7 +337,7 @@ Right. Maybe you could find like an interface where you just have a few paramete
 
 One way of doing it is to say that you have a smart contract on Ethereum that just signs things, can a smart contract hold a private key, well, I guess the owner of the contract can then the Zcash chain just verifies those signatures. So you're using the Ethereum's programmability to bootstrap a very limited form of programmability on Zcash,
 
-[34:47] - **Daira**
+[34:47] - **Dodger**
 
 You might as well just bridge DAI onto Zcash as a ZSA.
 
