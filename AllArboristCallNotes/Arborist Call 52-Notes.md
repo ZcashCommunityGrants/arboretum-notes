@@ -9,13 +9,13 @@ Meeting Duration: 45 minutes
 
 + Welcome and Meeting Intro 
 
-+ Zebra Status - Zebra -rc.8 / Audit update
++ Zebra Status - [Zebra -rc.8 / Audit update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2052-Notes.md#1-zebrad-status---zebra--rc8--audit-update)
 
-+ ECC Core Update - Faster Sync / Zcashd 5.5.1 
++ ECC Core Update - [Faster Sync / Zcashd 5.5.1](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2052-Notes.md#2-ecc-core-updates----faster-sync--zcashd-551)
 
-+ Research & Implementation Update - FROST update
++ Research & Implementation Update - [FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2052-Notes.md#3-research--implementation-updates---frost-updates)
     
-+ Open Discussion - ZSA Stablecoins / Network Upgrade Coordination
++ Open Discussion - [ZSA Stablecoins](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2052-Notes.md#4-open-discussion-i---zsa-stablecoins) / [Network Upgrade Coordination](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2052-Notes.md#4-open-discussion-ii---network-upgrade-coordination)
 
 
 Video of the meeting: [recorded]
