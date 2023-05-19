@@ -136,7 +136,7 @@ Teor does that answer the question that you were wondering about?
 
 [12:12] - **Teor**
 
-Yeah, we had a very similar conversation yesterday in the zip sync. It's more just that we were interested in making sure that Zebra could make those changes on our own schedule rather than having to basically switch to them as soon as they're ready in zcashd and we know what needs to be done there because we might have to make some changes to our state layer to make sure that we have the right indexes and those kinds of things.
+Yeah, we had a very similar conversation yesterday in the zip sync. It's more just that we were interested in making sure that Zebra could make those changes on our own schedule, rather than having to race to switch to them as soon as they're ready in zcashd, and we know what needs to be done there. Because we might have to make some changes to our state layer to make sure that we have the right indexes and those kinds of things.
 
 [12:50] - **Str4d**
 
@@ -292,7 +292,7 @@ Yeah and what that means is that there's going to be an exchange point / swap po
 
 [29:29] - **Teor**
 
-Also, the problem with relying on game theory or incentives for these kinds of systems is that sometimes people are playing a different game or they're acting on external incentives that don't have anything to do with the network or the cryptocurrency you're trying to make function in a particular way. That becomes very tricky because you have to think not just of how you set up your own system, but every other system that it might interact with and all of the other incentives that people could potentially be acting under. Something to think about for proof of stake as well.
+Also, the problem with relying on game theory or incentives for these kinds of systems is that sometimes people are playing a different game. Or they're acting on external incentives that don't have anything to do with the network or the cryptocurrency you're trying to make function in a particular way. That becomes very tricky because you have to think not just of how you set up your own system, but every other system that it might interact with, and all of the other incentives that people could potentially be acting under. Something to think about for proof of stake as well.
 
 [30:11] - **Daira**
 
