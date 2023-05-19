@@ -436,41 +436,34 @@ _____
 ### Attendees
 
 
-+ 
++ Nate_ZEC
 
-+ 
++ Arya Solhi
 
-+ 
++ Conrado Gouvea
 
-+ 
++ Daira Emma Hopwood
 
-+ 
++ Jack Grigg
 
-+ 
++ Kris Nuttycombe
 
-+ 
++ teor 
 
-+ 
++ Charlie OKeefe
 
-+ 
++ Cody Burns
 
-+ 
++ Greg Pfeil
 
-+ 
++ John Bruhling
 
-+ 
++ Josh Swihart
 
-+ 
++ Marek
 
-+ 
++ Oleksandr Putyak
 
-+ 
-
-+ 
-
-+ 
-
-+ 
 
 
 **Next Meeting Scheduled: 15:00 UTC June 1st 2023**
