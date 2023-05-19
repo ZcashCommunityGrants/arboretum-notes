@@ -290,13 +290,16 @@ Fiat currency or gold maybe or something like that.
 
 Yeah and what that means is that there's going to be an exchange point / swap point which is where the rubber hits the road as far as regulation goes.
 
-[00:29:29.590] - **Teor**
+[29:29] - **Teor**
+
 Also, the problem with relying on game theory or incentives for these kinds of systems is that sometimes people are playing a different game or they're acting on external incentives that don't have anything to do with the network or the cryptocurrency you're trying to make function in a particular way. That becomes very tricky because you have to think not just of how you set up your own system, but every other system that it might interact with and all of the other incentives that people could potentially be acting under. Something to think about for proof of stake as well.
 
-[00:30:11.860] - **Daira**
+[30:11] - **Daira**
+
 Yeah, I'm reminded of recent attacks on Ethereum where the miner extractable value turned out to be greater than the slashing of the stake. So people just broke the protocol and got slashed and got more money from the MEV.
 
-[00:30:34.090] - **Dodger**
+[30:34] - **Dodger**
+
 One of the great advantages of having privacy at layer one.
 
 [30:38] - **Daira**
