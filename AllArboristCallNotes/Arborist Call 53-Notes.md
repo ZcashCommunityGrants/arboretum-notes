@@ -33,9 +33,9 @@ Notes: Jason Rogers
 
 ## Decisions & Action Items
 
-i) 
+i) Schedule Arborist Call dedicated to ZSA fees
 
-ii)
+ii) Implement rolling fashion lightwalletd reindexing
 
 ___
 
