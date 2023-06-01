@@ -10,7 +10,9 @@ The main use of this repository is for the Zcash Arborist bi-weekly meeting. It 
 The agendas for the calls are tracked in the Agenda Archive in this repository. To add an item to an agenda, please open an issue in this repository which mentions the topic you want to discuss and links any relevant materials (ZIP's etc.). Then, leave a comment in the agenda where you would like this to be discussed. 
 
 ### Who Can Attend
-Anyone who wants to contribute to Zcash protocol development and to share news on Zcash node projects. Register here: [15:00 UTC](https://us06web.zoom.us/webinar/register/WN_Vk7WMz9sRkiIr_hqH_x3LA) / [22:30 UTC](https://us06web.zoom.us/webinar/register/WN_z0k1ipsnRkS4-DGqDhULdA)
+Anyone who wants to contribute to Zcash protocol development and to share news on Zcash node projects.
+
+Register here: [15:00 UTC](https://us06web.zoom.us/webinar/register/WN_Vk7WMz9sRkiIr_hqH_x3LA) / [22:30 UTC](https://us06web.zoom.us/webinar/register/WN_z0k1ipsnRkS4-DGqDhULdA)
 
 ### Who Manages the Meetings
 The Zcash Foundation facilitates and records the meetings.
