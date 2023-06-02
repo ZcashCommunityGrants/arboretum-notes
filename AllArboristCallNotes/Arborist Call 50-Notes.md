@@ -633,7 +633,7 @@ Yeah. So I just wanted to mention that we haven't actually decided on a support 
 
 [01:23:01] - **Teor**
 
-In terms of network upgrades in general, I just wanted to mention that we haven't stopped making changes, so we've made some changes to Fees network protocol, we can do some soft forks, we're adding extra features to Zebra and to understand zcashd's adding performance features. So I would be in favor of trying to move as many changes out of network upgrades as possible because it's a lot easier to make those smaller changes on a regular cadence. But some things do have to be breaking changes and that's fine. So yeah, just also we're thinking about that changes do still happen to the protocol inbetween network upgrades.
+In terms of network upgrades in general, I just wanted to mention that we haven't stopped making changes. So we've made some changes to fees, network protocol, we can do some soft forks, we're adding extra features to Zebra and I understand zcashd's adding performance features. So I would be in favor of trying to move as many changes out of network upgrades as possible because it's a lot easier to make those smaller changes on a regular basis. But some things do have to be breaking changes and that's fine. So yeah, just also we're thinking about that changes do still happen to the protocol between network upgrades.
 
 [01:23:58] - **Str4d**
 
