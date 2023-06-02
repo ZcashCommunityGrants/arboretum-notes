@@ -279,7 +279,7 @@ ___
 ### 4. Open Discussion i)  Equilibrium / DAGSync details / ECC Roadmap 
 
 
-[30:45] - **Miodrag**
+[30:45] - **Equilibrium**
 
 We are working over the Red Team exercising and during the preparation, we have found some issues that we have mentioned on the Discord and the [Zcash forum](https://forum.zcashcommunity.com/t/ziggurat-3-0/43350/41). So we are updating this on the Discord and on the Zcash forum. So that's our update.
 
