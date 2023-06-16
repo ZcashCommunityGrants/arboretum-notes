@@ -9,7 +9,7 @@ Meeting Duration: 45 mins
 
 + Welcome and Meeting Intro - [Arborist Call & Zcash Grants / Zcon4 Registration](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#0-welcome--intro---arborist-calls--zcash-grants--zcon4-registration)
 
-+ ECC Core Update - [5.6.0 details & ECC Emergency Mode Roadmap](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#1-ecc-core-updates----zcashd-560--ecc-emergency-mode-roadmap()
++ ECC Core Update - [5.6.0 details & ECC Emergency Mode Roadmap](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#1-ecc-core-updates----zcashd-560--ecc-emergency-mode-roadmap)
 
 + Zebra Update - [Zebra 1.0.0 release](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#2-zebrad-status---zebra-100-stable-release)
 
