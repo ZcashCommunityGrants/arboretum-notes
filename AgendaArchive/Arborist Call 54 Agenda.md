@@ -1,6 +1,6 @@
 # Arborist Call 54 Agenda
 
-**Meeting Date: June 15th 15:00 UTC**
+**Meeting Date: June 15th 22:30 UTC**
 
 Duration: 45 minutes
 
