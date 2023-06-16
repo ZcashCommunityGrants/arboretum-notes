@@ -83,7 +83,7 @@ So in case anyone didn't notice, we released Zebra -rc.9 last week which fixes m
 
 [06:59]
 
-From the user perspective. The main thing is that it fixes a panic at startup when parsing the app version then we published Zebrad to https://crates.io. The Docker image has the latest tag on DockerHub, and if you encounter any bugs, please report them to our GitHub repository. We have template for issues, and you can also reach out on the Zebra support channel on Discord. That's pretty much it.
+From the user perspective. The main thing is that it fixes a panic at startup when parsing the app version then we published Zebrad to https://crates.io/zebrad The Docker image has the latest tag on [DockerHub](https://hub.docker.com/r/zfnd/zebra), and if you encounter any bugs, please report them to our GitHub repository. We have template for issues, and you can also reach out on the Zebra support channel on Discord. That's pretty much it.
 
 [07:52] - **Dodger**
 
