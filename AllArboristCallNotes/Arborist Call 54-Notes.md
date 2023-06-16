@@ -37,7 +37,7 @@ ___
 
 [01:45] - **Dodger**
 
-If you want to present on an Arborist call, if you want to present an idea, if you want to change the Zcash Protocol, then email arboristcall@zfnd.org to request a presentation slot and we will get you scheduled. There are a bunch of other ways to get involved in Zcash. You can apply for a Zcash Community grant. You can apply for a grant from the Filecoin & ECC grant program, which is intended for grants that benefit the Filec oin and Zcash ecosystems.
+If you want to present on an Arborist call, if you want to present an idea, if you want to change the Zcash Protocol, then email arboristcall@zfnd.org to request a presentation slot and we will get you scheduled. There are a bunch of other ways to get involved in Zcash. You can apply for a Zcash Community grant. You can apply for a grant from the Filecoin & ECC grant program, which is intended for grants that benefit the Filecoin and Zcash ecosystems.
 
 [02:20] 
 
@@ -60,7 +60,7 @@ So, on the ECC side, yesterday we released zcashd 5.6.0. That was the next in ou
 
 [04:33] 
 
-So 5.6.0 is the first of kind of a three part attack to get us out of emergency mode. The next two pieces are an update to lightwalletd, which should come sometime middle of next week. Then finally updates to the iOS and Android mobile sdk's which will enable what we're calling fund availability. So the ability to access spendable notes without having a wallet that is fully synced.
+So 5.6.0 is the first of kind of a three part attack to get us out of emergency mode. The next two pieces are an update to lightwalletd, which should come sometime middle of next week. Then finally updates to the iOS and Android mobile sdk's which will enable what we're calling "fast spendability". So the ability to access spendable notes without having a wallet that is fully synced.
 
 [05:07] 
 
@@ -79,15 +79,15 @@ ___
 
 [06:15] - **Marek**
 
-So in case anyone didn't notice, we released Zebra -rc.9 last week which fixes multiple network protocol and RPC bugs. It also avoids logging of information that might be sensitive. This week we released the first stable version, Zebra 1.0.0 and that's somewhat lightweight release from the user perspective, but not as lightweight from the developer perspective.
+So in case anyone didn't notice, we released Zebra 1.0.0-rc.9 last week which fixes multiple network protocol and RPC bugs. It also avoids logging of information that might be sensitive. This week we released the first stable version, Zebra 1.0.0 and that's somewhat lightweight release from the user perspective, but not as lightweight from the developer perspective.
 
 [06:59]
 
-From the user perspective. The main thing is that it fixes a panic at startup when parsing the app version then we published Zebrad to https://crates.io/zebrad The Docker image has the latest tag on [DockerHub](https://hub.docker.com/r/zfnd/zebra), and if you encounter any bugs, please report them to our GitHub repository. We have template for issues, and you can also reach out on the Zebra support channel on Discord. That's pretty much it.
+From the user perspective, the main thing is that it fixes a panic at startup when parsing the app version. Then we published Zebrad to  [crates.io as zebrad](https://crates.io/crates/zebrad). The Docker image has the latest tag on [DockerHub](https://hub.docker.com/r/zfnd/zebra), and if you encounter any bugs, please report them to our GitHub repository. We have [a ticket template for issues](https://github.com/ZcashFoundation/zebra/issues/new?assignees=&labels=C-bug%2C+S-needs-triage&projects=&template=bug_report.yml&title=%5BUser+reported+bug%5D%3A+), and you can also reach out on the Zebra support channel on Discord. That's pretty much it.
 
 [07:52] - **Dodger**
 
-I just want to give a big congratulations to the ZF engineering team for this milestone and also to acknowledge the contributions of past members of the Zcash Foundation and the help from the ECC engineers over the years as the ZF engineers have grappled with trying to replicate the functionality of Zcash, these sometimes bug for bitcoin derived bug.
+I just want to give a big congratulations to the ZF engineering team for this milestone, and also to acknowledge the contributions of past members of the Zcash Foundation, and the help from the ECC engineers over the years as the ZF engineers have grappled with trying to replicate the functionality of Zcash, sometimes bug for bitcoin derived bug.
 
 [08:24] 
 
@@ -95,7 +95,7 @@ So it's taken on a huge amount of effort and a lot of contribution to get to thi
 
 [09:05] - **Str4d**
 
-While I'm here, congratulations ZF on zebrad it's very exciting and now I know I can contribute patches to something that people will be, they will get used by. So they will get reviewed with more terror than before. Welcome to the jungle.
+While I'm here, congratulations ZF on zebrad. It's very exciting and now I know I can contribute patches to something that people will be using, that I know will get reviewed. So they will get reviewed with more terror than before. Welcome to the jungle.
 
 [09:31] - **Sean Bowe**
 
@@ -154,7 +154,7 @@ Hello. So I remember last time there was a discussion around talking to some end
 
 [13:27] - **Dodger**
 
-We haven't started that process yet because we want to be able to demo something before we start talking to folks. But yes, it's still very much on the cards and we'll probably at Zcon4, have a little bit of time anyway set aside to talk about what the roadmap towards getting Frost integrated into Zcash wallets might look like.
+We haven't started that process yet because we want to be able to demo something before we start talking to folks. But yes, it's still very much on the cards and we'll probably at Zcon4, have a little bit of time anyway set aside to talk about what the roadmap towards getting FROST integrated into Zcash wallets might look like.
 
 [14:05] - **Adi**
 
@@ -232,7 +232,7 @@ The service correct.
 
 [23:09] - **Kris**
 
-The amount of data that is transferred by Lightwalletd for this fund availability is very small orders of magnitude smaller than the compact block data. So I don't think it'll be a substantial difference.
+The amount of data that is transferred by Lightwalletd for this "fast spendability" is very small orders of magnitude smaller than the compact block data. So I don't think it'll be a substantial difference.
 
 [23:36] - **Str4d**
 
@@ -288,7 +288,7 @@ We have much longer things on startup just as a matter of course, like they can 
 
 [29:08] - **teor**
 
-Yes, if everything goes well on the network, zebra can start up in 10 seconds or 20 seconds or something. We honestly haven't measured it because it's kind of gone by the time you go look at it. I think we'll just try it and see and if it causes any problems, we can delay the RPCs activating until they are ready. If it's a quick free index then I doubt it will be noticed.
+Yes, if everything goes well on the network, zebra can start up in 10 seconds or 20 seconds or something. We honestly haven't measured it because it's kind of gone by the time you go look at it. I think we'll just try it and see and if it causes any problems, we can delay the RPCs activating until they are ready. If it's a quick reindex then I doubt it will be noticed.
 
 [29:38] - **Sean Bowe**
 
