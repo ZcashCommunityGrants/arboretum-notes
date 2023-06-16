@@ -37,7 +37,7 @@ ___
 
 [01:45] - **Dodger**
 
-If you want to present on an Arbor's call, if you want to present an idea, if you want to change the Zcash Protocol, then email arboristcall@zfnd.com to request a presentation slot and we will get you scheduled. There are a bunch of other ways to get involved in Zcash. You can apply for a Zcash Community grant. You can apply for a grant from the Filecoin & ECC grant program, which is intended for grants that benefit the Filec oin and Zcash ecosystems.
+If you want to present on an Arborist call, if you want to present an idea, if you want to change the Zcash Protocol, then email arboristcall@zfnd.com to request a presentation slot and we will get you scheduled. There are a bunch of other ways to get involved in Zcash. You can apply for a Zcash Community grant. You can apply for a grant from the Filecoin & ECC grant program, which is intended for grants that benefit the Filec oin and Zcash ecosystems.
 
 [02:20] 
 
