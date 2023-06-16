@@ -7,15 +7,15 @@ Meeting Duration: 45 mins
 
 **Agenda**: 
 
-+ Welcome and Meeting Intro - Arborist Call & Zcash Grants / Zcon4 Registration
++ Welcome and Meeting Intro - [Arborist Call & Zcash Grants / Zcon4 Registration](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#0-welcome--intro---arborist-calls--zcash-grants--zcon4-registration)
 
-+ ECC Core Update - 5.6.0
++ ECC Core Update - [5.6.0 details & ECC Emergency Mode Roadmap]https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#1-ecc-core-updates----zcashd-560--ecc-emergency-mode-roadmap()
 
-+ Zebra Update - Zebra 1.0.0 release
++ Zebra Update - [Zebra 1.0.0 release](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#2-zebrad-status---zebra-100-stable-release)
 
-+ Research & Implementation Update - FROST & Zebra Community Call / Nighthawk Apps Testnet Block Explorer
++ Research & Implementation Update - [FROST & Zebra Community Call](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#3-research--implementation-updates-i-frost--zebra-community-call) / [Nighthawk Apps Testnet Block Explorer](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#3-research--implementation-updates-ii-nighthawk-apps-testnet-block-explorer)
     
-+ Open Discussion - Lightwalletd Syncing / Arborist Call Timing 
++ Open Discussion - [Lightwalletd Syncing](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#4-open-discussion-i-lightwalletd-updates--syncing) / [Arborist Call Timing](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2054-Notes.md#4-open-discussion-ii-arborist-call-timing)
 
 
 Video of the meeting: [recorded]
