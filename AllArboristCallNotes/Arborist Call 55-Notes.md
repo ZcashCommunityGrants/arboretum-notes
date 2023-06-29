@@ -9,13 +9,13 @@ Meeting Duration: 1 hour
 
 + Welcome and Meeting Intro 
 
-+ ECC Core Update - [Zcashd 5.6.1 hotfix]() 
++ ECC Core Update - [Zcashd 5.6.1 hotfix](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2055-Notes.md#1-ecc-core-updates----zcashd-561-hotfix) 
 
-+ Zebra Update - [The Zebra Audit]()
++ Zebra Update - [The Zebra Audit](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2055-Notes.md#2-zebrad-status---the-zebra-audit)
 
-+ Research & Implementation Update - [FROST update]() / [Qedit Update]() / [Nighthawk Update]() 
++ Research & Implementation Update - [FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2055-Notes.md#3-research--implementation-updates-i-frost-update) / [QEDIT Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2055-Notes.md#3-research--implementation-updates-ii-qedit-update) / [Nighthawk Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2055-Notes.md#3-research--implementation-updates-iii-nighthawk-updat) 
     
-+ Open Discussion = [halo 2 in hacspec]() / [Arborist Call timing]() / [DAGSync status & details]()
++ Open Discussion = [halo 2 in hacspec](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2055-Notes.md#4-open-discussion-i-halo-2-implementation-in-hacspec) / [Arborist Call timing](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2055-Notes.md#4-open-discussion-ii-arborist-call-timing) / [DAGSync status & details](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2055-Notes.md#4-open-discussion-iii-dagsync-status--zip-editor-position)
 
 
 Video of the meeting: [recorded]
@@ -39,7 +39,7 @@ ___
 
 [02:58] - **Kris**
 
-I think the main announcement for this week is that we've released a hotfix release of zcashd. So zcashd 5.6.1 that deals with a fixes a bug that 5.6.0 introduced with respect to maintaining the note commitment trees in the Orchard Wallet.
+I think the main announcement for this week is that we've released a hotfix release of zcashd. So [zcashd 5.6.1](https://github.com/zcash/zcash/releases/tag/v5.6.1) that deals with a fixes a bug that 5.6.0 introduced with respect to maintaining the note commitment trees in the Orchard Wallet.
 
 [03:24] 
 
