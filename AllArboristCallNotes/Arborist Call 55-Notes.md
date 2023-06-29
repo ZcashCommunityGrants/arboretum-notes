@@ -57,22 +57,6 @@ We're working on mitigating that but that's the current state of zcashd. Aside f
 
 Then we are also in the final steps of the updates to librustzcash that are required to make the ECC Lightwallet SDK's able to take advantage of all of this new infrastructure and are expecting to have at least the librustzcash parts of those done by next week then there may be a little bit of time while we're still pushing those out through the SDKs, but I think that's it for what's going on at ECC right now.
 
-[06:44] 
-
-So we tagged our [1.0.0 stable release](https://github.com/ZcashFoundation/zebra/releases/tag/v1.0.0) about two weeks ago. In the meantime, we keep cranking on stuff. We are working on integrating the latest updated crates from the ECC, like incremental merkle tree and things like that, so that we can also support fast-sync via lightwalletd on our backend, so that work is in-flight.
-
-[07:20] 
-
-One thing that we did notice is that things going from like a 0.3 to a 0.4 had some breaking changes in terms of how they serialized things or stopped serializing things altogether, which is making it take a little bit longer than we had originally expected. But we're working on that. 
-
-[07:45] 
-
-Deirdre, we should discuss that offline because there is serialization code available for everything. It may just have moved.
-
-[07:56] - **Deirdre**
-
-I don't know if that was in any changelog or anything like that. Yes, we should sync up on that out-of-band. Let me pull up some of the more relevant stuff.
-
 
 
 ___
@@ -80,10 +64,23 @@ ___
 
 ### 2. Zebrad Status - The Zebra Audit 
 
+[06:44] - **Deirdre**
 
+So we tagged our [1.0.0 stable release](https://github.com/ZcashFoundation/zebra/releases/tag/v1.0.0) about two weeks ago. In the meantime, we keep cranking on stuff. We are working on integrating the latest updated crates from the ECC, like incremental merkle tree and things like that, so that we can also support fast-sync via lightwalletd on our backend, so that work is in-flight.
 
+[07:20] 
 
-[08:22] - **Deirdre**
+One thing that we did notice is that things going from like a 0.3 to a 0.4 had some breaking changes in terms of how they serialized things or stopped serializing things altogether which is making it take a little bit longer than we had originally expected but we're working on that. 
+
+[07:45] 
+
+Deirdre, we should discuss that offline because there is serialization code available for everything. It may just have moved.
+
+[07:56] 
+
+I don't know if that was in any changelog or anything like that. Yes, we should sync up on that out-of-band. Let me pull up some of the more relevant stuff.
+
+[08:22] - 
 
 So we've completed our Zebra audit. NCC Group has published their [final audit report](https://research.nccgroup.com/2023/06/29/public-report-zcash-zebra-security-assessment/) on their main blog, and we are going to also upload it to our repository for Zebra, coming soon.
 
@@ -336,15 +333,15 @@ ___
 
 [31:48] - **Adi**
 
-So about the nighthawk wallet. We have implemented a parallel sync mechanism in both the iOS and Android native apps, which significantly improves the wallet syncing speeds. So this enhancement will ensure a smoother UX for our users.
+Starting with the Nighthawk Wallet. We have adopted the parallel sync mechanism in both the iOS and Android native apps, which significantly improves the wallet syncing speeds. This enhancement will ensure a smoother UX for our users.
 
-[32:09] 
+[32:09]
 
-And these enhancements are built upon the robust [Secant project](https://github.com/zcash/secant-ios-wallet/) architecture that will have enhanced performance and security. On the distributed infrastructure front, we have been monitoring our automation setup and the node upgrades that went on from version 5.6.0 to 5.6.1. Also, for the Zcash Block Explorer, we've updated the main net and testnet frontends to respond to the updated zcashd node v5.6.1. That's pretty much it for now. Thanks.
+And these enhancements are built upon the robust Secant project architecture that will have enhanced performance and security. On the distributed infrastructure front, we have been monitoring our automation setup and the node upgrades from version 5.6.0 to 5.6.1. Also, for the Zcash Block Explorer, we've updated the main-net and test-net frontends to respond to the updated zcashd node v5.6.1. That's pretty much it for now. Thanks.
 
-[32:52] 
+[32:52]
 
-There's a question about the DAGsync, so that's another work. There's still a lot of moving parts it has to go through to make that work. But even before DAGsync comes, I think this parallel sync mechanism which simultaneously downloads and scans for transactions, reduces scanning speed considerably. So we look forward for shipping that when we can.
+There's a question about the DAGsync, so that's additional work. There's still a lot of moving parts to go through to make that work. But even before DAGsync comes, the parallel sync mechanism which simultaneously downloads and scans for transactions, reduces scanning speed considerably. We look forward for shipping the updates to our wallet apps when we can.
 
 [33:18] - **Daira**
 
