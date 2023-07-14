@@ -238,7 +238,7 @@ ___
 
 [07:29] - **Conrado**
 
-Hi, everyone. So what's going on with FROST. The [version 14](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-frost-14) of the specification was released this week. The main differences is that it includes the hashing the public key in the blinding factor computation that I mentioned before. There was no objection in the list, so that was added to the spec and defined the test vectors that are updated for hopefully the final version. So, yeah, I think it's now pretty close to done.
+Hi, everyone. So what's going on with FROST. The [version 14](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-frost-14) of the specification was released this week. The main differences is that it includes the hashing the public key in the binding factor computation that I mentioned before. There was no objection in the list, so that was added to the spec and defined the test vectors that are updated for hopefully the final version. So, yeah, I think it's now pretty close to done.
 
 [08:03]
 
@@ -246,11 +246,11 @@ On the implementation side, Chelsea realised that the Re-randomised crate that w
 
 [08:34] 
 
-We added documentation being reviewed but its now much simpler than was before. The audit is ongoing, they looked first at the ed2448 Goldilocks crate, which is the crate we use to support the ed2448 curve, because  both spec and our implementation support cipher suites and that's one of them. That was the one that had a less known, less used library. So we asked them to look into it and they found 3 bugs, nothing super major.
+We added documentation being reviewed but its now much simpler than was before. The audit is ongoing, they looked first at the ed2448 Goldilocks crate, which is the crate we use to support the ed448 curve, because  both spec and our implementation support cipher suites and that's one of them. That was the one that had a less known, less used library. So we asked them to look into it and they found 3 bugs, nothing super major.
 
 [09:17] 
 
-We already fixed it so that's nice. They look next into FROST core, which is the main part of the FROST implementation. The demo that we are working is very close to them in the community call mentioned earlier, which is about challenges on using FROST with the Zcash, how to integrate with wallets and so on. So that will happen probably next week. So I invite everyone who is interested if you work on Wallets or if you're interested in how to use FROST, it's more oriented for developers.
+We already fixed it so that's nice. They look next into FROST core, which is the main part of the FROST implementation. The demo that we are working is very close to done in the community call mentioned earlier, which is about challenges on using FROST with the Zcash, how to integrate with wallets and so on. So that will happen probably next week. So I invite everyone who is interested if you work on Wallets or if you're interested in how to use FROST, it's more oriented for developers.
 
 [10:00] 
 
