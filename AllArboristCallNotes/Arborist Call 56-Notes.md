@@ -140,7 +140,7 @@ We wanted to thank, in particular, dimxy from Komodo and the Ziggurat team for t
 
 [06:40] 
 
-The other thing we've done is that Rust 1.7.0 caused some bugs in our macOS implementation on shutdown. So we aren't building that anymore. It should still work. And even if it does some weird things on shutdown, your cache state should be fine but we just can't support that anymore because it does weird things with our tests. That's about where we're at. Any questions about zebra?
+The other thing we've done is that Rust 1.70 caused some bugs in our macOS implementation on shutdown. So we aren't building that [macOS] anymore. It should still work. And even if it does some weird things on shutdown, your cached state should be fine. But we just can't support that anymore because it does weird things with our tests. That's about where we're at. Any questions about zebra?
 
 
 ___
@@ -155,7 +155,7 @@ I kind of skipped over this in the Zebra update because it relates to work that 
 
 [31:12] 
 
-So as part of that, what happened is that we were using an undocumented and as we found out unsupported serialization format to store note commitment trees and then the dependency updates from ECC removed that format & that's totally understandable because it was always going to be a breaking change to change those structures because they're just not the same shape they were before. So there's no way to match the serialization format without some conversion code. So we've gone through the process of writing the conversion code from the format that wasn't officially supported, that's still stuck in our database, to the latest format which we'll be using for the RPC's, which is necessary to get some of the information out of the RPC's. So that seems to be working but that has  slowed down our progress on that because it was a bit of a surprise.
+So as part of that, what happened is that we were using an undocumented and as we found out unsupported serialization format to store note commitment trees. And then the dependency updates from ECC removed that format, and that's totally understandable because it was always going to be a breaking change to change those structures because they're just not the same shape they were before. So there's no way to match the serialization format without some conversion code. So we've gone through the process of writing the conversion code from the format that wasn't officially supported, that's still stuck in our database, to the latest format which we'll be using for the RPC's, which is necessary to get some of the information out of the RPC's. So that seems to be working but that has  slowed down our progress on that because it was a bit of a surprise.
 
 [32:18] 
 
@@ -441,7 +441,7 @@ That should be fine. I can schedule something with the team. At least the rust d
 
 [22:37] - **Teor**
 
-I think a bunch of people will be on leave or travelling back. Maybe the 13th would be better. But yeah, let's have a chat about the rough side of things and the implementation side of things. We can also just chat in the Zebra Channel on the R&D discord and see where we get up to that way.
+I think a bunch of people will be on leave or travelling back. Maybe the 13th would be better. But yeah, let's have a chat about the Rust side of things and the implementation side of things. We can also just chat in the Zebra Channel on the R&D discord and see where we get up to that way.
 
 [22:58] - **Mark Henderson**
 
@@ -455,7 +455,7 @@ ____
 
 [39:20] - **Mark Henderson**
 
-Just changing topics for a second. Somebody mentioned Ziggurat earlier, so I thought maybe just give a quick update that the Zebra bugs that were found were part of a Red Team exercise that we conducted on testnet. We found four things of varying degrees of severity and there'll be an update on that in the form of a blog post or something like that. Coming soon. Maybe after Zco i'm not sure if I'll have time to get to that before then, but we'll see. So I just wanted to open up the discussion on that and see if anybody had questions or just update people.
+Just changing topics for a second. Somebody mentioned Ziggurat earlier, so I thought maybe just give a quick update that the Zebra bugs that were found were part of a Red Team exercise that we conducted on testnet. We found four things of varying degrees of severity and there'll be an update on that in the form of a blog post or something like that. Coming soon. Maybe after Zcon i'm not sure if I'll have time to get to that before then, but we'll see. So I just wanted to open up the discussion on that and see if anybody had questions or just update people.
 
 [40:09] - **Dodger**
 
@@ -463,7 +463,7 @@ I just want to say I think from our perspective, it's really useful to have that
 
 [40:34] - **Teor**
 
-Yeah. It was great for us to get those bugs reported to us and we're very happy to be able to fix them. So two questions related to that. I realise you're not funded for this, so it's totally fair if you want to leave it off, but one of the things we're interested in doing is getting Zebra retested either after this release or after the next release when we've added a few more security fixes for lower severity. So just curious if that could happen or if you wanted to wait until both nodes had done fixes and do retesting. It's not urgent at all for us.
+Yeah. It was great for us to get those bugs reported to us and we're very happy to be able to fix them. So two questions related to that. I realise you're not funded for this, so it's totally fair if you want to leave it off, but one of the things we're interested in doing is getting Zebra retested either after this release or after the next release when we've added a few more security fixes for lower severity bugs. So just curious if that could happen or if you wanted to wait until both nodes had done fixes and do retesting. It's not urgent at all for us.
 
 [41:16] - **Mark Henderson**
 
@@ -670,7 +670,7 @@ _____
 ### Attendees
 
 
-+ Zcash Foundation  
++ Jack Gavigan (Dodger)  
 
 + Teor (they/them)
 
