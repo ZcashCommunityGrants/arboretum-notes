@@ -41,7 +41,7 @@ You can apply for a major grant from the Zcash Community Grants Committee. You c
 
 [03:17] 
 
-The earlier slot will stay at the same time. So the zoom links will be changing in August your old existing zoom links that you may have in your calendar or saved somewhere will be no longer valid. But just a note that the next call in the earlier time slot on the 27 July is unaffected. We will publish the new zoom links in early August after Zcon. Zcon will mark the break between the old zoom regime and the new zoom regime. Moving on, let's hear from ECC. I'm guessing it's going to be Daira about how things are going with Zcashd.
+The earlier slot will stay at the same time. So the zoom links will be changing in August your old existing zoom links that you may have in your calendar or saved somewhere will be no longer valid. But just a note that the next call in the earlier time slot on the 27 July is unaffected. We will publish the new zoom links in early August after Zcon. Zcon will mArc the break between the old zoom regime and the new zoom regime. Moving on, let's hear from ECC. I'm guessing it's going to be Daira about how things are going with Zcashd.
 
 
 ___
@@ -80,7 +80,7 @@ And then the last PR that's up at the moment and that I am currently testing and
 
 [25:31] 
 
-So being doing a bunch of bug fixing on finding on that. Found and fixed a bunch of bugs in the Shardtree crate, found and fixed a bunch of bugs in this PRi've & I've just been sort of like bashing at it to try and get the last few performance issues out. I'm hoping this will be in a good state by tomorrow or early next week and then we can get that merged and pull them into the mobile SDKs for testing there. I think that's basically it as far as those changes go. Happy to answer further questions.
+So being doing a bunch of bug fixing on finding on that. Found and fixed a bunch of bugs in the Shardtree crate, found and fixed a bunch of bugs in this PR & I've just been sort of like bashing at it to try and get the last few performance issues out. I'm hoping this will be in a good state by tomorrow or early next week and then we can get that merged and pull them into the mobile SDKs for testing there. I think that's basically it as far as those changes go. Happy to answer further questions.
 
 [26:43] - **Deirdre**
 
@@ -100,7 +100,7 @@ So there are three crates in that repository now. There's the Incremental merkle
 
 [27:47] - **Daira**
 
-There may also be a design change, minor design change to the shardtree crate to use Ark for atomic reference counting.
+There may also be a design change, minor design change to the shardtree crate to use Arc for atomic reference counting.
 
 [28:04] - **Deirdre**
 
@@ -108,19 +108,19 @@ That's what I was wondering about
 
 [28:07] - **Daira**
 
-I think we've concluded thats necessary to do parallelism properly.
+I think we've concluded that's necessary to do parallelism properly.
 
 [28:12] - **Str4d**
 
-Yeah, I thought it might not be, but unfortunately, due to how the rustqlite crate is set up it does force it. Because I thought I could go the other direction of keep doing all the shardtree stuff in independent threads separately without send or sync, and then just load in a reference to the SQLite database into each thread as it needed it. But that doesn't work so for that bit of performance parallelization we'll just switch the crate to using Ark instead of RC.
+Yeah, I thought it might not be, but unfortunately, due to how the rustqlite crate is set up it does force it. Because I thought I could go the other direction of keep doing all the shardtree stuff in independent threads separately without send or sync, and then just load in a reference to the SQLite database into each thread as it needed it. But that doesn't work so for that bit of performance parallelization we'll just switch the crate to using Arc instead of Rc.
 
 [28:45] 
 
-I still haven't got that parallelization working. I spent several hours today and just was failing miserably, so had to time box that, but I'll be trying that again probably next week because it would give another speed up on top of all the speed up's that we've already landed.  Then there's other similar ones that will probably land. Like the one I'm just doing right now is adding a caching layer because the process of upgrading an existing wallet is almost as slow as just rescanning from scratch. Because when we're doing the frontier updates and loading those into the tree, it's thrashing SQLlte so I'm just currently writing a caching layer which will hopefully make that performance issue go away.
+I still haven't got that parallelization working. I spent several hours today and just was failing miserably, so had to time box that, but I'll be trying that again probably next week because it would give another speed up on top of all the speed up's that we've already landed.  Then there's other similar ones that will probably land. Like the one I'm just doing right now is adding a caching layer because the process of upgrading an existing wallet is almost as slow as just rescanning from scratch. Because when we're doing the frontier updates and loading those into the tree, it's thrashing SQLite so I'm just currently writing a caching layer which will hopefully make that performance issue go away.
 
 [29:40] 
 
-And then what we left with is just the fact that there is a bunch of commitment tree merkle path hashing being done in a single thread, which is the other thing I'm trying to fix with the parallelization of that piece. But everything else is pretty good throughput at this point. So the next step after getting that working is, as I said, getting it into the Android and iOS SDKs and starting to do testing of that on actual devices as opposed to my nice server with the 5950X, 52 threads and check what our performance things look like there. But all of that performance is related to improvements to linear scanning overall because the nonlinear scanning still has to do all the linear pieces to catch up, but the fast spendability pieces provide significant speed up's on top of that.
+And then what we left with is just the fact that there is a bunch of commitment tree merkle path hashing being done in a single thread, which is the other thing I'm trying to fix with the parallelization of that piece. But everything else is pretty good throughput at this point. So the next step after getting that working is, as I said, getting it into the Android and iOS SDKs and starting to do testing of that on actual devices as opposed to my nice server with the 5950X, 32 threads and check what our performance things look like there. But all of that performance is related to improvements to linear scanning overall because the nonlinear scanning still has to do all the linear pieces to catch up, but the fast spendability pieces provide significant speed up's on top of that.
 
 
 ___
@@ -266,13 +266,13 @@ ___
 
 [10:58] - **Jason McGee**
 
-Hey. So I'm here today on behalf of Shielded Labs to announce that we've started development on the Zcash sustainability Fund. After a few months of gauging community sentiment and soliciting feedback both publicly on the forum and in private. So Shielded Labs hired a couple of engineers from the Equilibrium Group as contractors to do the development work. Mark Henderson is here as well, and he's going to be overseeing that work. The first milestone for the project is just to write two ZIP's. One is to establish the sustainability fund on the protocol level, and then the second is to modify the Issuance schedule.  We plan on following the ZIP process outlined in ZIP-0. But Mark, I think do you have any questions about the ZIP process or is there anything you wanted clarification on?
+Hey. So I'm here today on behalf of Shielded Labs to announce that we've started development on the Zcash sustainability Fund. After a few months of gauging community sentiment and soliciting feedback both publicly on the forum and in private. So Shielded Labs hired a couple of engineers from the Equilibrium Group as contractors to do the development work. MArc Henderson is here as well, and he's going to be overseeing that work. The first milestone for the project is just to write two ZIP's. One is to establish the sustainability fund on the protocol level, and then the second is to modify the Issuance schedule.  We plan on following the ZIP process outlined in ZIP-0. But MArc, I think do you have any questions about the ZIP process or is there anything you wanted clarification on?
 
-[11:50] - **Mark Henderson**
+[11:50] - **MArc Henderson**
 
 Hey, folks. No, I guess just nothing in particular. But if there's anything that the ZIP editors would like me to keep in mind as I start this process, any helpful tips there would be very useful. Happy to follow the stated process.
 
-[12:22] - **Mark Henderson**
+[12:22] - **MArc Henderson**
 
 Any tips that the ZIP editors have? Like you, Daira anybody else.
 
@@ -280,7 +280,7 @@ Any tips that the ZIP editors have? Like you, Daira anybody else.
 
 Yeah, discuss that in the ZIP's channel on the R&D discord.
 
-[12:39] - **Mark Henderson**
+[12:39] - **MArc Henderson**
 
 Sure, no problem, thank you.
 
@@ -296,7 +296,7 @@ Yeah, agreed with Daira said, I'm also throwing a link to [ZIP-0](https://ZIPs.z
 
 That was very complete Deirdre.
 
-[13:49] - **Mark Henderson**
+[13:49] - **MArc Henderson**
 
 Awesome. Thank you very much.
 
@@ -306,7 +306,7 @@ Very helpful thank you.
 
 [13:53] - **Dodger**
 
-And Mark, if you need a link to the Zcash, R&D discord, just point your browser at https://zfnd.org/arborist-calls.
+And MArc, if you need a link to the Zcash, R&D discord, just point your browser at https://zfnd.org/arborist-calls.
 
 
 
@@ -352,7 +352,7 @@ In that case a single PR.
 
 Right. I would say if they are extremely related and if we make our suggested changes, that they will likely apply to the other. One PR seems like a good idea. If they are only tangentially related - they don't change if one of the other one changes I think two PR's is doable, but it's up to the discretion of whoever is opening that and then we can make suggestions, but we can go back and forth on that.
 
-[17:22] - **Mark Henderson**
+[17:22] - **MArc Henderson**
 
 One more question. In the event that the ZIP work that we're doing in, I guess the draft ZIP's that we're working on would affect the contents of previous ZIPs based on what happens in the block headers and things like that. Should that all be included in? I think I know the answer, but I just want to be thorough.
 
@@ -360,7 +360,7 @@ One more question. In the event that the ZIP work that we're doing in, I guess t
 
 Usually. Yes.
 
-[17:47] - **Mark Henderson**
+[17:47] - **MArc Henderson**
 
 Okay, just include it in one bundle and then review together.
 
@@ -372,7 +372,7 @@ I think that's the easiest thing to review usually.
 
 Yeah.
 
-[17:57] - **Mark Henderson**
+[17:57] - **MArc Henderson**
 
 Cool.
 
@@ -384,7 +384,7 @@ Also beware that if there are changes to block header contents, that may also in
 
 Previously, I've handled updating the protocol spec but I think we want me to be a little bit less of a bottleneck on that. So yeah, it is absolutely fine to update the protocol spec, which is written in LaTeX with very heavy use of macros. It's okay to update that in the same PR, but you don't necessarily need to because the ZIP's are what describe the changes to the protocol. And yeah, even if it's not me who's doing it's technically the ZIP editor's responsibility to make sure that everything is consistent.
 
-[19:24] - **Mark Henderson**
+[19:24] - **MArc Henderson**
 
 Alright, cool. Well, I'll do my best and we'll see what happens. This is my first time.
 
@@ -396,7 +396,7 @@ Sure. You do not have to know LaTeX. You don't have to know these kind of wonky 
 
 And if it is possible to minimize changes to things like block headers, which I don't believe we've actually ever changed the block headers as opposed to transaction headers,
 
-[20:15] - **Mark Henderson**
+[20:15] - **MArc Henderson**
 
 It's an addition of a field.
 
@@ -404,7 +404,7 @@ It's an addition of a field.
 
 Well, yeah, we've used a previously reserved field and we have modified the semantics of fields.
 
-[20:28] - **Mark Henderson**
+[20:28] - **MArc Henderson**
 
 Okay, that's interesting.
 
@@ -412,7 +412,7 @@ Okay, that's interesting.
 
 A highly loaded set of 32 bytes.
 
-[20:36] - **Mark Henderson**
+[20:36] - **MArc Henderson**
 
 You just stuff an integer or float somewhere in here. Okay, cool. This is great information. Good to know.
 
@@ -420,7 +420,7 @@ You just stuff an integer or float somewhere in here. Okay, cool. This is great 
 
 And speaking of that field, which is now the hash block commitments field, there's a particular way to add extensions to it so other things that you need a block to commit to. So it would be good to follow the existing design there and if you can possibly avoid changing the headers, then do but I don't know if that's possibly the case.
 
-[21:15] - **Mark Henderson**
+[21:15] - **MArc Henderson**
 
 Well, what I'll do is I'll go on the discord & very gingerly kind of step through what I'm thinking and maybe you can just guide me in the right direction.
 
@@ -428,15 +428,15 @@ Well, what I'll do is I'll go on the discord & very gingerly kind of step throug
 
 Sounds good.
 
-[21:25] - **Mark Henderson**
+[21:25] - **MArc Henderson**
 
 Alright, awesome. That's all from me.
 
 [21:36] - **Teor**
 
-Yes. Now, I have actually a question, for either Jason or Mark. I understand, and maybe you don't know the answer to this yet, I understand that you were thinking of using Zebra to do your initial implementation. So my question is from the perspective of member of the Zebra Team. How can we help you? And at what time is a good time for us to have a detailed chat about that kind of thing? Probably for us, after Zcon is a better time.
+Yes. Now, I have actually a question, for either Jason or MArc. I understand, and maybe you don't know the answer to this yet, I understand that you were thinking of using Zebra to do your initial implementation. So my question is from the perspective of member of the Zebra Team. How can we help you? And at what time is a good time for us to have a detailed chat about that kind of thing? Probably for us, after Zcon is a better time.
 
-[22:14] - **Mark Henderson**
+[22:14] - **MArc Henderson**
 
 That should be fine. I can schedule something with the team. At least the rust dev on our team. Maybe that week right after, the week of the 6th onwards in August?
 
@@ -444,7 +444,7 @@ That should be fine. I can schedule something with the team. At least the rust d
 
 I think a bunch of people will be on leave or travelling back. Maybe the 13th would be better. But yeah, let's have a chat about the Rust side of things and the implementation side of things. We can also just chat in the Zebra Channel on the R&D discord and see where we get up to that way.
 
-[22:58] - **Mark Henderson**
+[22:58] - **MArc Henderson**
 
 Okay, thank you.
 
@@ -454,7 +454,7 @@ ____
 ### 3. Research & Implementation - IV) Ziggurat Update
 
 
-[39:20] - **Mark Henderson**
+[39:20] - **MArc Henderson**
 
 Just changing topics for a second. Somebody mentioned Ziggurat earlier, so I thought maybe just give a quick update that the Zebra bugs that were found were part of a Red Team exercise that we conducted on testnet. We found four things of varying degrees of severity and there'll be an update on that in the form of a blog post or something like that. Coming soon. Maybe after Zcon i'm not sure if I'll have time to get to that before then, but we'll see. So I just wanted to open up the discussion on that and see if anybody had questions or just update people.
 
@@ -466,7 +466,7 @@ I just want to say I think from our perspective, it's really useful to have that
 
 Yeah. It was great for us to get those bugs reported to us and we're very happy to be able to fix them. So two questions related to that. I realise you're not funded for this, so it's totally fair if you want to leave it off, but one of the things we're interested in doing is getting Zebra retested either after this release or after the next release when we've added a few more security fixes for lower severity bugs. So just curious if that could happen or if you wanted to wait until both nodes had done fixes and do retesting. It's not urgent at all for us.
 
-[41:16] - **Mark Henderson**
+[41:16] - **MArc Henderson**
 
 Yeah, it would be great to consolidate the pair of nodes into one retest. The engineers have moved on and been re-resourced to other projects at this point, but we do want to retest it and we might just go ahead and retest it at some point, we're just not exactly sure when.
 
@@ -474,7 +474,7 @@ Yeah, it would be great to consolidate the pair of nodes into one retest. The en
 
 Just another question about scheduling coordination. It'd be great when there's a red teaming exercise for us to get a week or two of warnings so we can maybe coordinate a release to get any fixes out that we'd like tested that just happen to be sitting on the main branch. Also for us, it took us a few days to set up the machines for the test to make sure that there were enough Zebra instances running on testnet that were configured for it. So  it'd be great to get a week or two notice next time.
 
-[42:20] - **Mark Henderson**
+[42:20] - **MArc Henderson**
 
 Yeah, no problem.
 
@@ -691,7 +691,7 @@ _____
 
 + Jason McGee
 
-+ Mark Henderson
++ MArc Henderson
 
 + Taylor Hornby
 
@@ -699,7 +699,7 @@ _____
 
 + Josh Swihart
 
-+ Madison Parks
++ Madison PArcs
 
 + Michael Harms
 
