@@ -37,11 +37,11 @@ ___
 
 [01:51] - **Dodger**
 
-You can apply for a major grant from the Zcash Community Grants Committee. You can also apply for a grant from the Filecoin & ECC grant program if your project benefits both the Filecoin and Zcash ecosystems. A good place to start chatting to other Zcash developers is the Zcash R&D Discord and there's the ever lively and exciting [Zcash Community Forum](https://forum.zcashcommunity.com) and you can find all of these links by pointing your browser at https://zcasharborist.org quick reminder that Zcon4 is coming up very soon. Registration is open and it is filling up fast. It is at the center of nearly a week of events, including crypto lounge experience that is happening the day before at Solo House in Barcelona, and then a ZK proof workshop the day after, co located at the same venue as Zcon. So book your tickets, book your flights, or you're going to miss out. Want to let everybody know that the Arborist calls will be changing in August. This slot will be moving to be earlier, 21:00 UTC rather than the 22:30 uTC that is currently scheduled in. This is to make it easier for people in Europe to join the calls.
+You can apply for a major grant from the Zcash Community Grants Committee. You can also apply for a grant from the Filecoin & ECC grant program if your project benefits both the Filecoin and Zcash ecosystems. A good place to start chatting to other Zcash developers is the Zcash R&D Discord and there's the ever lively and exciting [Zcash Community Forum](https://forum.zcashcommunity.com) and you can find all of these links by pointing your browser at https://zfnd.org/arborist-calls quick reminder that Zcon4 is coming up very soon. Registration is open and it is filling up fast. It is at the center of nearly a week of events, including crypto lounge experience that is happening the day before at Solo House in Barcelona, and then a ZK proof workshop the day after, co located at the same venue as Zcon. So book your tickets, book your flights, or you're going to miss out. Want to let everybody know that the Arborist calls will be changing in August. This slot will be moving to be earlier, 21:00 UTC rather than the 22:30 uTC that is currently scheduled in. This is to make it easier for people in Europe to join the calls.
 
 [03:17] 
 
-The earlier slot will stay at the same time. So the zoom links will be changing in August your old existing zoom links that you may have in your calendar or saved somewhere will be no longer valid. But just a note that the next call in the earlier time slot on the 27 July is unaffected. We will publish the new zoom links in early August after Zcon.  Zcon will mark the break between the old zoom regime and the new zoom regime. Moving on, let's hear from ECC. I'm guessing it's going to be Daira about how things are going with Zcashd.
+The earlier slot will stay at the same time. So the zoom links will be changing in August your old existing zoom links that you may have in your calendar or saved somewhere will be no longer valid. But just a note that the next call in the earlier time slot on the 27 July is unaffected. We will publish the new zoom links in early August after Zcon. Zcon will mark the break between the old zoom regime and the new zoom regime. Moving on, let's hear from ECC. I'm guessing it's going to be Daira about how things are going with Zcashd.
 
 
 ___
@@ -246,7 +246,7 @@ On the implementation side, Chelsea realised that the Re-randomised crate that w
 
 [08:34] 
 
-We added documentation being reviewed but its now much simpler than was before. The audit is ongoing, they looked first at the ed2448 Goldilocks crate, which is the crate we use to support the ed448 curve, because  both spec and our implementation support cipher suites and that's one of them. That was the one that had a less known, less used library. So we asked them to look into it and they found 3 bugs, nothing super major.
+We added documentation being reviewed but its now much simpler than was before. The audit is ongoing, they looked first at the [ed448-goldilocks crate](https://crates.io/crates/ed448-goldilocks), which is the crate we use to support the Ed448 curve, because  both spec and our implementation support cipher suites and that's one of them. That was the one that had a less known, less used library. So we asked them to look into it and they found 3 bugs, nothing super major.
 
 [09:17] 
 
@@ -290,7 +290,7 @@ Thank you.
 
 [12:49] - **Deirdre**
 
-Yeah, agreed with Daira said, I'm also throwing a link to [ZIP-0](https://ZIPs.z.cash/ZIP-0000), which is explaining what the ZIP process is like and how it intersects with ZIP editors and all of that and our procedures of how we write documents and review them and so forth. Yeah, getting started with a draft ZIP and looking at earlier existing ZIPs of similar proposals is a good place to start and yes, discussing on the ZIPs channel on the R&D discord where we hang out is a very good idea & you can ping us with questions about what you should include shouldn't include & you can also just open a PR with the first stab of the ZIP and that will give us something to all look at together as it evolves.
+Yeah, agreed with Daira said, I'm also throwing a link to [ZIP-0](https://ZIPs.z.cash/ZIP-0000), which is explaining what the ZIP process is like and how it intersects with ZIP editors and all of that and our procedures of how we write documents and review them and so forth. Yeah, getting started with a draft ZIP and looking at earlier existing ZIPs of similar proposals is a good place to start and yes, discussing on the [#zips channel](https://discord.com/channels/809218587167293450/809251050741170187) on the R&D discord where we hang out is a very good idea & you can ping us with questions about what you should include shouldn't include & you can also just open a PR with the first stab of the ZIP and that will give us something to all look at together as it evolves.
 
 [13:46] - **Daira**
 
@@ -306,7 +306,7 @@ Very helpful thank you.
 
 [13:53] - **Dodger**
 
-And Mark, if you need a link to the Zcash, R&D discord, just point your browser https://zcasharborist.org.
+And Mark, if you need a link to the Zcash, R&D discord, just point your browser at https://zfnd.org/arborist-calls.
 
 
 
@@ -350,7 +350,7 @@ In that case a single PR.
 
 [16:43] - **Deirdre**
 
-Right. I would say if they are extremely related and if we make our suggested changes, that they will likely apply to the other. One PR seems like a good idea. If they are only tangentially related - they don't change if one of the other one changes I think two PRS is doable, but it's up to the discretion of whoever is opening that and then we can make suggestions, but we can go back and forth on that.
+Right. I would say if they are extremely related and if we make our suggested changes, that they will likely apply to the other. One PR seems like a good idea. If they are only tangentially related - they don't change if one of the other one changes I think two PR's is doable, but it's up to the discretion of whoever is opening that and then we can make suggestions, but we can go back and forth on that.
 
 [17:22] - **Mark Henderson**
 
@@ -384,7 +384,8 @@ Also beware that if there are changes to block header contents, that may also in
 
 Previously, I've handled updating the protocol spec but I think we want me to be a little bit less of a bottleneck on that. So yeah, it is absolutely fine to update the protocol spec, which is written in LaTeX with very heavy use of macros. It's okay to update that in the same PR, but you don't necessarily need to because the ZIP's are what describe the changes to the protocol. And yeah, even if it's not me who's doing it's technically the ZIP editor's responsibility to make sure that everything is consistent.
 
-[00:19:24] - **Mark Henderson**
+[19:24] - **Mark Henderson**
+
 Alright, cool. Well, I'll do my best and we'll see what happens. This is my first time.
 
 [19:32] - **Deirdre**
@@ -602,7 +603,7 @@ And we can specify some way of encoding that in the comments and the export file
 
 [53:30] - **Str4d**
 
-Yeah. The downside to doing this is that then your transparent keys are not the default transparent keys you would get by just using the current Zcash app on the ledger app store. You would have a different set of transparent addresses. Effectively what you would need to do is export your funds from your transparent only Zcash app and input and send them to the unified address with transparent part side part in the new app. But once you've done that once, then you would be in a consistent key tree and one that you could import into other wallets if you needed to. And that would be at least consistent there. Whereas the approach that's currently in the new app is completely divergent from ZIP-32 and incompatible with everything that's out there.
+Yeah. The downside to doing this is that then your transparent keys are not the default transparent keys you would get by just using the current Zcash app on the ledger app store. You would have a different set of transparent addresses. Effectively what you would need to do is export your funds from your transparent only Zcash app and input and send them to the unified address with transparent part side part in the new app. But once you've done, then you would be in a consistent key tree and one that you could import into other wallets if you needed to. And that would be at least consistent there. Whereas the approach that's currently in the new app is completely divergent from ZIP-32 and incompatible with everything that's out there.
 
 [54:32] - **Taylor Hornby**
 
