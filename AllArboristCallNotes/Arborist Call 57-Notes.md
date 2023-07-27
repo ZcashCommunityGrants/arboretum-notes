@@ -7,15 +7,15 @@ Meeting Duration: 20 minutes
 
 **Agenda**: 
 
-+ Welcome and Meeting Intro - [change to arborist call times]()
++ Welcome and Meeting Intro - [change to arborist call times](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2057-Notes.md#0-welcome--intro---change-of-arborist-call-times)
 
-+ ECC Core Update - [mobile sdk's / lightwalletd bug fixes]()
++ ECC Core Update - [mobile sdk's / lightwalletd bug fixes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2057-Notes.md#1-ecc-update---mobile-sdk-updates--lightwalletd-bug-fixes)
 
-+ Zebra Update - [zebra 1.1.0 fixes]()
++ Zebra Update - [zebra 1.1.0 fixes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2057-Notes.md#2-zebrad-status---zebra-110)
 
-+ Research & Implementation Update - [FROST demos / audit updates]()
++ Research & Implementation Update - [FROST demos / audit updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2057-Notes.md#3-research--implementation-updates-i-frost-demos-and-audit-update) / [NIghthawk update - Zcash Block Explorer API requests](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2057-Notes.md#3-research--implementation-updates-ii-nighthawk-update---zcash-block-explorer-api-requests)
 
-+ Open Discussion - [curve25519-dalek 4.0]()
++ Open Discussion - [curve25519-dalek 4.0](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2057-Notes.md#4-open-discussion-i-curve25519-dalek-40-update)
 
 
 Video of the meeting: [recorded]
