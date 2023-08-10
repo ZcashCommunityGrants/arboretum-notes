@@ -35,6 +35,7 @@ ___
 ### 0. Welcome & Intro - Arborist Call Updated times & Registration links
 
 [00:04] - **Jack Gavigan**
+
 we'll get started with some node updates. I'm not sure there will be any research or implementation status updates today. No discussion topics have been proposed. In fact, no discussion topics have ever been proposed in advance of any Arborist call. If you have something you want to discuss, let us know and then we'll move on to open announcements, any updates, anybody wants to give any discussion and then we'll wrap it up.
 
 [00:42] 
