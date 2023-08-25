@@ -162,11 +162,11 @@ Thanks.
 
 [12:59] - **Vivek**
 
-So it's sort of like linked to the IsNative asset, but not fully in the sense that IsNative asset remains private and so if enabled ZSA's is on then IsNative asset could be off. But the other way around doesn't happen. That if enable ZSA's as off, then IsNative asset is fixed to be true.
+So it's sort of like linked to the is_native_asset flag, but not fully in the sense that IsNative asset remains private and so if enabled ZSA's is on then is_native_asset could be off. But the other way around doesn't happen. That if enable ZSA's as off, then is_native_asset is fixed to be true.
 
 [13:24] - **Daira**
 
-That's very much in the spirit of the enable spends and enable outputs we already have so that makes sense.
+That's very much in the spirit of the enableSpends and enableOutputs we already have so that makes sense.
 
 [13:34] - **Vivek**
 
@@ -185,7 +185,7 @@ Thanks Vivek. Any questions?
 
 [16:06] - **Daira**
 
-Yeah, about the enable ZSA's flag, I thought of a question which I now realize is not relevant, but we could maybe split that into enable non native spends and enable non native outputs. But then I realized that the non native assets have to balance in the shielded parts. Whereas that's not true for ZEC because you can shield and unshield. So it doesn't actually make sense to split the flag that way.
+Yeah, about the enable ZSA's flag, I thought of a question which I now realize is not relevant, that we could maybe split that into enable non native spends and enable non native outputs. But then I realized that the non native assets have to balance in the shielded parts. Whereas that's not true for ZEC because you can shield and unshield. So it doesn't actually make sense to split the flag that way.
 
 
 ___
@@ -208,11 +208,11 @@ I plan to do a short post for a general audience, sort of recapping discussions 
 
 [18:36] - **Daira**
 
-So I've not fully understood the ebb and flow paper, but my understanding is that the security of the finalised ledger in ebb & flow is only dependent on the BFT Byzantine consensus protocol rather than the longest chain protocol. Hang on. That might not be true, it's something we definitely have to analyse in much more depth.
+So I've not fully understood the ebb and flow paper, but my understanding is that the ~~security~~ finality of the finalised ledger in ebb & flow is only dependent on the BFT Byzantine consensus protocol rather than the longest chain protocol. Hang on. That might not be true, it's something we definitely have to analyse in much more depth.
 
 [19:37] 
 
-I also raised a question about compatibility of ebb and flow with scalability proposals. For example, the proposal that I made at Zcon One and Amsterdam ZK-proof is not compatible because of the transaction reordering that is done in ebb & flow. It's called sanitization in the paper, but maybe that can be fixed. It's just that we should think about scalability as we're designing the proof of stake.
+I also raised a question about compatibility of ebb and flow with scalability proposals. For example, the proposal that I made at Zcon 1 and Amsterdam ZK-proof is not compatible because of the transaction reordering that is done in ebb & flow, which is called sanitization in the paper. Maybe that can be fixed. It's just that we should think about scalability as we're designing the proof of stake.
 
 [20:18] - **Nate**
 
@@ -240,7 +240,7 @@ So what we are working on now is, we are preparing what looks like is going to b
 
 [29:42]
 
-We are currently working on another zip which will introduce the smoothing of the issuance curve. So the goal there is to replace the 4  year halving schema with a smooth issuance curve so that there are no halvings at the same time maintaining the same issuance rate. Meaning in any given four period, approximately half of the allotted funds will be paid out as block rewards. So this is going to be our ZIP two. What we are discussing right now is probably a possible ZIP 3 from our end, which will provide another non-optional way of funding the ZSF.
+We are currently working on another zip which will introduce the smoothing of the issuance curve. So the goal there is to replace the 4 year halving schema with a smooth issuance curve so that there are no halvings at the same time maintaining the same issuance rate. Meaning in any given four year period, approximately half of the allotted funds will be paid out as block rewards. So this is going to be our ZIP two. What we are discussing right now is probably a possible ZIP 3 from our end, which will provide another non-optional way of funding the ZSF.
 
 [30:40] 
 
@@ -494,7 +494,7 @@ I think there should also be an expectation that wallet developers and other dev
 
 [52:06] - **Nate**
 
-On that front, I do feel like I think there can be a balance between how much effort we, the core development community does versus the long tail of wallets. I wouldn't expect Coinomi to watch recordings of these videos, but hopefully they would pay attention to the right venue. So I'm assuming maybe they look at like, Zcashd release announcements, but that's not the right thing here. So it's almost like maybe there could be a resource page on [z.cash](https://z.cash) thats like 'Wallet implementers announcements' or something like that. I'm not sure. I'm just trying to figure out what's the most likely way to get their attention for the least amount of effort, like the highest leverage. 
+On that front, I do feel like I think there can be a balance between how much effort we, the core development community does versus the long tail of wallets. I wouldn't expect Coinomi to watch recordings of these videos, but hopefully they would pay attention to the right venue. So I'm assuming maybe they look at like, Zcashd release announcements, but that's not the right thing here. So it's almost like maybe there could be a resource page on [z.cash](https://z.cash) thats like 'Wallet implementors announcements' or something like that. I'm not sure. I'm just trying to figure out what's the most likely way to get their attention for the least amount of effort, like the highest leverage. 
 
 [53:17] - **Pacu**
 
