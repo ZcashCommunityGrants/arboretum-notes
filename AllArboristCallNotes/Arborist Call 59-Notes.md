@@ -141,6 +141,7 @@ ___
 ### 3. Research & Implementation Updates ii) Zcash Shielded Asset recap + next steps
 
 [11:30] - **Vivek**
+
 I think this is my first meeting, first Arborist call since Zcon so just wanted to say thanks for the organization and stuff. We had a lot of fun and I think we had some good discussions as well. Just to re-up, we had a [demo](https://www.youtube.com/watch?v=bRdNvepJVXM) there and it's available for everyone to [try out](https://github.com/QED-it/zcash/tree/zcon4-demo) if they want to.
 
 [11:55] 
@@ -194,6 +195,7 @@ ___
 
 
 [16:47] - **Nate**
+
 I could give an update on Proof of Stake. At Zcon I gave a [presentation](https://www.youtube.com/watch?v=qhMzMYeEPMM) that was about the beginning of a design. There were a lot of good questions in that presentation, and people had brought my attention to a concern that the security provided by that design would be sort of the minimum of the two components, which seems like a drawback.
 
 [17:45] 
@@ -579,22 +581,27 @@ Yeah, I just wanted to remind everybody as and when ECC declares an end to Emerg
 Know wallet outreach like Pacu was discussing is probably the single most significant thing that can be done. And then the other piece is, as far as ZF specifically, I'm not sure as far as the overall community goes, testing the SDKs before their release is also really helpful.
 
 [01:07:40] - **Jack Gavigan**
+
 So then, at the risk of opening a window into the sausage factory, Dan can you take the lead from the ZF side in terms of reaching out to wallet providers and making sure that they're aware of ZIP-317 and what they should be doing to update their software? So I'll consider that part done, Kris.
 
 [01:08:18] 
 
 As always, the more passive thing, which is easy to say and then just gets left. But if there's anything more that we can do to help things move along quicker, please do let me know. 
 
-[01:08:54.290] - **Nate**
+[01:08:54] - **Nate**
+
 I noticed the Q&A box, Andrew Arnott is asking for help with a PR on a ZIP repo.
 
-[01:09:15.240] - **Jack Gavigan**
+[01:09:15] - **Jack Gavigan**
+
 Andrew I suspect that the reason it has taken so long for that to get some attention is because it looks like it was submitted around the time of Zcon, when we were all in Barcelona and or on vacation. I know that a lot of people have taken vacation after Zcon or have taken time off in lieu for the time that they spent traveling to get there. So I would suggest that it's more a case of just bad, unfortunate timing rather than people not being interested in paying attention to it. And I do think that Daira has looked at it in the past couple of days.
 
-[01:10:05.030] - **Andrew Arnott**
+[01:10:05] - **Andrew Arnott**
+
 Yes, thank you. And that's totally cool. People are busy, this is my very first PR into that repo I just wanted to know if I was missing some process or maybe I shouldn't have had one PR with changes to 4 documents, because each document is owned by an individual type thing.
 
-[01:10:23.470] - **Jack Gavigan**
+[01:10:23] - **Jack Gavigan**
+
 I'll let the zip editors respond on the formats and what not, but I think it was just unfortunate timing and we definitely want to encourage more people to contribute in the way that you have done. So thank you
 
 
@@ -620,7 +627,7 @@ Please go to the foundation website in the arborist call section to use the new 
 _____
 
 
-**Next Meeting Scheduled: 22:30 UTC September 7th 2023**
+**Next Meeting Scheduled: 21:00 UTC September 7th 2023**
 
 
 ___
