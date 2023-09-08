@@ -171,7 +171,7 @@ ____
 
 **Pacu**
 
-I've completed the deliverables of Milestone 1 and posted the corresponding [forum update](https://forum.zcashcommunity.com/t/grant-update-zcash-wallet-community-developer-milestone-1/45562. Research and Development of Second Flush of Enthusiasm dataset for wallets is completed. Reviewed PRs for NightHawk Apps for the various development efforts they are doing. Carried on Community activities proposed for the grant
+I've completed the deliverables of Milestone 1 and posted the corresponding [forum update](https://forum.zcashcommunity.com/t/grant-update-zcash-wallet-community-developer-milestone-1/45562). Research and Development of Second Flush of Enthusiasm dataset for wallets is completed. Reviewed PRs for NightHawk Apps for the various development efforts they are doing. Carried on Community activities proposed for the grant
 
 Milestone 2 is a short one comprising the first half of September. 
 I will continue collaborating with Zingo Labs on ongoing Integration testing work:
@@ -513,7 +513,7 @@ But what you do gain from those detection systems is the economies of scale. So 
 
 [52:08] 
 
-But like I said, if you can get around that by using peer to peer approaches then you basically obviate the need to do that and that is entirely out-of=band outside consensus.
+But like I said, if you can get around that by using peer to peer approaches then you basically obviate the need to do that and that is entirely out-of-band outside consensus.
 
 [52:19] - **Zooko**
 
