@@ -17,7 +17,7 @@ Meeting Duration: 1 hour 10 minutes
     
 + Open Discussion - [Zcash Wallet Community Developer update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2060-Notes.md#4-open-discussion---zcash-wallet-community-developer-update) / [ZSA zip editors update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2060-Notes.md#4-open-discussion-i---zsa-zip-editors-update) / [Changes to ZIP editors process](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2060-Notes.md#4-open-discussion-ii---changes-to-zip-editors-process) / [Deirdre Connolly leaving Zcash Foundation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2060-Notes.md#4-open-discussion-iii---deirdre-connolly-leaving-zcash-foundation) / [Detection Keys & Out of Band/Liberated Payments](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2060-Notes.md#4-open-discussion-iv---detection-keys--out-of-bandliberated-payments) / [Detection Keys & Out of Band/Liberated Payments cont.](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2060-Notes.md#4-open-discussion-iv---detection-keys--out-of-bandliberated-payments-cont)
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=lM07BI3k54g&list=PL40dyJ0UYTLJqD_3PE9qiJTxse-iHnn1G)
 
 
 Moderator: Jack Gavigan
