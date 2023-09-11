@@ -101,7 +101,7 @@ That means that users don't have to resync the whole node from scratch and rebui
 
 [06:57] - **Teor**
 
-Probably something that's worth mentioning is the upgrade we're doing at the moment is incompatible with previous Zebra versions in some fairly subtle ways. Once you've upgraded to Zebra version 1.2 and don't then go and use earlier versions with the same state because it might panic or give the wrong results in a particular RPC. You can see the details of that in the [changelog](https://github.com/ZcashFoundation/zebra/blob/6fc5db95978ad81a580dc042950ede83e76a2dee/CHANGELOG.md#L4).
+Probably something that's worth mentioning is the upgrade we're doing at the moment is incompatible with previous Zebra versions in some fairly subtle ways. Once you've upgraded to Zebra version 1.2, don't go and use earlier versions with the same state, because it might panic or give the wrong results in a particular RPC. You can see the details of that in the [changelog](https://github.com/ZcashFoundation/zebra/blob/6fc5db95978ad81a580dc042950ede83e76a2dee/CHANGELOG.md#breaking-changes).
 
 
 ___
@@ -190,23 +190,23 @@ ____
 
 [14:56] - **Deirdre**
 
-A quick update on qedit and ZSAs from the most recent ZIP syncs with the qedit team and ZSA stuff. There is a draft being worked on of v6 transactions that includes ZSA, Transfer, Issuance and Burn. So very happy to see that from the qedit team. ZIP editors will be continuing to look at that and work on that with them.
+A quick update on QEDIT and ZSAs from the most recent ZIP syncs with the QEDIT team and ZSA stuff. There is a draft being worked on of v6 transactions that includes ZSA, Transfer, Issuance and Burn. So very happy to see that from the QEDIT team. ZIP editors will be continuing to look at that and work on that with them.
 
 [15:23] 
 
-We also got some updates from the qedit team on [] space in the updated circuits for transfer Issuance as well. We got those on Tuesday, so that was good to see. We're trying to use all the tricks from [] working on Halo2 and the orchard circuit to get it on chain as small as can be safely done.
+We also got some updates from the QEDIT team on [] space in the updated circuits for transfer Issuance as well. We got those on Tuesday, so that was good to see. We're trying to use all the tricks from [] working on Halo2 and the Orchard circuit to get it on chain as small as can be safely done.
 
 [16:01]
 
-I'll quickly mention that the qedit folks are looking to be developing as much as they can going forward, which is very cool we are very excited to see that. But we also don't have all the bells and whistles that Zcashd has such as a fully integrated wallet. So we're in discussions with the qedit team about what they're going to build and what the Foundation team has been thinking about of our future roadmap for the full Zebra project and what exists, may exist, things like that so that they can continue to move forward with ZSA's, but building it forward towards Zebra.
+I'll quickly mention that the QEDIT folks are looking to be developing on Zebra as much as they can going forward, which is very cool we are very excited to see that. But we also don't have all the bells and whistles that zcashd has such as a fully integrated wallet. So we're in discussions with the QEDIT team about what they're going to build and what the Foundation team has been thinking about of our future roadmap for the full Zebra project and what exists, may exist, things like that so that they can continue to move forward with ZSA's, but building it forward towards Zebra.
 
 [16:43] 
 
-Their proof of concept end-to-end chain recently has been built on Zcashd, which makes sense because they have all the pieces in place. But now that Zcashd is moving towards deprecation, we're happy to continue and start the discussions with the qedit team to get these things working in a Zebra-centric world. So that's [] so that's a little bit of ZSA stuff. We start [] about making the issuance key structure signing, the issuance signing operations independent in terms of parameters and the primitives that we use from we've talked about this before.
+Their proof of concept end-to-end chain recently has been built on zcashd, which makes sense because they have all the pieces in place. But now that zcashd is moving towards deprecation, we're happy to continue and start the discussions with the QEDIT team to get these things working in a Zebra-centric world. So that's a little bit of ZSA stuff. We start [] about making the issuance key structure signing, the issuance signing operations independent in terms of parameters and the primitives that we use from we've talked about this before.
 
 [17:36] 
 
-The whole ZSA sort of thing was designed to be working in the Orchard shielded pool, but it is theoretically workable on any shielded pool, including future shielded pools, not just Orchard. So that incentivizes the design of issuing shielded assets to be independent of the parameters of any of the shielded pools themselves, including Orchard. So we talked a bit about moving it away from the current redpallas design to something else and we kind of sketched out some schnorr based signatures, but we haven't nailed it down yet. But that was discussed on that Tuesday morning as well.
+The whole ZSA sort of thing was designed to be working in the Orchard shielded pool, but it is theoretically workable on any shielded pool, including future shielded pools, not just Orchard. So that incentivizes the design of issuing shielded assets to be independent of the parameters of any of the shielded pools themselves, including Orchard. So we talked a bit about moving it away from the current redpallas design to something else and we kind of sketched out some Schnorr based signatures, but we haven't nailed it down yet. But that was discussed on that Tuesday morning as well.
 
 [18:18] 
 
@@ -222,7 +222,7 @@ Now a couple of candidates that could go that way, if anyone on the call has spe
 
 [20:12]
 
-As an alternative the current candidate that we're considering is BIP-340. So schnorr signatures with secp256k1. So it's another curve that we support being a fork of Bitcoin. It's not a signature scheme that we currently use anywhere on Zcash, so it would be new from that perspective, but it's one that bitcoin have moved to and so there's potential share in terms of mind share with the rest of the ecosystem in terms of deployment potentially, but there's still work to be done to see if that hypothesis actually plays out in terms of ease of use or whether it'd be better to go for a different scheme that is more easily deployed.
+As an alternative the current candidate that we're considering is BIP-340. So Schnorr signatures with secp256k1. So it's another curve that we support being a fork of Bitcoin. It's not a signature scheme that we currently use anywhere on Zcash, so it would be new from that perspective, but it's one that bitcoin have moved to and so there's potential share in terms of mind share with the rest of the ecosystem in terms of deployment potentially, but there's still work to be done to see if that hypothesis actually plays out in terms of ease of use or whether it'd be better to go for a different scheme that is more easily deployed.
 
 [20:56] - **Deirdre**
 
@@ -234,7 +234,7 @@ Feedback please.
 
 [20:58] - **Deirdre**
 
-100% and if you want to leave feedback, we have the [ZIPs repo](https://github.com/zcash/zips). We also have a community discord. The ZIP editors and the Qedit folks are all participating on the community discord. And we have a couple of channels in there where we're discussing these sort of items so those are places where you can get in touch. 
+100% and if you want to leave feedback, we have the [ZIPs repo](https://github.com/zcash/zips). We also have a community discord. The ZIP editors and the QEDIT folks are all participating on the community discord. And we have a couple of channels in there where we're discussing these sort of items so those are places where you can get in touch. 
 
 
 
@@ -245,7 +245,7 @@ ____
 
 [21:26] - **Jack Gavigan**
 
-One thing I think is probably worth mentioning on this call is that there is a proposal to add some more ZIP editors to the team. Deirdre, your audio is dropping in an ad a little bit, so I'll just ask Str4d maybe to describe what the plan is there.
+One thing I think is probably worth mentioning on this call is that there is a proposal to add some more ZIP editors to the team. Deirdre, your audio is dropping in an out a little bit, so I'll just ask Str4d maybe to describe what the plan is there.
 
 [21:57] - **Str4d**
 
@@ -253,7 +253,7 @@ The rough plan in-part derives from some suggestions that Teor made. So there's 
 
 [22:31] 
 
-But the larger group of people was somewhat amorphously defined. And so the thinking here is that moving to more formally having a few extra people A). Means that we can start to load, share a bit more in terms of how ZIP's are edited and reviewed and processed to be more efficient in the way that we get through things and B). share some of the decisional burden and shard out the requirements there away from putting a lot of stress onto a couple of people.
+But the larger group of people was somewhat amorphously defined. And so the thinking here is that moving to more formally having a few extra people A). Means that we can start to load-share a bit more in terms of how ZIP's are edited and reviewed and processed to be more efficient in the way that we get through things and B). share some of the decisional burden and shard out the requirements there away from putting a lot of stress onto a couple of people.
 
 [23:19] - **Jack Gavigan**
 
@@ -269,11 +269,11 @@ So things like accepting a ZIP, rejecting a ZIP, things that look like that, lik
 
 [24:27] 
 
-As part of that formalising what a ZIP editor meeting is, so what it means to have what's called quorum, so enough people at the meeting for it to be official. At the moment, we're looking at one ZIP editor associated with the Foundation and one ZIP editor associated with ECC but we're happy to get feedback on that and then just some admin stuff.
+As part of that formalising what a ZIP editor meeting is, so what it means to have what's called quorum, so enough people at the meeting for it to be official. At the moment, we're looking at one ZIP editor associated with the Foundation and one ZIP editor associated with ECC but we're happy to get feedback on that.
 
 [24:56] 
 
-So having somebody, the ZIP secretary or whose job it is to post what's on the agenda a few days before the meeting and then post a summary of what significant decisions were made at the meeting. The other thing which the sustainability fund people have already experienced is we're going to split reviewing the content of ZIPs from reviewing the style and typo and those kinds of things, because content review requires a lot of engineers. But style reviews, you can just get one or two people to do that and then bring them back for approval. So those are the kinds of changes we're looking at making to the ZIP editing process. A lot of them we've been doing informally for quite a while anyway.
+And then just some admin stuff: So having somebody, the ZIP secretary or whose job it is to post what's on the agenda a few days before the meeting and then post a summary of what significant decisions were made at the meeting. The other thing which the sustainability fund people have already experienced is we're going to split reviewing the content of ZIPs from reviewing for style and typos and those kinds of things. Because content review requires a lot of engineers, but style reviews, you can just get one or two people to do that and then bring them back for approval. So those are the kinds of changes we're looking at making to the ZIP editing process. A lot of them we've been doing informally for quite a while anyway.
 
 [25:59] - **Nate**
 
@@ -318,7 +318,7 @@ Anyway I'm going to miss you all, and I'm going to miss the amazing things that 
 
 [29:31] - **Jack Gavigan**
 
-The fact that you're leaving the foundation doesn't mean that you have to stop being a ZIP editor.
+The fact that you're leaving the Foundation doesn't mean that you have to stop being a ZIP editor.
 
 [29:36] - **Deirdre**
 
@@ -358,7 +358,7 @@ Yeah, I want to add to that and say it is definitely bittersweet, but at the Fou
 
 [31:18] - **Deirdre**
 
-Oh, and I'm still a co author on FROST, so I will still be kind of flitting in and out of FROST related threshold signature stuff, so I will at least still be around in that regard.
+Oh, and I'm still a co-author on FROST, so I will still be kind of flitting in and out of FROST related threshold signature stuff, so I will at least still be around in that regard.
 
 
 ____
@@ -645,7 +645,7 @@ We had some designs that were pretty far along, but if someone was interested in
 
 [01:08:53] - **Jack Gavigan**
 
-We have a minor grants program which would be perfect for someone to do a bit of experimenting and bit of prototyping and play around with it a little bit. And I'm pretty sure that there are wallet devs out there who would be interested in facilitating, collaborating on that sort of thing. So if you are listening to this conversation, whether live or afterwards within the next, I think, eleven days, and you're interested in potentially putting finger to keyboard to try and build something along these lines, then please go to zfnd.org Minor Grants. Learn about the Minor Grants Program, which is ideal for funding either an individual or a small team to build something along those lines.
+We have a minor grants program which would be perfect for someone to do a bit of experimenting and bit of prototyping and play around with it a little bit. And I'm pretty sure that there are wallet devs out there who would be interested in facilitating, collaborating on that sort of thing. So if you are listening to this conversation, whether live or afterwards within the next, I think, eleven days, and you're interested in potentially putting finger to keyboard to try and build something along these lines, then please go to [zfnd.org/minorgrants](https://zfnd.org/minorgrants/) to learn about the Minor Grants Program, which is ideal for funding either an individual or a small team to build something along those lines.
 
 [01:09:48] - **Str4d**
 
