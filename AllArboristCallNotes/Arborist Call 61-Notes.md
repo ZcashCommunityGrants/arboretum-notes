@@ -43,7 +43,7 @@ I'll do the update today. So in the last two weeks, we basically finished the su
 
 [03:30] 
 
-Next we plan to start working on a new project that will include a wallet in Zebra, our initial plan is to start with implementing scanning for sapling viewing key, basically. that's all I had.
+Next we plan to start working on a new project that will include support for a wallet in Zebra, our initial plan is to start with implementing scanning for sapling viewing key, basically. that's all I had.
 
 [04:01] - **Adi**
 
