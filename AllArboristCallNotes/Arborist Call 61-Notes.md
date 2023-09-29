@@ -17,7 +17,7 @@ Meeting Duration: 1 hour 15 minutes
 
 + Open Discussion - [Zebra wallet support / ZIP editor update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2061-Notes.md#4-open-discussion-i---zebra-wallet-support--zip-editor-update) / [Network Upgrade Process](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2061-Notes.md#4-open-discussion-ii---network-upgrade-process)
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=mQHLH6jlZeM)
 
 
 Moderator: Aditya Bharadwaj
