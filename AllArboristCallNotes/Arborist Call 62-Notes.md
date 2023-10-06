@@ -15,7 +15,7 @@ Meeting Duration: 1 hour 30 minutes
 
 + Research & Implementation Update - [FROST Community call / Updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#3-research--implementation-updates-i-frost-community-call--updates)
 
-+ Scheduling NU5 Retrospective - [Scheduling NU5 Retrospective / Network Upgrade Pipeline](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#3-research--implementation-updates-ii-sustainability-fund)
++ Scheduling NU5 Retrospective - [Scheduling NU5 Retrospective / Network Upgrade Pipeline](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#4-scheduling-nu5-retrospective)
 
 + Open Discussion - [Long Term Incentives for Miners](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#3-research--implementation-updates-iii-trailing-finality)
 
