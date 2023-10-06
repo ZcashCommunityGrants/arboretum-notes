@@ -51,35 +51,35 @@ ___
 
 ### 1. ECC Update - Zcashd 5.7.0 / Mobile SDK beta testing 
 
-[00:05:04.140] - **Kris**
+[05:04] - **Kris**
 
 All right, so the big news that is important for members of the Zcash ecosystem to be aware of is that [zcashd 5.7.0](https://github.com/zcash/zcash/releases/tag/v5.7.0) was released in the past week or so. This is a relatively small update from 5.6.1, but importantly, 5.6.1 is about to EOS halt on October 11, I believe.
 
-[00:05:30.290] 
+[05:30] 
 
 So you have about 6 days to upgrade to zcashd 5.7.0 before your existing system's EOS halt. So please do so to ensure the continued stability of the network. We're a little bit behind on getting out the release this time, so the window is shorter than normal. Apart from that, we've been making a bunch of progress on our development of the Zashi wallet, including Zcash SDK releases 2.0.0 and then a hotfix release [2.0.1](https://mvnrepository.com/artifact/cash.z.ecc.android/zcash-android-backend) is available for both iOS and Android.
 
-[00:06:16.940]
+[06:16]
 
 For those of you who are on the Zashi beta testers list, the Android release is ready for you. So we should be getting that out to you in the next couple of days. For those of you on iOS, the most recent release of the Zashi wallet is out today. So I think that's the major stuff from zcashd and Lightwallets. I know that Nate and Daira have also been making a bunch of good progress on design of the Consensus protocol for Proof of Stake. I see Nate's here, so maybe he could give an update there.
 
-[00:07:09.590] - **Jack Gavigan**
+[07:09] - **Jack Gavigan**
 
 We'll come to that later, but any questions first for Kris?
 
-[00:07:20.790] - **Daira Emma**
+[07:20] - **Daira Emma**
 
 Are we looking to open the beta testing of Zashi to people listening to this call?
 
-[00:07:31.040] - **Zooko**
+[07:31] - **Zooko**
 
 Yeah, the process is reach out to Kris Nuttycombe or to me.
 
-[00:07:35.690] - **Daira Emma**
+[07:35] - **Daira Emma**
 
 Okay.
 
-[00:07:38.730] - **Kris**
+[07:38] - **Kris**
 
 There's a there's a waiting list that people are able to join, and then we're filtering folks into the beta test from that waiting list as things stabilize.
 
