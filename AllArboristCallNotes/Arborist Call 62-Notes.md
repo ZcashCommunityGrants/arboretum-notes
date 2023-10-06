@@ -7,17 +7,17 @@ Meeting Duration: 1 hour 30 minutes
 
 **Agenda**: 
 
-+ Welcome and Meeting Intro - [ZCAP poll]()
++ Welcome and Meeting Intro - [ZCAP poll](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#0-welcome-and-meeting-intro---zcap-poll)
 
-+ ECC Core Update - [Zcashd 5.7.0 / Mobile SDK testing]()
++ ECC Core Update - [Zcashd 5.7.0 / Mobile SDK testing](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#1-ecc-update---zcashd-570--mobile-sdk-beta-testing)
 
-+ Zebra Update - [Zebrad updates]()
++ Zebra Update - [Zebrad updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#2-zebrad-status---zebrad-updates)
 
-+ Research & Implementation Update - [FROST Community call / Updates]()
++ Research & Implementation Update - [FROST Community call / Updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#3-research--implementation-updates-i-frost-community-call--updates)
 
-+ Scheduling NU5 Retrospective - [Scheduling NU5 Retrospective / Network Upgrade Pipeline]()
++ Scheduling NU5 Retrospective - [Scheduling NU5 Retrospective / Network Upgrade Pipeline](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#3-research--implementation-updates-ii-sustainability-fund)
 
-+ Open Discussion - [Long Term Incentives for Miners]()
++ Open Discussion - [Long Term Incentives for Miners](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#3-research--implementation-updates-iii-trailing-finality)
 
 Video of the meeting: [recorded]
 
