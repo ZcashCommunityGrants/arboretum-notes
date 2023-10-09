@@ -19,7 +19,7 @@ Meeting Duration: 1 hour 30 minutes
 
 + Open Discussion - [Long Term Incentives for Miners](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2062-Notes.md#3-research--implementation-updates-iii-trailing-finality)
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=jmeQayEd3zw)
 
 
 Moderator: Jack Gavigan 
