@@ -16,7 +16,7 @@ Meeting Duration: 30 minutes
 + Research & Implementation Update - [ZSA update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2063-Notes.md#3-research--implementation-updates-i-zcash-shielded-asset-updates) / [Trailing Finality research](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2063-Notes.md#3-research--implementation-updates-ii-trailing-finality-research) / [FROST](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2063-Notes.md#3-research--implementation-updates-iii-frost)
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=YNlqL41kEJ4)
 
 Moderator: Pili Guerra 
 
