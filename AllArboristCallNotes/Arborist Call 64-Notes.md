@@ -9,13 +9,13 @@ Meeting Duration: 1 hour 15 minutes
 
 + Welcome and Meeting Intro
 
-+ ECC Core Update - [Focusing & Decentralising ECC]()
++ ECC Core Update - [Focusing & Decentralising ECC](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2064-Notes.md#1-ecc-update---focusing-ecc--decentralising-efforts)
 
-+ Zebra Update - [Zebrad 1.4.0 details]()
++ Zebra Update - [Zebrad 1.4.0 details](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2064-Notes.md#2-zebra-update---zebrad-140)
 
-+ Research & Implementation Update - [Trailing Finality Progress]() / [FROST update]() / [ZSA updates]()
++ Research & Implementation Update - [Trailing Finality Progress](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2064-Notes.md#3-research--implementation-updates-i-trailing-finality) / [FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2064-Notes.md#3-research--implementation-updates-ii-frost) / [ZSA updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2064-Notes.md#3-research--implementation-updates-iii-zsa-updates)
 
-+ Open Discussion - [NU5 Retrospective]() / [NU5 Retrospective cont.]()
++ Open Discussion - [NU5 Retrospective](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2064-Notes.md#4-open-discussion-i---nu5-retrospective) / [NU5 Retrospective cont.](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2064-Notes.md#4-open-discussion-ii---nu5-retrospective)
 
 
 Video of the meeting: [recorded]
@@ -686,10 +686,6 @@ So we discussed a little bit of network upgrade planning earlier when John from 
 [01:14:00] 
 
 Next arborist call will be a regular call, so no retro on the 16th November in the earlier time slot so thank you all.
-
-
-
-
 
 
 _____
