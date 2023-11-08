@@ -18,7 +18,7 @@ Meeting Duration: 1 hour 15 minutes
 + Open Discussion - [NU5 Retrospective](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2064-Notes.md#4-open-discussion-i---nu5-retrospective) / [NU5 Retrospective cont.](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2064-Notes.md#4-open-discussion-ii---nu5-retrospective)
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=IhLj4vKGuUI)
 
 Moderator: Jack Gavigan 
 
