@@ -7,15 +7,15 @@ Meeting Duration: 35 minutes
 
 **Agenda**: 
 
-+ [Welcome and Meeting Intro]
++ [Welcome and Meeting Intro](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#0-welcome-and-intro)
 
-+ Zebra Update - [Zebra 1.4.0 / Blockchain scanning]()
++ Zebra Update - [Zebra 1.4.0 / Blockchain scanning](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#1-zebra-update---zebra-140--blockchain-scanning)
 
-+ ECC Core Update - [Wallet SDK updates / Decentralising Zcash Focus ECC]() / [ZIP-317 & Orchard support]() / [DZFE working group]()
++ ECC Core Update - [Wallet SDK updates / Decentralising Zcash Focus ECC](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#2-ecc-update---wallet-sdk-updates--decentralising-zcash-focus-ecc) / [ZIP-317 & Orchard support](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#2-ecc-update-ii---zip-317--orchard-support) / [DZFE working group](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#2-ecc-update-iii---dzfe-working-group)
 
-+ Research & Implementation Updates - [Zcash Sustainability Fund]() / [ZSF cont.]() / [Zcash Shielded Assets update]() / [TFL Book 0.1.0]() / [Frost demo]()
++ Research & Implementation Updates - [Zcash Sustainability Fund](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#3-research--implementation-updates-i-zcash-sustainability-fund) / [ZSF cont.](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#3-research--implementation-updates-ii-zsf-cont) / [Zcash Shielded Assets update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#3-research--implementation-updates-iii-zcash-shielded-assets-update) / [TFL Book 0.1.0](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#3-research--implementation-updates-iv-tfl-book-010) / [Frost demo](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#3-research--implementation-updates-v-frost-demo)
 
-+ [Wrap up & Close out]()
++ [Wrap up & Close out](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2065-Notes.md#4-wrap-up--close-out)
 
 
 ## Decision & Action Items
