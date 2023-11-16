@@ -27,7 +27,7 @@ ii) Moving Forward Pili to serve as Point of Contact with Eiger's Zebra work
 ___ 
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=rxr4Gvna680)
 
 Moderator: Maria Pilar Guerra-Arias
 
