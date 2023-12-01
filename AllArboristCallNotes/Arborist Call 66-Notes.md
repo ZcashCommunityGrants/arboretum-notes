@@ -31,7 +31,7 @@ iii) Revisit FROST ZIP during ZIP sync
 ___
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=y8dPEevzHyc)
 
 Moderator: Teor
 
