@@ -7,17 +7,17 @@ Meeting Duration: 40 minutes
 
 **Agenda**: 
 
-+ [Welcome and Meeting Intro]()
++ [Welcome and Meeting Intro](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2066-Notes.md#0-welcome--intro)
 
-+ ECC Core Update - [Rust Library refactoring / Decentralising Zcash Github Organisation]()
++ ECC Core Update - [Rust Library refactoring / Decentralising Zcash Github Organisation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2066-Notes.md#1-ecc-update---rust-library-refactoring--decentralising-zcash-github-organisation)
 
-+ Zebra Update - [Zebrad 1.5.0 / Zebra Scanning]()
++ Zebra Update - [Zebrad 1.5.0 / Zebra Scanning](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2066-Notes.md#2-zebra-update---zebrad-150--zebra-scanning)
 
-+ Research & Implementation Update - [ FROST 1.0.0 -rc.0]() / [Trailing Finality Layer]()
++ Research & Implementation Update - [FROST 1.0.0 -rc.0](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2066-Notes.md#3-research--implementation-updates-i-frost-100--rc0) / [Trailing Finality Layer](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2066-Notes.md#3-research--implementation-updates-ii-trailing-finality-layer)
 
-+ Open Announcements - [Arborist Calls over Holiday Period]() / [1st Zebra Block Walkthrough]()
++ Open Announcements - [Arborist Calls over Holiday Period](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2066-Notes.md#4-open-announcements---arborist-calls-over-holiday-period) / [1st Zebra Block Walkthrough](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2066-Notes.md#4-open-announcements---1st-zebra-block-walkthrough)
 
-+ Open Discussion - [Mining Luck Estimation]() / [Zebra Latency / Sandblast status]()
++ Open Discussion - [Mining Luck Estimation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2066-Notes.md#5-open-discussion-i---mining-luck-estimation) / [Zebra Latency / Sandblast status](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2066-Notes.md#5-open-discussion-ii---zebra-latency--sandblast-status)
 
 
 ## Decision & Action Items
@@ -386,8 +386,6 @@ ____
 + Oleksandr Putyak
 
 + John Garcia
-
-+ 
 
 
 **Next Meeting Scheduled: 15:00 UTC December 14th 2023**
