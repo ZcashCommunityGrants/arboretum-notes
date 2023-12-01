@@ -168,7 +168,7 @@ Something else that's also going on is we're trying to add no S2D support to our
 
 [12:33] 
 
-Another thing is that I wrote a ZIP for using FROST with Zcash. It has been kind of frozen. It's complete, but we haven't pushed it forward because we were waiting for a secret proof by Chelsea. So now that's ready, I think we'll publish it on reprint sometime soon and we would like to resume the ZIP process. So whenever we have time, the zip sync, I'd like to revisit the FROST ZIP so we can sort some things out and eventually make it.
+Another thing is that I wrote a ZIP for using FROST with Zcash. It has been kind of frozen. It's complete, but we haven't pushed it forward because we were waiting for a security proof by Chelsea. So now that's ready, I think we'll publish it on reprint sometime soon and we would like to resume the ZIP process. So whenever we have time, the zip sync, I'd like to revisit the FROST ZIP so we can sort some things out and eventually make it.
 
 
 ___
