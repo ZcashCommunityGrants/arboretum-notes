@@ -6,7 +6,7 @@ Duration:
 
 [Full notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2066-Notes.md)
 
-[Recorded]
+[Recording](https://www.youtube.com/watch?v=y8dPEevzHyc)
 
 
 ## Agenda
