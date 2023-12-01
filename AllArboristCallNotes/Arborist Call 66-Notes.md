@@ -49,6 +49,7 @@ ___
 ### 0. Welcome & Intro 
 
 [00:02] - **Teor**
+
 Welcome to the Zcash Arborist call. Arborist calls are community calls that are designed for engineers and organizations involved in protocol development to collaborate together on the protocol.
 
 [00:22] 
