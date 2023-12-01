@@ -22,7 +22,7 @@ Meeting Duration: 40 minutes
 
 ## Decision & Action Items
 
-i) Arborist calls resume in 2024, Jan 11th 
+i) After next meeting Arborist calls resume in 2024, Jan 11th 
 
 ii) Knowledge Share between ECC & ZF on Zebra Scanning
 
