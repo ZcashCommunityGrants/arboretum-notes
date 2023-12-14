@@ -11,7 +11,7 @@ Meeting Duration: 1 hour 50 minutes
 
 ## Sections:
 
-1. [What is Sandblasting?]() / 2. [Sandblasting Timeline of Events]() / 3. [Zcash Foundations Response] / 4. [ECC Response Timeline]() /  5. [Impact on Network users / Timeline]() / 6. [What reposnses worked and what didnt]() / 7. [Did ECC grow as a response?]() / 8. [Non technical Mitigations]() / 9. [Sapling Woodchipper attack]() / 10. [ZIP-317]() / 11. [Is the Attack Over?]() / 12. [Any idea who is behind it?]() / 13. [Lessons Learned]() / 
+1. [What is Sandblasting?](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#1-what-is-sandblasting) / 2. [Sandblasting Timeline of Events](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#2-sandblasting-timeline-of-events) / 3. [Zcash Foundations Response](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#3-zcash-foundations-response) / 4. [ECC Response Timeline](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#4-ecc-response-timeline) /  5. [Impact on Network users / Timeline](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#5-impact-on-network-users--timeline) / 6. [What reposnses worked and what didnt](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#6-what-reposnses-worked-and-what-didnt) / 7. [Did ECC grow as a response?](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#7-did-ecc-grow-as-a-response) / 8. [Non technical Mitigations](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#8-non-technical-mitigations) / 9. [Sapling Woodchipper attack](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#9-how-did-the-sandblasting-attack-comparecontrast-with-the-sapling-woodchipper-attack) / 10. [ZIP-317](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#10-zip-317) / 11. [Is the Attack Over?](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#11-is-the-attack-over) / 12. [Any idea who is behind it?](github.com/ZcashCommuityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#12-any-idea-who-is-behind-it) / 13. [Lessons Learned](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Sandblasting%20Retrospective%20-%20Summary.md#13-lessons-learned) / 
 
 
 
@@ -523,7 +523,6 @@ ____
 + zerodartz
 
 **Next Meeting Scheduled: 15:00 UTC January 11th 2023**
-
 
 ___
 ___
