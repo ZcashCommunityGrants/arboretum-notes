@@ -12,7 +12,7 @@ The agendas for the calls are tracked in the Agenda Archive in this repository. 
 ### Who Can Attend
 Anyone who wants to contribute to Zcash protocol development and to share news on Zcash node projects.
 
-Register here: [15:00 UTC](https://us06web.zoom.us/webinar/register/WN_Vk7WMz9sRkiIr_hqH_x3LA) / [21:00 UTC](https://zfnd-org.zoom.us/webinar/register/WN_Y4yuMoPuS-u87aBhfpMHhg#/registration)
+Register here: [15:00 UTC](https://zfnd-org.zoom.us/webinar/register/WN_42A2bMIiSziGGNG3MTEcqQ) / [21:00 UTC](https://zfnd-org.zoom.us/webinar/register/WN_Y4yuMoPuS-u87aBhfpMHhg)
 
 ### Who Manages the Meetings
 The Zcash Foundation facilitates and records the meetings.
