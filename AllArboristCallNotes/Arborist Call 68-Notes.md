@@ -35,7 +35,7 @@ iv) Kris & Rene to discuss technical approaches of Zebra wallet
 ___
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=JozYhvCv6bQ)
 
 Moderator: Jack Gavigan
 
