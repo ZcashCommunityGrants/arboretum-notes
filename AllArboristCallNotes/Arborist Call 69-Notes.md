@@ -30,7 +30,7 @@ ii) Address improvements for ZIP-312
 ___
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=wREfP2QAFCc)
 
 Moderator: Jack Gavigan 
 
