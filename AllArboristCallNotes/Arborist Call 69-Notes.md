@@ -1,6 +1,6 @@
 # Arborist Call #69 Notes
 
-Meeting Date/Time: January 25th 2023, 21:00 UTC
+Meeting Date/Time: January 25th 2024, 21:00 UTC
 
 Meeting Duration: 1 hour 20 minutes 
 
@@ -569,7 +569,7 @@ ____
 + zero d
 
 
-**Next Meeting Scheduled: 15:00 UTC February 8th 2023**
+**Next Meeting Scheduled: 15:00 UTC February 8th 2024**
 
 
 ___
