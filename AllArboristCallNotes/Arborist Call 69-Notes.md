@@ -48,7 +48,7 @@ ___
 ### 1. ECC Update - Mobile SDKs / Revision one Unified Addresses
 
 [02:51] - **Str4d**
-Hello. Our work in the last two weeks has been primarily focused on the mobile sdk's. We've had a variety of changes that we've been making to address these concrete performance issues in various places that were hampering the ability for the spend for sync logic to work its best.
+Hello. Our work in the last two weeks has been primarily focused on the mobile sdk's. We've had a variety of changes that we've been making to address these concrete performance issues in various places that were hampering the ability for the spend-before-sync logic to work its best.
 
 [03:25] 
 
@@ -86,7 +86,7 @@ ___
 
 [08:03] - **Arya**
 
-TSince the last Arborist call, we released [Zebra version 1.5.2](https://github.com/ZcashFoundation/zebra/releases/tag/v1.5.2). We couldn't publish crates depending on a git reference, so the internal miner feature was temporarily removed until the next equihash release.
+Since the last Arborist call, we released [Zebra version 1.5.2](https://github.com/ZcashFoundation/zebra/releases/tag/v1.5.2). We couldn't publish crates depending on a git reference, so the internal miner feature was temporarily removed until the next equihash release.
 
 [08:16]
 
