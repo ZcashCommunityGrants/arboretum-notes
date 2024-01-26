@@ -48,6 +48,7 @@ ___
 ### 1. ECC Update - Mobile SDKs / Revision one Unified Addresses
 
 [02:51] - **Str4d**
+
 Hello. Our work in the last two weeks has been primarily focused on the mobile sdk's. We've had a variety of changes that we've been making to address these concrete performance issues in various places that were hampering the ability for the spend-before-sync logic to work its best.
 
 [03:25] 
