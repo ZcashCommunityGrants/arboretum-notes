@@ -9,13 +9,13 @@ Meeting Duration: 30 minutes
 
 + Welcome and Meeting Intro
 
-+ Zebra Update - [Blockchain Scanning / QEDIT Testing Tool]()
++ Zebra Update - [Blockchain Scanning / QEDIT Testing Tool](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2070-Notes.md#1-zebra-update---blockchain-scanning--qedit-testing-tool)
 
-+ ECC Core Update - [Mobile SDK 2.1]()
++ ECC Core Update - [Mobile SDK 2.1](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2070-Notes.md#2-ecc-update---mobile-sdk-21)
 
-+ Research & Implementation Update - [ZSA ZIP's]() / [Trailing Finality Status]() / [ZKProof 6 Event]()
++ Research & Implementation Update - [ZSA ZIP's](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2070-Notes.md#3-research--implementation-updates-i-zsa-zips) / [Trailing Finality Status](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2070-Notes.md#3-research--implementation-updates-i-frost-update) / [ZKProof 6 Event](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2070-Notes.md#3-research--implementation-updates-i-trailing-finality-status)
 
-+ Open Announcements - [New Head of Engineering]() / [ZKProof 6 Event]() / [Zcon V]()
++ Open Announcements - [New Head of Engineering](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2070-Notes.md#4-open-announcement-i-new-head-of-engineering) / [ZKProof 6 Event](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2070-Notes.md#4-open-announcement-ii-zkproof-6-event) / [Zcon V](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2070-Notes.md#4-open-announcement-iii-zcon-v)
 
 ___
 
