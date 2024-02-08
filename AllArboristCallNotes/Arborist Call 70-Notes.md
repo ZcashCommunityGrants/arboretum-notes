@@ -207,7 +207,7 @@ Oh, yeah, I did see the comment and I think Pablo started having a look. I haven
 
 ___
 
-### 3. Research & Implementation Updates i) FROST update
+### 3. Research & Implementation Updates ii) FROST update
 
 [19:34] - **Natalie**
 
@@ -231,7 +231,7 @@ So this is the table release of the reference implementation based on the [CFRG 
 
 ___
 
-### 3. Research & Implementation Updates i) Trailing Finality Status
+### 3. Research & Implementation Updates iii) Trailing Finality Status
 
 [21:53] - **Daira Emma**
 
