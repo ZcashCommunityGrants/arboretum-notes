@@ -9,18 +9,18 @@ Meeting Duration: 50 minutes
 
 + Welcome and Meeting Intro
 
-+ ECC Core Update - [Mobile SDK's / ZIP-320]()
++ ECC Core Update - [Mobile SDK's / ZIP-320](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2071-Notes.md#1-ecc-update---mobile-wallet-sdks--zip-320)
 
-+ Zebra Update - [Zebra Scanning / Hackathon]()
++ Zebra Update - [Zebra Scanning / Hackathon](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2071-Notes.md#2-zebra-update---zebra-scanning--hackathon)
 
-+ Research & Implementation Update - [Trailing Finality]() / [FROST 1.0 stable release]()
++ Research & Implementation Update - [Trailing Finality](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2071-Notes.md#3-research--implementation-updates-i-trailing-finality) / [FROST 1.0 stable release](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2071-Notes.md#3-research--implementation-updates-ii-frost-10-stable-release)
 
-+ [Experimental Features i)]() / [Experimental Features ii)]()
++ [Experimental Features i)](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2071-Notes.md#4-experimental-features-definitions-i) / [Experimental Features ii)](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2071-Notes.md#4-experimental-features-definitions-ii)
 
 
 ## Decision & Action Items
 
-i)  Zebra team to write readme clarifying experimental features definition. 
+i)  Zebra team to write readme to clarify experimental features definition. 
 
 ___
 
