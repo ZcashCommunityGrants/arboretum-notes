@@ -29,7 +29,7 @@ iii) Finalisation of ZIP-320 with TEX addresses
 ___
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=Sf5_40G00GA)
 
 Moderator: Jack Gavigan
 
