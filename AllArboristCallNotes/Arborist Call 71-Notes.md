@@ -24,6 +24,8 @@ i)  Zebra team to write readme to clarify experimental features definition.
 
 ii) At some point publish informal standard for FROST.
 
+iii) Finalisation of ZIP-320 with TEX addresses
+
 ___
 
 
