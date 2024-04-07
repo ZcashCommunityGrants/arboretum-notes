@@ -20,7 +20,7 @@ Meeting Duration: 15 minutes
 ___
 
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=fkqcekg2BWs)
 
 Moderator: Daniel (decentralistdan)
 
