@@ -23,6 +23,8 @@ The Zcash Foundation facilitates and records the meetings.
 
  №  | Date                             | Agenda        |Notes           | Recording            |
 --- | -------------------------------- | -------------- |--------------- | -------------------- |
+75 | 18 Apr 2024 | [agenda]() | [notes]() \| [Twitter] | [recording] |
+ZSA's, NU6 & NU7 | 18 Apr 2024 | [agenda]() | [notes] \| [Twitter] | [recording] |
 74 | 04 Apr 2024 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2074%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2074-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1776017041532584036) | [video](https://www.youtube.com/watch?v=fkqcekg2BWs) |
 73 | 21 Mar 2024 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2073%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2073-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1770959961977192556) | [video](https://youtube.com/watch?v=ftTmSqlyixk) |
 72 | 07 Mar 2024 | [agenda](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AgendaArchive/Arborist%20Call%2072%20Agenda.md) | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2072-Notes.md) \| [Twitter](https://twitter.com/zksquirrel/status/1765907444251636047) | [video](https://www.youtube.com/watch?v=C8qZjUcT7NE) |
