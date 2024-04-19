@@ -17,7 +17,7 @@ Meeting Duration: 1 hour 45 minutes
 
 + Open Announcements - [Z|ECC Summit](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#4-open-announcements-i-zecc-summit)
 
-+ Network Upgrade Planning - [Transient testnets](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#5-network-upgrade-planning-i-transient-testnets) / [ZIP process]() / [Zcashd deprecation / NU6 items](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#5-network-upgrade-planning-iii-zcashd-deprecation--nu6-items) / [Possible NU7 Items](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#5-network-upgrade-planning-iv-possible-nu7-items) 
++ Network Upgrade Planning - [Transient testnets](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#5-network-upgrade-planning-i-transient-testnets) / [ZIP process](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#5-network-upgrade-planning-ii-zip-process) / [Zcashd deprecation / NU6 items](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#5-network-upgrade-planning-iii-zcashd-deprecation--nu6-items) / [Possible NU7 Items](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#5-network-upgrade-planning-iv-possible-nu7-items) 
 
 
 
