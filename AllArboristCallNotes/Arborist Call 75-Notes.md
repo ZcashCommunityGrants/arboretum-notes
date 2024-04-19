@@ -9,15 +9,15 @@ Meeting Duration: 1 hour 45 minutes
 
 + Welcome and Meeting Intro
 
-+ ECC Core Update - [zcashd 5.9.0 / Zashi]()
++ ECC Core Update - [zcashd 5.9.0 / Zashi](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#1-ecc-update---zcashd-590--zashi)
 
-+ Zebra Update - [ Zebra 1.6.1 / Organisation DAGs]() 
++ Zebra Update - [Zebra 1.6.1 / Organisation DAGs](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#2-zebra-update---zebra-161--organisation-dags) 
 
-+ Research & Implementation Update - [ FROST demo phase 2]() / [Zcash Sustainability Fund]() / [Zcash Sustainability Fund cont.]()
++ Research & Implementation Update - [FROST demo phase 2](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#3-research--implementation-updates-i-frost-demo-phase-2) / [Zcash Sustainability Fund](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#3-research--implementation-updates-ii-zcash-sustainability-fund) / [Zcash Sustainability Fund cont.](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#3-research--implementation-updates-ii-zcash-sustainability-fund-cont)
 
-+ Open Announcements - [Z|ECC Summit]()
++ Open Announcements - [Z|ECC Summit](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#4-open-announcements-i-zecc-summit)
 
-+ Network Upgrade Planning - [Transient testnets]() / [ZIP process]() / [Zcashd deprecation / NU6 items]() / [ Possible NU7 Items]() / 
++ Network Upgrade Planning - [Transient testnets](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#5-network-upgrade-planning-i-transient-testnets) / [ZIP process]() / [Zcashd deprecation / NU6 items](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#5-network-upgrade-planning-iii-zcashd-deprecation--nu6-items) / [Possible NU7 Items](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2075-Notes.md#5-network-upgrade-planning-iv-possible-nu7-items) 
 
 
 
