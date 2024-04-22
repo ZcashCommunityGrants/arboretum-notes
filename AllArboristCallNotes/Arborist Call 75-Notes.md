@@ -36,7 +36,7 @@ v) Prioritise ZSF at start of next NU6 meeting
 
 
 ___
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=c9LY1Rptt5c&embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F&source_ve_path=MjM4NTE&feature=emb_title)
 
 Moderator: Jack Gavigan
 
