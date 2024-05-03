@@ -9,17 +9,17 @@ Meeting Duration: 1 hour 25 minutes
 
 + Welcome and Meeting Intro
 
-+ Zebra Update - []
++ Zebra Update - [Zebra regtest & zcash script updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#1-zebra-update---zebra-regtest--zcash-script-updates)
 
-+ ECC Core Update - []()
++ ECC Core Update - [Zashi 1.0 Android release / Crate refactoring](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#2-ecc-update---zashi-10-android-release--crate-refactoring)
 
-+ ZF & ECC Zcashd Deprecation - []()
++ [ZF & ECC Zcashd Deprecation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#3-ecc--zf-zcashd-deprecation)
 
-+ Research & Implementation Update - []()
++ Research & Implementation Updates - [Zcash Shielded Assets updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#4-research--implementation-updates-i-zcash-shielded-assets-updates) / [FROST Demo Phase 3](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#4-research--implementation-updates-ii-frost-demo-phase-3) / [Trailing Finality Layer](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#4-research--implementation-updates-iii-trailing-finality-layer)
 
-+ Open Announcements - []()
++ Open Announcements - [ZKProof6 + ZconV](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#5-open-announcements-i-zkproof6--zconv)
 
-+ Open Discussion - []() / []() / []()
++ Open Discussion - [ZSF](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#6-open-discussion-i-zsf) / [Zcash Memo Bundles - Overview]() / [Use Cases](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#6-open-discussion-iii-zcash-memo-bundles---use-cases) / [Use Cases cont.](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#6-open-discussion-iv-zcash-memo-bundles---use-cases-cont) 
 ___
 
 
@@ -325,7 +325,7 @@ Yes, I am busy finishing off my presentation, which is on, I believe, Monday of 
 ___
 
 
-### 5. Open Announcements i) ZKProof6 + ZconV
+### 5. Open Announcements i) ZKProof6 May + ZconV
 
 
 [27:05] - **Jon**
@@ -384,7 +384,7 @@ Yeah, we will need to get a move on on figuring out exactly which things are goi
 ___
 
 
-### 6. Open Discussion ii) Zcash Memo Bundles - Overview
+### 6. Open Discussion i) Zcash Memo Bundles - Overview
 
 
 [32:20] - **Str4d**
@@ -472,7 +472,7 @@ And the transactions themselves, fully shielded transactions, similarly are desi
 ___
 
 
-### 6. Open Discussion iiI) Zcash Memo Bundles - Use Cases
+### 6. Open Discussion iI) Zcash Memo Bundles - Use Cases
 
 
 [42:06] - **Daira Emma**
@@ -568,7 +568,7 @@ But if there are other use cases or other ideas around things that could be done
 ___
 
 
-### 6. Open Discussion iv) Zcash Memo Bundles - Use Cases cont. 
+### 6. Open Discussion iii) Zcash Memo Bundles - Use Cases cont. 
 
 
 [53:50] - **Daira Emma**
@@ -751,7 +751,7 @@ Although we have similar issues with the light client protocol right now. At lea
 
 Well, can't you just put that in a memo, though? 
 
-[01:15:01] - **Str4d**
+[01:15:01] - **Alfredo**
 
 True you could do the indirection I mentioned before to just have a small memo on chain that then references the memo's off chain. So it wouldn't be removing the memo data fully, and it is still that memo data is subject to prunability, which might be desirable in that case of having the key to the off chain stuff disappear later.
 
