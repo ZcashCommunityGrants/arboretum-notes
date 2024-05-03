@@ -384,7 +384,7 @@ Yeah, we will need to get a move on on figuring out exactly which things are goi
 ___
 
 
-### 6. Open Discussion i) Zcash Memo Bundles - Overview
+### 6. Open Discussion ii) Zcash Memo Bundles - Overview
 
 
 [32:20] - **Str4d**
@@ -472,7 +472,7 @@ And the transactions themselves, fully shielded transactions, similarly are desi
 ___
 
 
-### 6. Open Discussion iI) Zcash Memo Bundles - Use Cases
+### 6. Open Discussion iiI) Zcash Memo Bundles - Use Cases
 
 
 [42:06] - **Daira Emma**
@@ -568,7 +568,7 @@ But if there are other use cases or other ideas around things that could be done
 ___
 
 
-### 6. Open Discussion iii) Zcash Memo Bundles - Use Cases cont. 
+### 6. Open Discussion iv) Zcash Memo Bundles - Use Cases cont. 
 
 
 [53:50] - **Daira Emma**
