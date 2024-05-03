@@ -19,7 +19,7 @@ Meeting Duration: 1 hour 25 minutes
 
 + Open Announcements - [ZKProof6 + ZconV](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#5-open-announcements-i-zkproof6--zconv)
 
-+ Open Discussion - [ZSF](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#6-open-discussion-i-zsf) / [Zcash Memo Bundles - Overview]() / [Use Cases](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#6-open-discussion-iii-zcash-memo-bundles---use-cases) / [Use Cases cont.](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#6-open-discussion-iv-zcash-memo-bundles---use-cases-cont) 
++ Open Discussion - [ZSF](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#6-open-discussion-i-zsf) / [Zcash Memo Bundles - Overview](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#6-open-discussion-i-zcash-memo-bundles---overview) / [Use Cases](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#6-open-discussion-iii-zcash-memo-bundles---use-cases) / [Use Cases cont.](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2076-Notes.md#6-open-discussion-iv-zcash-memo-bundles---use-cases-cont) 
 ___
 
 
