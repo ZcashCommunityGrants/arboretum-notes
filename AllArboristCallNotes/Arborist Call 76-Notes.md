@@ -325,7 +325,7 @@ Yes, I am busy finishing off my presentation, which is on, I believe, Monday of 
 ___
 
 
-### 5. Open Announcements i) ZKProof6 May + ZconV
+### 5. Open Announcements i) ZKProof6 + ZconV
 
 
 [27:05] - **Jon**
