@@ -25,7 +25,7 @@ Meeting Duration: 35 minutes
 
 ## Decision & Action Items
 
-i)  ECC review of librustzcash/pull/1400
+i)  ECC review of [librustzcash/pull/1400](https://github.com/zcash/librustzcash/pull/1400)
 
 
 ___
