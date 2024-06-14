@@ -9,17 +9,17 @@ Meeting Duration: 1 hour 30 minutes
 
 + Welcome and Meeting Intro
 
-+ ECC Core Update - [ZIP-320 / Arti support / ZIP-317 fees]()
++ ECC Core Update - [ZIP-320 / Arti support / ZIP-317 fees](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2079-Notes.md#1-ecc-update---zip-320--arti-support--zip-317-fees)
 
-+ Zebra Update - [Zebra Scanning / Zcash Script]()
++ Zebra Update - [Zebra Scanning / Zcash Script](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2079-Notes.md#2-zebra-update---zebra-scanning--zcash-script)
 
-+ [ECC & ZF Zcashd Deprecation]()
++ [ECC & ZF Zcashd Deprecation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2079-Notes.md#3-ecc--zf-zcashd-deprecation)
 
-+ Research & Implementation Updates - [FROST refresh shares / Multisig & Dev Fund options]()
++ Research & Implementation Updates - [FROST refresh shares / Multisig & Dev Fund options](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2079-Notes.md#4-research--implementation-updates-i-frost-refresh-shares--multisig--dev-fund-options)
 
-+ Open Announcements - [NU6 Specification]()
++ Open Announcements - [NU6 Specification](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2079-Notes.md#5-open-announcements-i-nu6-specification)
 
-+ Open Discussion - [Dev Fund Proposals - Design Space]() / [Dev Fund Proposals / ZIP proposers guidance]()
++ Open Discussion - [Dev Fund Proposals - Design Space](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2079-Notes.md#6-open-discussion-i-dev-fund-proposals) / [Dev Fund Proposals / ZIP proposers guidance](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2079-Notes.md#6-open-discussion-ii-dev-fund-proposals--zip-proposers-guidance)
 
 
 
