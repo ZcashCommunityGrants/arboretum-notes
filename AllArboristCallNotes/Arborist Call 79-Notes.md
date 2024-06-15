@@ -32,7 +32,7 @@ ii) Create documentation for miners ZIP-317 submitrawtransaction
 
 ___
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=laDMlsgO-Z0)
 
 Moderator: Jack Gavigan
 
