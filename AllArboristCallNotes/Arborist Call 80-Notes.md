@@ -29,7 +29,7 @@ i)  Conversation around ZSF ZIP timeline & zcashd implementation in R&D discord.
 
 ___
 
-Video of the meeting: [recorded]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=KtVvt3lis6o)
 
 Moderator: Jack Gavigan
 
