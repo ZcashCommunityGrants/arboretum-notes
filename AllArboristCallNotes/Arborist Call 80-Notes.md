@@ -46,7 +46,7 @@ ___
 ### 1. Zebra Update - Zcash Script / Zebra 1.8.0 
 
 [00:02:46.17] - **Marek**
-In the last two weeks, we released a new version of Zcash script. It's a new miner version, and it doesn't depend on the Rust dependencies from zcashd anymore. We're using it in Zebra, and we don't have to depend or keep the librustzcash dependencies in Zebra synchronized with zcashd anymore, thanks to this.
+In the last two weeks, we released a new version of Zcash script. It's a new minor version, and it doesn't depend on the Rust dependencies from zcashd anymore. We're using it in Zebra, and we don't have to depend or keep the librustzcash dependencies in Zebra synchronized with zcashd anymore, thanks to this.
 
 [00:03:31.14] 
 
@@ -128,7 +128,7 @@ And can anybody on the ZF side provide an update on the Zebra scanner separation
 
 [00:14:49.14] - **Arya**
 
-Alfredo is working on moving the test, Zebra scan is mostly separated at this point into its own binary and we've begun working on the indexer RPCs to support the replacement wallet on ZF side.
+Alfredo is working on moving the tests, Zebra scan is mostly separated at this point into its own binary and we've begun working on the indexer RPCs to support the replacement wallet on ZF side.
 
 
 ____
@@ -141,7 +141,7 @@ These past two weeks, I think the main thing is that we released the [2.0.0 -rc0
 
 [00:15:55.01] 
 
-It support no std, so if you need frost in some embedded environment or something like that, you can do that. Just one server suite that does not support, which is ed448 and another small API changes, adjustments that since we're going to do a break-in release we might as well do those cleanups.
+It support no std, so if you need frost in some embedded environment or something like that, you can do that. Just one cypher suite that does not support, which is ed448 and another small API changes, adjustments that since we're going to do a break-in release we might as well do those cleanups.
 
 [00:16:20.04] 
 
