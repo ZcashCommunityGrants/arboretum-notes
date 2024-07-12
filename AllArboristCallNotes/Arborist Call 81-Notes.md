@@ -9,13 +9,15 @@ Meeting Duration: 35 minutes
 
 + Welcome and Meeting Intro
 
-+ ECC Core Update - [ZIP-320 support]()
++ ECC Core Update - [ZIP-320 support](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2081-Notes.md#1-ecc-update---zip-320-support)
 
-+ Zebra Update - [Zebra 1.8.0]() 
++ Zebra Update - [Zebra 1.8.0](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2081-Notes.md#2-zebra-update---zebra-181) 
 
-+ Research & Implementation Update - [Trailing Finality]() [FROST Refresh Shares]() 
++ [ZF + ECC zcashd deprecation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2081-Notes.md#3-zf--ecc-zcashd-deprecation)
 
-+ Open Announcements - [BOLT & TZE's]() / [Z|ECC Summit updates]()
++ Research & Implementation Update -[FROST Refresh Shares](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2081-Notes.md#4-research--implementation-updates-i-frost) /  [Trailing Finality](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2081-Notes.md#4-research--implementation-updates-ii-trailing-finality) 
+
++ Open Announcements - [BOLT & TZE's](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2081-Notes.md#5-open-discussion-i-bolt--tzes) / [Z|ECC Summit updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2081-Notes.md#5-open-discussion-ii-zecc-updates)
 
 
 
