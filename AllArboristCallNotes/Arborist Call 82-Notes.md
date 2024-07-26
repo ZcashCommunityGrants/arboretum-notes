@@ -1,4 +1,4 @@
-# Arborist Call #82 Notes
+# Arborist Call #75 Notes
 
 Meeting Date/Time: July 25th 2024, 21:00 UTC
 
@@ -9,15 +9,17 @@ Meeting Duration: 1 hour 40 minutes
 
 + Welcome and Meeting Intro
 
-+ [ECC & ZF NU6 Update]()
++ [ECC & ZF NU6 Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2082-Notes.md#1-ecc--zf-nu6-update)
 
-+ Zebra Update - []()
++ Zebra Update - [Zebra Updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2082-Notes.md#2-zebra-update---zebra-updates)
 
-+ ECC Core Update - []()
++ ECC Core Update - [ZIP 320 / zcashd 5.10](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2082-Notes.md#3-ecc-update---zip-320--zcashd-510)
 
-+ Research & Implementation Update - []() / []() / []() / []()
++ [ECC & ZF zcashd deprecation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2082-Notes.md#4-ecc--zf-zcashd-deprecation)
 
-+ Open Announcements - []() / []()
++ Research & Implementation Update - [Zcash Shielded Assets Updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2082-Notes.md#5-research--implementation-updates-ii-zcash-shielded-assets-asset-swaps) / [Zcash Shielded Assets Asset Swaps](ZCG Coordination with Node Implementors) [FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2082-Notes.md#5-research--implementation-updates-ii-frost-update) / 
+
++ Open Announcements - [Trailing Finality](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2082-Notes.md#6-open-annoucements-i---trailing-finality) / [ZCG Coordination with Node Implementers](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2082-Notes.md#6-open-annoucements-ii---zcg-coordination-with-node-implementors)
 
 
 ## Decision & Action Items
@@ -274,7 +276,7 @@ We will need to just figure out what happens. How would the trademark is handled
 
 ____
 
-### 2. Zebra Update - Zebra Updates
+### 2. Zebra Update - Zebra 
 
 [00:25:01.22] - **Alfredo**
 
@@ -1042,4 +1044,6 @@ ____
 
 ___
 ___
+
+
 
