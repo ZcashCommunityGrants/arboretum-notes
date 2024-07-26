@@ -1,6 +1,6 @@
-# Arborist Call #75 Notes
+# Arborist Call #82 Notes
 
-Meeting Date/Time: July 25th 2024, 21:00 UTC
+Meeting Date/Time: July 25th 2024, 15:00 UTC
 
 Meeting Duration: 1 hour 40 minutes
 
