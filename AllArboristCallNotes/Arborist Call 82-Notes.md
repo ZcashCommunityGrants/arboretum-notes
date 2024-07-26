@@ -274,7 +274,7 @@ We will need to just figure out what happens. How would the trademark is handled
 
 ____
 
-### 2. Zebra Update - Zebra 
+### 2. Zebra Update - Zebra Updates
 
 [00:25:01.22] - **Alfredo**
 
