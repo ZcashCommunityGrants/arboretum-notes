@@ -27,7 +27,7 @@ Meeting Duration: 1 hour
 ## Decision & Action Items
 
 i)  After NU6 activation Arborist call on ZSA fee structure
-
+ii) Specify best way to generate a FROST Zcash wallet
 
 ___
 Video of the meeting: [recorded]
