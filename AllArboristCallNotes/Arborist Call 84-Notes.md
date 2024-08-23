@@ -9,17 +9,17 @@ Meeting Duration: 1 hour 37 minutes
 
 + Welcome and Meeting Intro
 
-+ ECC Core Update - [zcash 5.10.0 -rc1]() 
++ ECC Core Update - [zcash 5.10.0 -rc1](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#1-ecc-update---zcash-5100--rc1) 
 
-+ NU6 - [Testnet Activation]()
++ NU6 - [Testnet Activation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#2-nu6-testnet-activation)
 
-+ Zebra Update - [Zebra 1.9 / NU6 testnet]() 
++ Zebra Update - [Zebra 1.9 / NU6 testnet](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#3-zebra-update---zebra-19--nu6-testnet) 
 
-+ Research & Implementation Updates - [FROST update]() / [ZSF update]() / [ZSA update]() / [Crosslink v1]()
++ Research & Implementation Updates - [FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#3-research--implementation-updates-i-zcash-sustainability-fund) / [ZSF update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#3-research--implementation-updates-ii-zcash-shielded-assets) / [ZSA update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#3-research--implementation-updates-iii-frost) / [Crosslink v1](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#3-research--implementation-updates-iv-crosslink-v1)
 
-+ Open Announcements - [Shielded Labs Hiring]() / [Midnight Halo2 Recursion]()
++ Open Announcements - [Shielded Labs Hiring](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#3-research--implementation-updates-iv-crosslink-v1) / [Midnight Halo2 Recursion](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#4-open-announcements-ii-midnight-halo2-recursion)
 
-+ Open Discussion - [Crosslink v1 Security]()
++ Open Discussion - [Crosslink v1 Security](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#5-open-discussion---crosslink-v1-security)
 
 
 
@@ -312,7 +312,7 @@ Anything that I can contribute to make this happen smoother or get stuff off you
 ___
 
 
-### 3. Research & Implementation Updates i) Zcash Sustainability Fund
+### 4. Research & Implementation Updates i) Zcash Sustainability Fund
 
 
 [00:32:53.10] - **Tomek**
@@ -375,7 +375,7 @@ I could upload our current Zebra code, which I think is mostly complete. In case
 ___
 
 
-### 3. Research & Implementation Updates ii) Zcash Shielded Assets
+### 4. Research & Implementation Updates ii) Zcash Shielded Assets
 
 
 
@@ -421,7 +421,7 @@ To sum up, our main focus right now is tying up the loose ends and Zebra and lib
 
 ____
 
-### 3. Research & Implementation Updates iii) FROST
+### 4. Research & Implementation Updates iii) FROST
 
 [00:43:44.04] - **Conrado**
 
@@ -482,7 +482,7 @@ Yeah, I think so.
 
 ____
 
-### 3. Research & Implementation Updates iv) Crosslink v1
+### 4. Research & Implementation Updates iv) Crosslink v1
 
 [00:50:39.29] - **Zooko**
 
@@ -637,7 +637,7 @@ So it's very, very nice to write papers about. And I think maybe some of it bein
 ___
 
 
-### 4. Open Announcements i) Shielded Labs Hiring 
+### 5. Open Announcements i) Shielded Labs Hiring 
 
 [01:04:30.07] - **Jason McGee**
 
@@ -646,7 +646,7 @@ So we're looking to hire a couple mid-level Rust developers to work on Crosslink
 ___
 
 
-### 4. Open Announcements ii) Midnight Halo2 Recursion 
+### 5. Open Announcements ii) Midnight Halo2 Recursion 
 
 [01:10:41.02] - **Josh Swihart**
 
@@ -659,7 +659,7 @@ He's claiming that they'll be done by Q4 this year, and then they'll go into aud
 
 ___
 
-### 5 Open Discussion - Crosslink v1 Security 
+### 6 Open Discussion - Crosslink v1 Security 
 
 [01:11:47.13] - **Jon**
 
