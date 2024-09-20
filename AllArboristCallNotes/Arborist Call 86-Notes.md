@@ -553,7 +553,7 @@ I just wanted to say, use cases, ideally, we're going to handle all use cases, b
 
 [01:02:33.40] - **Daira Emma**
 
-I agree completely. We should consider migration towards DEX's. For the extreme a strange case, which is actually the blocker to deprecating zcashd, because DEXs are not a blocker to deprecating zcashd, for those, we can try and persuade them to use shielded addresses or deposits because then you can obviously scan just using one incoming viewing key, an arbitrary number of addresses. That would potentially solve their performance problem. But I'm not optimistic about the chances of persuading them to do that.
+I agree completely. We should consider migration towards DEX's. For the centralised exchange case, which is actually the blocker to deprecating zcashd, because DEXs are not a blocker to deprecating zcashd, for those, we can try and persuade them to use shielded addresses or deposits because then you can obviously scan just using one incoming viewing key, an arbitrary number of addresses. That would potentially solve their performance problem. But I'm not optimistic about the chances of persuading them to do that.
 
 [01:03:30.48] - **Za**
 
