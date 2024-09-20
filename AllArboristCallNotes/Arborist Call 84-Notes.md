@@ -17,7 +17,7 @@ Meeting Duration: 1 hour 37 minutes
 
 + Research & Implementation Updates - [ZSF update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#4-research--implementation-updates-i-zcash-sustainability-fund) / [FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#4-research--implementation-updates-iii-frost) / [Crosslink v1](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#4-research--implementation-updates-iv-crosslink-v1)
 
-+ Open Announcements - [Shielded Labs Hiring](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#3-research--implementation-updates-iv-crosslink-v1) / [Midnight Halo2 Recursion](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#4-open-announcements-ii-midnight-halo2-recursion)
++ Open Announcements - [Shielded Labs Hiring](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#3-research--implementation-updates-iv-crosslink-v1) / [Midnight Halo2 Recursion](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#5-open-announcements-ii-midnight-halo2-recursion)
 
 + Open Discussion - [Crosslink v1 Security](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2084-Notes.md#5-open-discussion---crosslink-v1-security)
 
