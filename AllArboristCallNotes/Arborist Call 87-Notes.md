@@ -30,7 +30,7 @@ i) Hold testnet bug retrospective
 
 ___
 
-Video of the meeting: [https://www.youtube.com/watch?v=0lRFmXxuRq4]
+Video of the meeting: [recording](https://www.youtube.com/watch?v=0lRFmXxuRq4)
 
 Moderator: Jack Gavigan
 
