@@ -9,17 +9,17 @@ Meeting Duration: 1 hour 30 minutes
 
 + Welcome and Meeting Intro
 
-+ [NU6 Testnet]()
++ [NU6 Testnet](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2087-Notes.md#1-nu6-testnet)
 
-+ ECC Core Update - []() 
++ ECC Core Update - [Sean Bowe leaves ECC / Zashi / Note Commitment Tree bug](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2087-Notes.md#2-ecc-update---sean-bowe-leaves-ecc--zashi--note-commitment-tree-bug) 
 
-+ Zebra Update - []() 
++ Zebra Update - [Zebra 2.0.0](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2087-Notes.md#3-zebra-update---zebra-200) 
 
-+ [ECC & ZF zcashd deprecation]()
++ [ECC & ZF zcashd deprecation - New API's](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2087-Notes.md#4-zcashd-deprecation---new-apis)
 
-+ Research & Implementation Updates - [Trailing Finality Layer update]()
++ Research & Implementation Updates - [Trailing Finality Layer update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2087-Notes.md#5-research--implementation-updates-i-trailing-finality-layer)
 
-+ Open Discussion - [NU6 Testnet Mining]() / [Testnet Bug Explained]()
++ Open Discussion - [NU6 Testnet Mining](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2087-Notes.md#6-open-discussion-i-nu6-tesnet-mining) / [Testnet Bug Explained](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2087-Notes.md#5-open-discussion-ii---testnet-bug-explained)
 
 
 
