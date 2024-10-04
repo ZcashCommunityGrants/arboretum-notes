@@ -19,7 +19,7 @@ Meeting Duration: 1 hour 30 minutes
 
 + Research & Implementation Updates - [Trailing Finality Layer update]()
 
-+ Open Discussion - [New API's cont.]() / [Testnet Bug Explained]()
++ Open Discussion - [NU6 Testnet Mining]() / [Testnet Bug Explained]()
 
 
 
@@ -729,7 +729,7 @@ The other is that at the next arborist call two weeks from now, we will present 
 ___
 
 
-### 6. Open Discussion i) New API's cont.
+### 6. Open Discussion i) NU6 Tesnet mining
 
 
 [01:08:03.44] - **Daira Emma**
