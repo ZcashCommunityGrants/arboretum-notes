@@ -5,21 +5,17 @@ Meeting Date/Time: October 17th 2024, 15:00 UTC
 Meeting Duration: 1 hour 30 minutes
 
 
-**Agenda**: 
-
 + Welcome and Meeting Intro
 
-+ [NU6 Update]()
++ [NU6 Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2088-Notes.md#1-nu6-update)
 
-+ Zebra Update - [Zebra 2.0 / Security Audit]() 
++ Zebra Update - [Zebra 2.0 / Security Audit](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2088-Notes.md#2-zebra-update---zebra-20--security-audit) 
 
-+ ECC Core Update - [PCZT / Zashi delay]() 
++ ECC Core Update - [PCZT / Zashi delay](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2088-Notes.md#3-ecc-update---pczt--zashi-delay) 
 
-+ [zcashd deprecation]()
++ [zcashd deprecation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2088-Notes.md#3-zcashd-deprecation)
 
-+ Research & Implementation Updates - [Zcash Shielded Assets]() / [FROST 2.0]() / [Zcash Sustainability Fund]() / [Trailing Finality/Crosslink Security]() / [PoW/PoS Economic Design]()
-
-+ Open Discussion - [ZCG processes]() 
++ Research & Implementation Updates - [Zcash Shielded Assets](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2088-Notes.md#4-research--implementation-updates-i-zcash-shielded-assets) / [FROST 2.0](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2088-Notes.md#4-research--implementation-updates-ii-frost) / [Zcash Sustainability Fund](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2088-Notes.md#4-research--implementation-updates-iii-zsf--network-sustainability-mechanism) / [Trailing Finality/Crosslink Security](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2088-Notes.md#4-research--implementation-updates-iv-trailing-finality--crosslink-security) / [PoW/PoS Economic Design](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2088-Notes.md#4-research--implementation-updates-v-powpos-economic-design)
 
 
 
