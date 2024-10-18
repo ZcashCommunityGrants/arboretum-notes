@@ -58,7 +58,7 @@ We have a [release candidate for Zebra 2.0](https://github.com/ZcashFoundation/z
 
 ____
 
-### 2. Zebra Update - Zebra 2.0 
+### 2. Zebra Update - Zebra 2.0 / Security Audit
 
 [00:03:26.47] - **Marek**
 
