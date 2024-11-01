@@ -9,19 +9,19 @@ Meeting Duration: 1 hour 30 minutes
 
 + Welcome and Meeting Intro
 
-+ [NU6]()
++ [NU6](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2089-Notes.md#1-ecc--zf---nu6)
 
-+ ECC Core Update - [PCZT's / Zallet]() 
++ ECC Core Update - [PCZT's / Zallet](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2089-Notes.md#3-ecc-updates---pczts--zallet) 
 
-+ Zebra Update - [Zebra 2.0.1]() 
++ Zebra Update - [Zebra 2.0.1](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2089-Notes.md#4-zcashd-depreaction) 
 
-+ [ECC & ZF zcashd deprecation]()
++ [ECC & ZF zcashd deprecation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2089-Notes.md#5-research--implementation-updates-i-zcash-shielded-assets)
 
-+ Research & Implementation Updates -  [ZSA update]() / [FROST update]() / [NSM update]() // [Crosslink update]()
++ Research & Implementation Updates -  [ZSA update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2089-Notes.md#5-research--implementation-updates-ii-frost) / [FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2089-Notes.md#5-research--implementation-updates-ii-frost) / [NSM update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2089-Notes.md#3-research--implementation-updates-iii-network-sustainability-mechanism--emmision--fees) // [Crosslink update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2089-Notes.md#3-research--implementation-updates-iv-crosslink-first-deployment)
 
-+ Open Announcements - [NSM Twitter Spaces / Wallet Developers NU6 updates]()
++ Open Announcements - [NSM Twitter Spaces / Wallet Developers NU6 updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2089-Notes.md#4-open-announcements-i-nsm-twitter-spaces--wallet-developers-nu6-updates)
 
-+ Open Discussion - [NU7 Draft ZIPs]()
++ Open Discussion - [NU7 Draft ZIPs](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2089-Notes.md#5-open-discussion---nu7-draft-zips)
 
 
 
@@ -34,7 +34,7 @@ ii) Write possible description of emissions under NSM Daira Emma + Str4d
 
 ___
 
-Video of the meeting: [recorded]()
+Video of the meeting: [recorded](https://www.youtube.com/watch?v=aNXZ9ctjW-w&feature=youtu.be)
 
 Moderator: Decentralistdan
 
