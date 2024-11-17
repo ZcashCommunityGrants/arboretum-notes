@@ -7,17 +7,17 @@ Meeting Duration: 1 hour
 
 **Agenda**: 
 
-+ Welcome and Meeting Intro - NU6 Watchparty
++ Welcome and Meeting Intro - [NU6 Watchparty](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2090-Notes.md#1-welcome-and-intro---nu6-watchparty)
 
-+ Zebra Update - [Zebra Updates]() 
++ Zebra Update - [Zebra Updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2090-Notes.md#2-zebra-update) 
 
-+ ECC Core Update - [NU7 ZIPs / Note Management]() 
++ ECC Core Update - [NU7 ZIPs / Note Management](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2090-Notes.md#5-research--implementation-updates-i-network-sustainability-mechanism) 
 
-+ [ECC & ZF zcashd deprecation]()
++ [ECC & ZF zcashd deprecation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2090-Notes.md#4-zcashd-deprecation)
 
-+ Research & Implementation Updates - [Network Sustainability Mechanism]() / [Trailing Finality]() / [FROST]() / [Zcash Shielded Assets]()
++ Research & Implementation Updates - [Network Sustainability Mechanism](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2090-Notes.md#5-research--implementation-updates-i-network-sustainability-mechanism) / [Trailing Finality](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2090-Notes.md#5-research--implementation-updates-ii-trailing-finality) / [FROST](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2090-Notes.md#5-research--implementation-updates-iii-frost) / [Zcash Shielded Assets](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2090-Notes.md#5-research--implementation-updates-iv-zcash-shielded-assets)
 
-+ Open Announcements - [ZCG Coin Holder Voting Proposal / Zaino RPC interface]()
++ Open Announcements - [ZCG Coin Holder Voting Proposal / Zaino RPC interface](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2090-Notes.md#6-open-announcements-i-zcg-coin-holder-voting-proposal--zaino-rpc-interface)
 
 
 ___
