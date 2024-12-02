@@ -9,11 +9,9 @@ Meeting Duration: 30 minutes
 
 + Welcome and Meeting Intro
 
-+ [Zebra Update]()
++ [Zebra Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2091-Notes.md#1-zebra-update)
 
-+ [ECC & ZF zcashd deprecation]()
-
-+ Research & Implementation Updates - [Crosslink update]() / [FROST update]() / [NSM Shielded Labs update]() / [NSM Discussion]()
++ Research & Implementation Updates - [Crosslink update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2091-Notes.md#2-research--implementation-updates-i-crosslink-update) / [FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2091-Notes.md#2-research--implementation-updates-ii-frost) / [NSM Shielded Labs update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2091-Notes.md#2-research--implementation-updates-iii-nsm-shielded-labs-updates) / [NSM Discussion](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2091-Notes.md#2-research--implementation-updates-iv-nsm-discussion)
 
 
 ___
