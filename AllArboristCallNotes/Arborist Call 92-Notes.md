@@ -11,17 +11,17 @@ Meeting Duration: 2 hours
 
 + [NU6]()
 
-+ [ECC Update]()
++ ECC Update - [PCZTs](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#2-ecc-update---pczts)
 
-+ [Zebra Update]()
++ Zebra Update - [2.0.0 NU6 bug / Zebra 2.1.0 ](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#3-zebra-update---200-nu6-bug--zebra-210)
 
-+ [ECC & ZF zcashd deprecation]()
++ [ECC & ZF zcashd deprecation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#4-zcashd-deprecation)
 
-+ Research & Implementation Updates - [FROST update]() / [Crosslink Update]() / [NSM Shielded Labs update]() / [NSM Discussion]() / [ZSA update]()
++ Research & Implementation Updates - [FROST update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#5-research--implementation-updates-i-frost) / [Crosslink Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#5-research--implementation-updates-ii-crosslink-update) / [NSM Shielded Labs update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#5-research--implementation-updates-iii-nsm-shielded-labs-updates) / [NSM Discussion](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#5-research--implementation-updates-iv-nsm-discussion) / [ZSA update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#5-research--implementation-updates-v-zsa-update)
 
-+ Open Annoucements - [Zcash Dev Summit / ZK Proof & RWC Events]() / [zec sqlite wallet]()
++ Open Annoucements - [Zcash Dev Summit / ZK Proof & RWC Events](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#6-open-announcements---zcash-dev-summit--zk-proof--rwc-events) / [zec sqlite wallet](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#6-open-announcements-ii---zec-sqlite-wallet)
 
-+ Open Discussion - [NU7 ZIPs]
++ Open Discussion - [NU7 ZIPs](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md#7-open-discussion---nu7-zips)
 
 
 ### Decisions and Action items
