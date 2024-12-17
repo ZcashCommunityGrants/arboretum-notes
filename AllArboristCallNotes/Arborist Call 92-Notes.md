@@ -26,7 +26,7 @@ Meeting Duration: 2 hours
 
 ### Decisions and Action items
 
-i) Helios poll initial draft to the forum for the community to provide feedback? - Dodger
+i) Helios poll initial draft to the forum for the community to provide feedback - Dodger
 
 
 
