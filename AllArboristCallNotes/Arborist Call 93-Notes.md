@@ -13,15 +13,15 @@ Meeting Duration: 1 hour
 
 + ECC Core Update - [zcashd 6.1.0 / 6.2.0](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md#2-ecc-update---zcashd-610--620) 
 
-+ ECC & ZF zcashd deprecation - [Outreach / Zaino regtest errors]()
++ ECC & ZF zcashd deprecation - [Outreach / Zaino regtest errors](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md#3-zcashd-deprecation-updates---outreach--zaino-regtest-errors)
 
-+ Research & Implementation Updates - [FROST DKG + Planned Audit]() / []() / []() / []()
++ Research & Implementation Updates - [FROST DKG + Planned Audit](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md#4-research--implementation-updates-i-frost-dkg--planned-audit) / [](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md#4-research--implementation-updates-ii-trailing-finality--crosslink) / [Trailing Finality / Crosslink](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md#4-research--implementation-updates-ii-trailing-finality--crosslink) / [Network Sustainability Mechanism - ZIP 233 'Burn' / ZIP 234 Issuance Smoothin](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md#4-research--implementation-updates-iii-network-sustainability-mechanism---zip-233-burn--zip-234-issuance-smoothing) / [Zcash Shielded Assets](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md#4-research--implementation-updates-iv-zcash-shielded-assets) / [NU7](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md#4-research--implementation-updates-v-nu7)
 
-+ Open Announcements - [ZIP editors Meetings / ZconVI RFP submission]()
++ Open Announcements - [ZIP editors Meetings / ZconVI RFP submission](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md#5-open-announcements-i-zip-editors-meetings--zconvi-rfp-submission)
 
 ___
 
-Video of the meeting: [recorded]
+Video of the meeting: [recorded](https://www.youtube.com/watch?v=BG8C1Rf4jXg)
 
 Moderator: Pili Guerra
 
