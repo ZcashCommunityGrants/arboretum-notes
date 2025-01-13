@@ -13,7 +13,7 @@ Meeting Duration: 1 hour
 
 + ECC Core Update - [zcashd 6.1.0 / 6.2.0](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md#2-ecc-update---zcashd-610--620) 
 
-+ ECC & ZF zcashd deprecation[]()
++ ECC & ZF zcashd deprecation - [Outreach / Zaino regtest errors]()
 
 + Research & Implementation Updates - [FROST DKG + Planned Audit]() / []() / []() / []()
 
