@@ -38,7 +38,7 @@ ___
 
 
 
-### 1. Zebra Update -  
+### 1. Zebra Update 
 
 
 [00:01:54.20] - **Marek**
