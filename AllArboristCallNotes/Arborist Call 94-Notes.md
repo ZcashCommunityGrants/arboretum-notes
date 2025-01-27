@@ -9,24 +9,24 @@ Meeting Duration: 1 hour 40 minutes
 
 + Welcome and Meeting Intro
 
-+ ECC Update - [Z|ECC Summit]()
++ ECC Update - [Z|ECC Summit](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2094-Notes.md#1-ecc-update---zecc-summit)
 
-+ [Zebra Update]() 
++ [Zebra Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2094-Notes.md#2-zebra-update) 
 
-+ ECC & ZF zcashd deprecation - [Ecosystem Patners / Zaino / Zallet Progress]()
++ ECC & ZF zcashd deprecation - [Ecosystem Patners / Zaino / Zallet Progress](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2094-Notes.md#3-zcashd-deprecation-update---ecosystem-patners--zaino--zallet-progress)
 
-+ Research & Implementation Updates - [ZSA Integration ZIP editors meeting]() / [FROST Demo PCZTs & Community Call]() / [NSM updates]() / [NU7 Timeline changes]() 
++ Research & Implementation Updates - [ZSA Integration ZIP editors meeting](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2094-Notes.md#3-research--implementation-updates-i-zsa-integration-zip-editors-meeting) / [FROST Demo PCZTs & Community Call](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2094-Notes.md#3-research--implementation-updates-ii-trailing-finality-layer) / [NSM updates](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2094-Notes.md#3-research--implementation-updates-iv-nsm-updates) / [NU7 Timeline changes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2094-Notes.md#3-research--implementation-updates-v-nu7-timeline-changes) 
 
-+ Open Announcements - [Pop Up City Movement / Zcash Dev Summit / Z|ECC Prague ]()
++ Open Announcements - [Pop Up City Movement / Zcash Dev Summit / Z|ECC Prague ](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2094-Notes.md#4-open-announcements-i-pop-up-city-movement--zcash-dev-summit--zecc-prague)
 
-+ Open Discussion - [Sprout Pool Deprecation]()
++ Open Discussion - [Sprout Pool Deprecation](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2094-Notes.md#5-open-discussion---sprout-pool-deprecation)
 
 
 
 
 ___
 
-Video of the meeting: [recorded]
+Video of the meeting: [recorded](https://www.youtube.com/watch?v=hKRk9O2Rki0)
 
 Moderator: Jack Gavigan 
 
