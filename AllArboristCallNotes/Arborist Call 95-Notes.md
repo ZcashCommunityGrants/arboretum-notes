@@ -9,20 +9,21 @@ Meeting Duration: 50 minutes
 
 + Welcome and Meeting Intro
 
-+ Zebra Update - [Zebra 2.2.0]() 
++ Zebra Update - [Zebra 2.2.0](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2095-Notes.md#1-zebra-update---zebra-220) 
 
-+ ECC Core Update - [Transparent Script / Zallet development]() 
++ ECC Core Update - [Transparent Script / Zallet development](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2095-Notes.md#2-ecc-update---transparent-script--zallet-development) 
 
-+ zcashd deprecation[Zaino update]()
++ zcashd deprecation[Zaino update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2095-Notes.md#3-zcashd-deprecation---zaino-update)
 
-+ Research & Implementation Updates - [Zcash Shielded Assets]() / [NSM update]() / [Trailing Finality/Crosslink]() / [FROST client tool & server]()
++ Research & Implementation Updates - [Zcash Shielded Assets](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2095-Notes.md#4-research--implementation-updates-i-zcash-shielded-assets) / [NSM update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2095-Notes.md#4-research--implementation-updates-ii-nsm-update) / [Trailing Finality/Crosslink](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2095-Notes.md#4-research--implementation-updates-iii-trailing-finality--crosslink) / [FROST client tool & server](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2095-Notes.md#4-research--implementation-updates-iv-frost-client-tool--server)
 
-+ Open Announcements - [ZconVI Registrations / Zcash Dev Summit / Zcash Server Workshop & Hosh tool]()
++ Open Announcements - [ZconVI Registrations / Zcash Dev Summit / Zcash Server Workshop & Hosh tool](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2095-Notes.md#5-open-announcements-i-zconvi-registrations--zcash-dev-summit--zcash-server-workshop--hosh-tool)
 
-+ Open Discussion - [Google Advanced Protection Program ]()
++ Open Discussion - [Google Advanced Protection Program ](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2095-Notes.md#6-open-discussion---google-advanced-protection-program)
 
+### Decisions and Action items
 
-
+i) Resolve spendability bug issue https://github.com/zcash/librustzcash/issues/1609
 
 ___
 
