@@ -23,6 +23,7 @@ The Zcash Foundation facilitates and records the meetings.
 
  №  | Date                             | Agenda        |Notes           | Recording            |
 --- | -------------------------------- | -------------- |--------------- | -------------------- |
+95 | 06 Feb 2025 | [agenda]() | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2095-Notes.md) \| [Twitter](https://x.com/zksquirrel/status/1889105344556585447)| [video](https://www.youtube.com/watch?v=zgoArHP-1ps)|
 94 | 23 Jan 2025 | [agenda]() | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2094-Notes.md) \| [Twitter](https://x.com/zksquirrel/status/1883938990866456998)| [video](https://www.youtube.com/watch?v=hKRk9O2Rki0)|
 93 | 09 Jan 2025 | [agenda]() | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2093-Notes.md) \| [Twitter](https://x.com/zksquirrel/status/1878871047023546552)| [video](https://www.youtube.com/watch?v=BG8C1Rf4jXg)|
 92 | 12 Dec 2024 | [agenda]() | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2092-Notes.md) \| [Twitter](https://x.com/zksquirrel/status/1869104000236433671)| [video](https://www.youtube.com/watch?v=9x9KSYvmvGc)|
