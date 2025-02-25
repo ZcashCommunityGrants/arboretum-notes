@@ -7,17 +7,17 @@ Meeting Duration: 1 hour 30 minutes
 
 **Agenda**: 
 
-+ Welcome and Meeting Intro - [Calendar Files & Ecosystem Partner Mailing List ]()
++ Welcome and Meeting Intro - [Calendar Files & Ecosystem Partner Mailing List ](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#0-welcome--meeting-intro---calendar-files--ecosystem-partner-mailing-list)
 
-+ Zebra Update - [Zebra RPC's and Banning Misbehaving Peers]() 
++ Zebra Update - [Zebra RPC's and Banning Misbehaving Peers](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#1-zebra-update---zebra-rpcs-and-banning-misbehaving-peers) 
 
-+ ECC Core Update - [librustzcash crates / ZIP 325 account metadata keys]() 
++ ECC Core Update - [librustzcash crates / ZIP 325 account metadata keys](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#2-ecc-update----librustzcash-crates--zip-325-account-metadata-keys) 
 
-+ Research & Implementation Updates - [FROST Audit & Demo]() / [Crosslink / Hiring & Roadmap discussion]() / [NSM Update]() / [ZSA Offchain Metadata]()
++ Research & Implementation Updates - [FROST Audit & Demo](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#3-research--implementation-updates-i-frost-audit--demo) / [Crosslink / Hiring & Roadmap discussion](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#3-research--implementation-updates-ii-crosslink-hiring--roadmap-discussion) / [NSM Update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#3-research--implementation-updates-iii-nsm-update) / [ZSA Offchain Metadata](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#3-research--implementation-updates-iv-zsa-offchain-metadata)
 
-+ Open Announcements - [ZconVI March 4th - 7th]() / [Arborist Calls livestreamed to X]()
++ Open Announcements - [ZconVI March 4th - 7th](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#4-open-announcements-i-zconvi-march-4th---7th) / [Arborist Calls livestreamed to X](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#4-open-announcements-ii-arborist-calls-livestreamed-to-x)
 
-+ Open Discussion - [ZIP 231 Encrypted Memo Bundles]() / [Ecosystem wide feature flags ]()
++ Open Discussion - [ZIP 231 Encrypted Memo Bundles](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#5-open-discussion-i-zip-231-encrypted-memo-bundles) / [Ecosystem wide feature flags ](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#5-open-discussion-ii--ecosystem-wide-feature-flags)
 
 
 
