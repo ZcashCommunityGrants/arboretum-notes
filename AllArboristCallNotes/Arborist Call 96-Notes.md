@@ -28,7 +28,7 @@ i) Write documentation for score system banning misbehaving peers - Alfredo
 
 ii) Comment on unclear sections of ZIP 231 - Alfredo 
 
-
+___
 
 Video of the meeting: [recorded](https://www.youtube.com/watch?v=TmHv3_qhzQo)
 
