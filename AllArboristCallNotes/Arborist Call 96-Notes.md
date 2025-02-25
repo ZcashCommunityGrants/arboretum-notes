@@ -20,9 +20,15 @@ Meeting Duration: 1 hour 30 minutes
 + Open Discussion - [ZIP 231 Encrypted Memo Bundles](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#5-open-discussion-i-zip-231-encrypted-memo-bundles) / [Ecosystem wide feature flags ](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2096-Notes.md#5-open-discussion-ii--ecosystem-wide-feature-flags)
 
 
-
-
 ___
+
+### Decisions and Action items
+
+i) Write documentation for score system banning misbehaving peers - Alfredo
+
+ii) Comment on unclear sections of ZIP 231 - Alfredo 
+
+
 
 Video of the meeting: [recorded](https://www.youtube.com/watch?v=TmHv3_qhzQo)
 
