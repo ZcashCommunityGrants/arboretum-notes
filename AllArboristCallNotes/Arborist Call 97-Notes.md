@@ -9,12 +9,10 @@ Meeting Duration: 1 hour
 
 + Welcome and Meeting Intro - []()
 
-+ Zebra Update - []() 
-
 + ECC Core Update - []() 
 
-+ Research & Implementation Updates - []() / []() / []() / []]()
-
++ Research & Implementation Updates - []() / []()
++ 
 + Open Announcements - []() / []()
 
 + Open Discussion - []() / []()
