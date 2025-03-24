@@ -12,7 +12,7 @@ Meeting Duration: 1 hour
 + ECC Core Update - []() 
 
 + Research & Implementation Updates - []() / []()
-+ 
+
 + Open Announcements - []() / []()
 
 + Open Discussion - []() / []()
