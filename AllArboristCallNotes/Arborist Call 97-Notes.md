@@ -7,15 +7,15 @@ Meeting Duration: 1 hour
 
 **Agenda**: 
 
-+ Welcome and Meeting Intro - []()
++ Welcome and Meeting Intro 
 
-+ ECC Core Update - []() 
++ ECC Core Update - [Zallet, Zaino, ECC Mobile SDK and Crate Releases](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2097-Notes.md#1-research--implementation-updates-i-crosslink-deployment-milestone-1) 
 
-+ Research & Implementation Updates - []() / []()
++ Research & Implementation Updates - [Crosslink Deployment Milestone 1](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2097-Notes.md#2-ecc-update----zallet-zaino-ecc-mobile-sdk-and-crate-releases) / [NSM update](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2097-Notes.md#3-research--implementation-updates-ii-nsm-update)
 
-+ Open Announcements - []() / []()
++ Open Announcements - [Community Notetaker](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2097-Notes.md#4-open-announcements-i-community-notetaker-) / [Zenith FROST Integration Grant Proposal](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2097-Notes.md#4-open-announcements-ii-zenith-frost-integration-grant-proposal)
 
-+ Open Discussion - []() / []()
++ Open Discussion - [ZIP Process improvements](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2097-Notes.md#5-open-discussion-i-zip-process-improvements) / [ZIP Process improvements cont.](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20Call%2097-Notes.md#5-open-discussion-ii-zip-process-improvements-cont)
 
 ___
 
