@@ -17,7 +17,7 @@ Register here: [15:00 UTC](https://zfnd-org.zoom.us/webinar/register/WN_42A2bMIi
 ### Who Manages the Meetings
 The Zcash Foundation facilitates and records the meetings.
 
-@zksquirrel takes the meetings notes. 
+@ZcashNigeria takes the meetings notes. 
 
 ### Previous Meetings
 
