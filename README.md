@@ -23,6 +23,7 @@ The Zcash Foundation facilitates and records the meetings.
 
  №  | Date                             | Agenda        |Notes           | Recording            |
 --- | -------------------------------- | -------------- |--------------- | -------------------- |
+113 |30 oct  2025 | [agenda]()   | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20call%20113%20-%20notes.md) \| [Twitter](https://x.com/ZcashNigeria/status/1984675881340543172) | [video](https://www.youtube.com/watch?v=8c_6UiciAuU)
 112 |16 oct  2025 | [agenda]()   | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20call%20112%20-%20notes.md) \| [Twitter](https://x.com/ZcashNigeria/status/1979512221085712688) | [video](https://www.youtube.com/watch?v=G6P-k2I-7kU)
 111 |02 oct  2025 | [agenda]()   | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20call%20111%20-%20notes.md) \| [Twitter](https://x.com/ZcashNigeria/status/1974550020608368925) | [video](https://www.youtube.com/watch?v=hq8Vigg3RxQ) 
 110 |18 sept 2025 | [agenda]()   | [notes](https://github.com/ZcashCommunityGrants/arboretum-notes/blob/main/AllArboristCallNotes/Arborist%20call%20110%20-%20notes.md) \| [Twitter](https://x.com/ZcashNigeria/status/1969346067675197839) | [video](https://www.youtube.com/watch?v=2tENS3Sb_jM)
