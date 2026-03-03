@@ -1,6 +1,11 @@
 # arboretum-notes
 Repository of Zcash Arborist Call Notes
 
+## Grant Proposals
+
+This repository is exclusively for Arborist call agendas and notes. To submit grant proposals, please open an issue in the appropriate repository under the ZcashCommunityGrants organization (https://github.com/ZcashCommunityGrants). Do not file grant proposals here.
+
+
 The Zcash Arborist Calls are bi-weekly protocol development meetings focused on tracking upcoming protocol deployment logistics, consensus node implementation issues, and protocol research.
 
 ### Purpose
