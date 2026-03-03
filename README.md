@@ -1,4 +1,14 @@
-# arboretum-notes
+# exchange-shielded-sdk
+
+Open-Source Exchange Shielded Withdrawal SDK for Zcash
+
+This SDK enables cryptocurrency exchanges to easily implement Zcash shielded withdrawal functionality. It includes:
+
+- AddressValidator: Base58Check/Bech32/Bech32m address validation
+- ShieldedTransactionBuilder: high-level transaction construction with ZIP 317 fee support
+- ZcashRpcClient: compatibility with zcashd and zebrad backends
+
+See the documentation and examples in /docs for integration instructions.
 Repository of Zcash Arborist Call Notes
 
 The Zcash Arborist Calls are bi-weekly protocol development meetings focused on tracking upcoming protocol deployment logistics, consensus node implementation issues, and protocol research.
