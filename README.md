@@ -4,6 +4,11 @@ Repository of Zcash Arborist Call Notes
 The Zcash Arborist Calls are bi-weekly protocol development meetings focused on tracking upcoming protocol deployment logistics, consensus node implementation issues, and protocol research.
 
 ### Purpose
+
+### Submitting Grant Proposals
+If you are requesting funding for a Zcash community grant, please use the `Grant Proposal` issue template. Click **New Issue** → **Grant Proposal** to open a structured proposal issue.
+
+---
 The main use of this repository is for the Zcash Arborist bi-weekly meeting. It is setup and modeled after the [Ethereum Project Management Repository](https://github.com/ethereum/pm/) under the guidance and direct advice of it's creator @Souptacular, building on 4+ years of lessons learned [herding cats on ETH](https://www.ethereumcatherders.com/).
 
 ### Agendas
