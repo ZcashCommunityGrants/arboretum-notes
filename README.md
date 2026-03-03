@@ -4,7 +4,7 @@ Repository of Zcash Arborist Call Notes
 The Zcash Arborist Calls are bi-weekly protocol development meetings focused on tracking upcoming protocol deployment logistics, consensus node implementation issues, and protocol research.
 
 ### Purpose
-The main use of this repository is for the Zcash Arborist bi-weekly meeting. It is setup and modeled after the [Ethereum Project Management Repository](https://github.com/ethereum/pm/) under the guidance and direct advice of it's creator @Souptacular, building on 4+ years of lessons learned [herding cats on ETH](https://www.ethereumcatherders.com/).
+The main use of this repository is for the Zcash Arborist bi-weekly meeting. It is setup and modeled after the [Ethereum Project Management Repository](https://github.com/ethereum/pm/) under the guidance and direct advice of its creator @Souptacular, building on 4+ years of lessons learned [herding cats on ETH](https://www.ethereumcatherders.com/).
 
 ### Agendas
 The agendas for the calls are tracked in the Agenda Archive in this repository. To add an item to an agenda, please open an issue in this repository which mentions the topic you want to discuss and links any relevant materials (ZIP's etc.). Then, leave a comment in the agenda where you would like this to be discussed. 
