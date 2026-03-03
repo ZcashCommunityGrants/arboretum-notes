@@ -1,4 +1,8 @@
 # arboretum-notes
+
+## Open Grant Proposals
+- Exchange Shielded Withdrawal SDK by Carson (lamb356): https://github.com/lamb356/exchange-shielded-sdk
+
 Repository of Zcash Arborist Call Notes
 
 The Zcash Arborist Calls are bi-weekly protocol development meetings focused on tracking upcoming protocol deployment logistics, consensus node implementation issues, and protocol research.
