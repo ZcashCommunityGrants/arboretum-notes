@@ -13,7 +13,7 @@ Meeting Duration: XXXX
 
 + ECC Core Update - []() 
 
-+ Research & Implementation Updates - []() / []() / []() / []]()
++ Research & Implementation Updates - []() / []() / []() / []()
 
 + Open Announcements - []() / []()
 
