@@ -11,9 +11,9 @@ Meeting Duration: XXXX
 
 + Zebra Update - []() 
 
-+ ECC Core Update - []() 
++ Zodl Update - []() 
 
-+ Research & Implementation Updates - []() / []() / []() / []]()
++ Research & Implementation Updates - []() / []() / []() / []()
 
 + Open Announcements - []() / []()
 
@@ -56,7 +56,7 @@ ___
 ____
 
 
-### 2. ECC Update -  
+### 2. Zodl Update -  
 
 
 
