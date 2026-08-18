@@ -2,10 +2,7 @@
 
 Meeting Date/Time: XXXXX UTC
 
-Meeting Duration: XXXX
-
-
-**Agenda**: 
+Meeting Duration: XXXX 
 
 + Welcome and Meeting Intro - []()
 
@@ -21,14 +18,6 @@ Meeting Duration: XXXX
 
 ___
 
-### Decisions and Action Items
-
-i)
-
-ii)
-
-
-___
 
 Video of the meeting: [recorded]()
 
@@ -83,19 +72,11 @@ ____
 
 ____
 
-### 3. Research & Implementation Updates iv) 
-
 
 ___
 
 
-### 4. Open Announcements i) 
-
-
-___
-
-
-### 4. Open Announcements iI) 
+### 4. Open Announcements i)
 
 
 
@@ -104,10 +85,6 @@ ___
 
 ### 5 Open Discussion i) 
 
-
-___
-
-### 5 Open Discussion ii) 
 
 
 
